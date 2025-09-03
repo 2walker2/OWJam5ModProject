@@ -1,0 +1,435 @@
+{
+    "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/translation_schema.json",
+    "DialogueDictionary": {
+        
+        //adonsonia_intro
+        "Hello there!": "Salut !",
+        "AAAAHHHH!!!!": "AAAAHHHH !!!!",
+        "WHAT!?!?!??": "QUOI !?!?!??",
+        "Ha! I'm sorry if I frightened you.": "Ah ! Pardon si je vous ai effrayé.",
+        "I wondered why this old project was claiming to have been submitted again after all these years! I'm Adonsonia, one of the students who worked on this project a long time ago.": "Je me demandais pourquoi ce vieux projet semblait avoir été réactivé après toutes ces années ! Je suis Adonsonia, l'une des étudiantes qui ont travaillé sur ce projet il y a longtemps.",
+        "You don't look like a Nomai, but you must be quite clever to have gotten this system into the correct configuration after all of the time it has spent drifting.": "Vous ne semblez pas être un Nomaï, mais vous devez être plutôt intelligent pour avoir réussi à configurer ce système correctement, après tout ce temps passé à dériver dans l'espace.",
+        "Effort like that is certainly worthy of some reward. How about this; I have some free time from all of my teaching duties right now! If you ask me any questions, I'll do my best to answer them.": "De tels efforts méritent certainement une récompense. Que diriez-vous de ceci : j'ai du temps libre entre mes devoirs d'enseignante ! Si vous me posez des questions, je ferai de mon mieux pour y répondre.",
+        
+        //adonsonia_outro
+        "So, was there anything you wanted to ask me about?": "Alors, vouliez-vous me demander quelque chose ?",
+        "How are we able to understand each other?": "Comment arrivons-nous à nous comprendre ?",
+        "What happened to Alnus after the project?": "Qu'est-il arrivé à Alnus après le projet ?",
+        "What happened to Betula after the project?": "Qu'est-il arrivé à Betula après le projet ?",
+        "What happened to Daucus after the project?": "Qu'est-il arrivé à Daucus après le projet ?",
+        "What happened to you after the project?": "Que vous est-il arrivé après le projet ?",
+        "What's the deal with the device back on the invitation platform?": "Que se passe-t-il avec l'appareil sur la plateforme d'accueil ?",
+        "Can I <![CDATA[<color=orange>pretty please</color>]]> know how to activate that device?": "Puis-je <![CDATA[<color=orange>s'il vous plaît</color>]]> savoir comment activer cet appareil ?",
+        "I don't have any more questions for now.": "Je n'ai plus de questions pour le moment.",
+        "That would be due to the universal translator I have on my person. It's able to quickly discern language patterns, allowing us to understand each other with minimal issues. We have Betula to thank for that — it's actually her invention!": "Cela pourrait être grâce au traducteur universel que je porte sur moi. Il est capable de reconnaître rapidement les schémas linguistiques, ce qui nous permet de nous comprendre sans trop de difficultés. C'est à Betula que nous le devons, puisque c'est son invention !",
+        "Ah, that fascicle of nerves. Although his anxiety is still there, he's become much better at managing it. He's also grown more able to take a joke, much to my relief.": "Ah, cette boule de nerfs. Bien que son anxiété soit toujours présente, il la gère beaucoup mieux aujourd'hui. Il a également appris à mieux apprécier les blagues, à mon grand soulagement.",
+        "As you might imagine, he had a very good academic career after our project. After completing his education he moved on to become one of our clan's head researchers. He's used his knowledge of star systems particularly well, helping our clan identify systems likely to harbor life.": "Comme vous pouvez l'imaginer, il a mené une brillante carrière universitaire après notre projet. Après avoir terminé ses études, il est devenu l'un des principaux chercheurs de notre clan. Il a particulièrement bien exploité sa connaissance des systèmes stellaires, pour aider notre clan à identifier les systèmes susceptibles d'abriter la vie.",
+        "Through his efforts our clan has met friends of many different forms, and had quite the cultural exchange. This was quite useful in the development of the universal translator I'm using to speak to you now.": "Grâce à ses efforts, notre clan a rencontré des amis de toutes sortes, et a eu de nombreux échanges culturels. Cela a été très utile au développement du traducteur universel que j'utilise pour vous parler.",
+        "I believe he's currently using his skills to identify stars that are still stable enough to support our people, as well as others. He's also made himself useful to rescue efforts, identifying star systems simultaneously likely to have life and likely to be annihilated soon.": "Je crois qu'il utilise actuellement ses compétences pour identifier les étoiles encore suffisamment stables pour subvenir aux besoins de notre peuple, ainsi que toute autre étoile. Il s'est également rendu utile aux opérations de sauvetage, en identifiant des systèmes stellaires susceptibles à la fois d'abriter la vie et d'être bientôt anéantis.",
+        "Betula actually went on to study alien cultures and languages. She was always more interested in social affairs than strictly academic ones, so it was a type of work that uniquely suited her.": "Betula a par la suite étudié les cultures et les langues extraterrestres. Elle s'est toujours davantage intéressée aux affaires sociales qu'aux questions strictement académiques, c'était donc le genre de travail qui lui convenait parfaitement.",
+        "She has been the first Nomai to contact a number of different alien species, and used the knowledge gained to develop the universal translator that allows us to communicate now.": "Elle a été la première Nomaï à contacter différentes espèces extraterrestres, et elle a utilisé ses connaissances pour développer le traducteur universel qui nous permet aujourd'hui de communiquer.",
+        "She's even caused some members of other species to join Nomai clans. Due to her efforts, approximately half of our clan is actually composed of non-Nomai species. Their insights have led to some remarkable technological breakthroughs.": "Elle a même incité des membres d'autres espèces à rejoindre des clans Nomaï. Grâce à ses efforts, presque la moitié de notre clan est composée d'espèces non-Nomaï, en réalité. Leurs connaissances ont permis des avancées technologiques remarquables.",
+        "Nowadays she uses her social skills to help people of varying cultures cooperate, which is especially important given the dwindling resources of our universe. It's a bit of a shame, I imagine she would have been quite thrilled to speak with you if she were here.": "Aujourd'hui, elle utilise ses compétences sociales pour aider des personnes de différentes cultures à coopérer, ce qui est particulièrement important compte tenu de la raréfaction des ressources de notre univers. C'est dommage, j'imagine qu'elle aurait été ravie de vous parler si elle avait été là.",
+        "Ha! Daucus always says he was never able to beat that lazy streak of his, although I'm honestly not convinced that he ever tried. The only thing he was ever willing to put real effort into was hacking systems.": "Ah ! Daucus dit toujours qu'il n'a jamais réussi à vaincre sa paresse, même si je ne suis honnêtement pas convaincue qu'il ait déjà essayé. La seule chose dans laquelle il était prêt à réellement s'investir était le piratage de systèmes.",
+        "Fortunately, he was able to use that to find his place refurbishing and repurposing old technology. He's been able to revive a number of machines that, by all accounts, never should have been able to work again.": "Heureusement, il a pu en profiter pour trouver sa place dans la réhabilitation et la réutilisation de vieilles technologies. Il a pu remettre en état plusieurs machines qui, de toute évidence, n'auraient jamais dû refonctionner.",
+        "He's actually expanded the number of ships available to our people quite substantially. This has allowed our clan to contact many more species than would otherwise be possible. I believe that other clans even bring him derelict vessels from time to time in the hopes that he can repair them.": "Il a considérablement augmenté le nombre de vaisseaux à la disposition de notre peuple. Cela a permis à notre clan de rencontrer bien plus d'espèces qu'il n'aurait été possible autrement. Je crois même que d'autres clans lui apportent de temps en temps des épaves de vaisseaux dans l'espoir qu'il les répare.",
+        "I'm unsure how he feels about it, but he's recently been put in charge of a substantially sized team. With the current state of the universe, it's more important than ever to keep equipment operational for as long as possible. He's actually become quite an important member of our clan.": "Je ne sais pas ce qu'il en pense, mais il a récemment été nommé responsable d'une équipe plutôt conséquente. Dans l'état actuel de l'univers, il est plus important que jamais de maintenir les équipements opérationnels le plus longtemps possible. Il est même devenu un membre important de notre clan.",
+        "As you may have guessed, I never took my studies particularly seriously as a child. In school, I was much more concerned with playing pranks on Alnus and socializing with Betula.": "Comme vous l'aurez deviné, je n'ai jamais pris mes études très au sérieux quand j'étais une enfant. À l'école, je m'occupais bien plus à faire des blagues à Alnus et à sociabiliser avec Betula.",
+        "It was actually the influence of our old teacher, Oryza, that led to me becoming a teacher. She was able to convince me to put more effort into my studies, something that I am now very thankful for whenever a student comes to me with questions.": "C'est en fait l'influence de notre ancienne professeure, Oryza, qui m'a poussée à devenir enseignante. Elle a su me convaincre de m'investir davantage dans mes études, ce dont je lui suis aujourd'hui très reconnaissante, chaque fois qu'un élève me pose des questions.",
+        "Outside of standard teaching duties, I've also been aiding in communications between us Nomai and other species. Some other teachers and I have even created an inter-species teacher association to aid in the spread of different people's knowledge.": "En dehors de mes tâches d'enseignement habituelles, j'ai également contribué à la communication entre nous, les Nomaï, et les autres espèces. D'autres professeurs et moi-même avons même créé une association d'enseignants inter-espèces pour favoriser la diffusion de leurs connaissances respectives.",
+        "Lately things have been a bit more difficult, what with the universe coming to an end and all. The students are actually doing fairly well emotionally speaking, but you would not believe the number of them who try to make existential arguments for missing assignments!": "Ces derniers temps, les choses ont été un peu plus difficiles, avec la fin de l'univers et tout ça. Les élèves s'en sortent plutôt bien émotionnellement, mais vous n'imaginez pas le nombre d'étudiants qui tentent d'utiliser des arguments existentiels pour justifier des devoirs non faits !",
+        "Device... Ah, that old thing! That's an old prototype for the orrery used in our project. We found it lying around at some point during our work, and decided to see if we could get into some mischief with it.": "L'appareil... Ah, ce vieux truc ! C'est un vieux prototype du planétaire utilisé dans notre projet. Nous l'avons trouvé un jour pendant nos travaux, et avons décidé de voir si nous pouvions faire quelques bêtises avec.",
+        "Daucus was able to hack it to become responsive if certain conditions were met, so that we could use it without the adults becoming aware of its functional state.": "Daucus a réussi à le pirater pour qu'il ne s'active que si certaines conditions étaient remplies, afin que nous puissions l'utiliser sans que les adultes ne remarquent son fonctionnement.",
+        "...Unfortunately, it proved to be highly unstable and dangerous. I really shouldn't tell you how to activate it. I have learned some responsibility over the years, after all.": "...Malheureusement, il s'est avéré très instable et dangereux. Je ne devrais vraiment pas vous dire comment l'activer. J'ai appris à être responsable au fil du temps, après tout.",
+        "...Oh, alright, but don't claim that I didn't warn you. You should exercise extreme caution around that device — it's quite possible for it to <![CDATA[<color=red>break things</color>]]> and not function entirely as expected.": "...Bon, d'accord, mais ne dites pas que je ne vous ai pas prévenu. Vous devez être extrêmement prudent avec cet appareil : il est tout à fait possible qu'il <![CDATA[<color=red>casse des choses</color>]]>, et ne fonctionne pas tout à fait comme prévu.",
+        "To activate it, all of the orbs on the invitation platform need to be placed at roughly the same distance from the center. Additionally, it won't activate unless it is approached by somebody who is not wearing any space gear.": "Pour l'activer, tous les orbes de la plateforme d'accueil doivent être placés à peu près à la même distance du centre. De plus, il ne s'activera que si quelqu'un s'en approche sans aucun équipement spatial.",
+        "As for what exactly it does... I suppose I'll leave you to figure that out for yourself! Have fun, and be careful!": "Quant à sa réelle utilité... Je vous laisse le découvrir par vous-même ! Amusez-vous bien, et soyez prudent !",
+        "Understood. I'll be here for some time, so feel free to come back if you change your mind.": "Compris. Je vais rester ici un moment, donc n'hésitez pas à revenir si vous changez d'avis.",
+        
+        //ernesto
+        "Hey it's me Ernesto.": "Salut, c'est moi Ernesto.",
+        "The stars have gathered around this point, and I have been formed.": "Les étoiles se sont rassemblées autour de ce point, et j'ai été créé.",
+        "Take witness, and know that I am forever; and so too is my wisdom.": "Soyez-en témoins, et sachez que je suis éternel, tout comme ma sagesse.",
+        "I will bestow a gift upon you: you may ask me a single question, and I will answer it.": "Je vais te faire un cadeau : tu peux me poser une seule question, et j'y répondrai.",
+        "I am incredibly generous. You may ask another question.": "Je suis incroyablement généreux. Tu peux poser une autre question.",
+        "What question will you be asking?": "Quelle question souhaites-tu poser ?",
+        "What is the meaning of the universe?": "Quel est le sens de l'univers ?",
+        "Why am I very slowly drifting away from you?": "Pourquoi est-ce que je m'éloigne lentement de toi ?",
+        "I once found an artificial ring world inhabited by a species whose language I could not translate. What did they call themselves?": "Un jour, j'ai découvert un monde artificiel en forme d'anneau, habité par une espèce dont je ne pouvais pas traduire la langue. Comment s'appelaient-ils entre eux ?",
+        "I once saw a slide reel showing an alien resting at a green campfire, before being engulfed in a bright light. What caused this?": "Un jour, j'ai vu une diapositive montrant un extraterrestre se reposant près d'un feu de camp vert, avant d'être englouti par une lumière vive. Qu'est-ce qui a provoqué cela ?",
+        "Who was the winner of Outer Wilds Mod Jam 5?": "Qui a gagné le cinquième concours de mod d'Outer Wilds ?",
+        "Why in the world would the Nomai have candy wrappers? That is entirely against their philosophy.": "Pourquoi diable les Nomaï auraient-ils des emballages de bonbons ? C'est totalement contraire à leur philosophie.",
+        "Wait, aren't you a mathematical construct? You aren't real!": "Attends, n'es-tu pas une construction mathématique ? Tu n'es pas réel !",
+        "No, YOU aren't real.": "Non, TU n'es pas réel.",
+        "The meaning of the universe? It's right there in the name.": "Le sens de l'univers ? C'est dans son nom.",
+        "E.R.N.E.S.T.O.": "E.R.N.E.S.T.O.",
+        "E: Enlightenment, in truth, comes only from Ernesto.": "E : Éclaircissement et lumière ne proviennent que d'Ernesto.",
+        "R: Roast marsh mallow!": "R : Rôties sont les guimauves !",
+        "N: NOTHING beats an epic gamer moment!": "N : NUL ne vaut mieux qu'une partie de jeu épique !",
+        "E: Eheheheeeeee": "E : Eheheheeeeee",
+        "S: Save your mind and body from the sphere of ice; for as long as you live, it will not show mercy.": "S : Sauve ton esprit et protège ton corps de la sphère de glace : tant que tu seras en vie, elle sera sans pitié.",
+        "T: Text for ernesto universe dialogue goes here": "T : Texte de dialogue d'Ernesto ici",
+        "O: Oh... that's groundsize. That's groundsize of my supermassive planet.": "O : Oh... C'est la taille du sol. C'est la taille du sol de ma planète supermassive.",
+        "It's uh. It's because my wisdom is too powerful. Yeah": "C'est euh. C'est parce que ma sagesse est trop puissante. Ouais.",
+        "Just like don't worry about it bro": "Ne t'inquiète pas pour ça, mon pote.",
+        "Ah, the inhabitants of the ring world. You would like to know the name of their collective people.": "Ah, les habitants du monde en forme d'anneau. Tu aimerais connaître le nom de leur peuple.",
+        "They called themselves... The \"Joemai\".": "Ils s'appelaient... les \"Joemaï\".",
+        "It's a shame that you couldn't understand their dialect. While much of their informaton was communicated visually, their writing was like nothing I had ever seen.": "C'est dommage que tu ne comprennes pas leur dialecte. Une grande partie de leurs informations étaient communiquées visuellement, mais leur écriture ne ressemblait à rien de ce que je connaissais.",
+        "If you don't mind, I'd like to share a truly profound piece of the Joemai's poetry. It made a significant mark on my eternal life:": "Si tu le permets, j'aimerais partager un extrait profond d'une poésie Joemaï, qui a marqué à jamais ma vie éternelle :",
+        "\"I hope your bones shatter into a fine powder\"": "\"J'espère que tes os se briseront en une fine poudre.\"",
+        "He farted": "Il a pété.",
+        "Team gloopus won the fifth Outer Wilds mod jam. They made the \"one million Ernestos on an otherwise empty new horizons planet config\" mod.": "L'équipe Gloopus a remporté le cinquième concours de mod d'Outer Wilds. Ils ont créé le mod \"un million d'Ernestos sur une configuration de planètes vides\".",
+        "The mod boasted a whopping thirty-six thousand hours of content, split up into fifteen chapters.": "Le mod proposait plus de trente-six mille heures de contenu, réparties en quinze chapitres.",
+        "It took ten minutes for the mod to make two of the three judges begin to sob uncontrollably. The third judge simply left the room and began to reflect on life.": "Il a fallu dix minutes au mod pour faire sangloter deux des trois juges. Le troisième juge a simplement quitté la pièce, et s'est mis à réfléchir au sens de la vie.",
+        "It won because it had a script in it that removed every other jam entry. The judges have not noticed, as they are still playing the mod to this day.": "Il a gagné parce qu'il contenait un script qui supprimait toutes les autres participations aux concours. Les juges ne l'ont pas remarqué, puisqu'ils jouent encore au mod à ce jour.",
+        "Yeah that's a fair question.": "Oui, c'est une bonne question.",
+        "It was funny. Idk": "C'était drôle. Je crois.",
+        
+        //convergence_explanation
+        "BETULA: This structure is <![CDATA[<i>very</i>]]> impressive, although I don't recall us ever discussing it or its construction.": "BETULA : Cette structure est <![CDATA[<i>très</i>]]> impressionnante, même si je ne me souviens pas en avoir déjà discuté, ni de sa construction.",
+        "ADONSONIA: This is just a small puzzle that I made in my spare time. It uses those old radios that Oryza gave us for detecting signals. If anyone manages to solve it, the computer over there will activate and display its information.": "ADONSONIA : C'est juste une petite énigme que j'ai réalisée pendant mon temps libre. Elle utilise les vieilles radios qu'Oryza nous a données pour détecter les signaux. Si quelqu'un parvient à la résoudre, l'ordinateur là-bas s'activera et affichera des informations.",
+        "ALNUS: I fear I won't like the answer, but I need to ask anyway. What's on the computer?": "ALNUS : Je crains de ne pas aimer la réponse, mais je dois quand même te le demander. Qu'y a-t-il sur l'ordinateur ?",
+        "ADONSONIA: Oh, nothing significant — just the condition that I told Oryza would be our fifth project requirement.": "ADONSONIA : Oh, rien de très important. Seulement que ce que j'ai mentionné à Oryza serait la cinquième contrainte de notre projet.",
+        "ALNUS: Adonsonia, we don't have time for games like this. Please just tell us the solution so that we can know the new requirement.": "ALNUS : Adonsonia, nous n'avons pas le temps pour ce genre de jeux. S'il te plaît, donne-nous simplement la solution afin que nous puissions connaître cette nouvelle contrainte.",
+        "ADONSONIA: Sorry. I would respond, but I'm really quite busy with a project on <![CDATA[<color=orange>Daucus</color>]]>. I'm sure that you understand!": "ADONSONIA : Désolée. Je pourrais répondre, mais je suis très occupée par un projet sur <![CDATA[<color=orange>Daucus</color>]]>. Je suis sûre que vous comprenez !",
+        "ALNUS: YOU HAD TO COME HERE TO WRITE THAT!": "ALNUS : <![CDATA[<size=75>IL FALLAIT QUE TU VIENNES ICI POUR ÉCRIRE ÇA ?!</size>]]>",
+        "DAUCUS: If you committed us to some very difficult requirement, you aren't going to live to see this system presented at the festival.": "DAUCUS : Si tu nous as imposé une contrainte trop difficile, tu ne vivras pas assez longtemps pour voir ce système présenté au festival.",
+        
+        //geyser_hint
+        "BETULA: With access to the planet's true surface, I noticed some interesting looking geysers located near the north pole.": "BETULA : Depuis la véritable surface de la planète, j'ai remarqué des geysers plutôt intéressants situés près du pôle Nord.",
+        "ALNUS: Our teacher had mentioned those. Apparently, the geysers lead all the way to the hollow core of this planet. She says that there's something down there that she wants us to see.": "ALNUS : Notre professeure en avait parlé. Apparemment, les geysers mènent jusqu'au noyau creux de cette planète. Elle dit qu'il y a quelque chose là-dessous qu'elle veut nous montrer.",
+        "ADONSONIA: I've already tried jumping into one, but the flow of the geyser forced me back to the surface.": "ADONSONIA : J'ai déjà essayé de sauter dans l'un d'eux, mais le jet m'a forcée à remonter à la surface.",
+        "ALNUS: Thawing the planet seems to have dramatically increased its level of geothermal activity. We won't be able to explore the geysers until we find a way to subdue it again.": "ALNUS : Le dégel de la planète semble avoir considérablement augmenté son niveau d'activité géothermique. Nous ne pourrons pas explorer les geysers tant que nous n'aurons pas à nouveau trouvé un moyen de les maîtriser.",
+        "ADONSONIA: Once we do that, we'll be free to go down the geysers and explore the core!": "ADONSONIA : Une fois ceci fait, nous serons libres de descendre dans les geysers et d'explorer le noyau !",
+        "BETULA: That sounds quite dangerous! Did you sustain any injuries?": "BETULA : Cela a l'air plutôt dangereux ! As-tu été blessée ?",
+        "ADONSONIA: Not to worry, Betula, I... wait... OH NO! THE FLESH PARASITES FROM THE CORE! THEY'RE TAKING CONTROL!": "ADONSONIA : Ne t'inquiète pas, Betula, je... attends... OH NON ! LES PARASITES DE PEAU VENUS DU NOYAU ! ILS PRENNENT LE CONTRÔLE !",
+        "BETULA: Good to hear that you're alright.": "BETULA : Contente d'entendre que tu vas bien.",
+        
+        //ghost_matter_hint
+        "ALNUS: I wanted to warn everyone that, according to our teacher, a highly hazardous and invisible substance has been spilled in this cave. Please avoid it!": "ALNUS : Je voulais avertir tout le monde que, selon notre professeure, une substance hautement dangereuse et invisible a été déversée dans cette grotte. Veillez à l'éviter !",
+        "ALNUS: Fortunately, it seems that the substance can be temporarily neutralized with water. If anyone accidentally touches it, we can use that to our advantage.": "ALNUS : Heureusement, il semble que la substance puisse être temporairement neutralisée avec de l'eau. Si quelqu'un la touche accidentellement, nous pourrons en tirer profit.",
+        "ADONSONIA: What an interesting property! I'm tempted to touch it to see how it feels.": "ADONSONIA : Quelle propriété intéressante ! Je suis tentée de la toucher pour voir ce que ça donne.",
+        "BETULA: I don't believe that to be advisable, Adonsonia. Someone could be seriously hurt trying to do that.": "BETULA : Je ne pense pas que ce soit une bonne idée, Adonsonia. Nous pourrions gravement nous blesser en essayant de faire ça.",
+        "BETULA: With this substance and this planet's gravity, <![CDATA[<color=orange>The Big One</color>]]> may be the most dangerous planet in this system!": "BETULA : Entre cette substance et la gravité, la <![CDATA[<color=orange>Géante</color>]]> pourrait bien être la planète la plus dangereuse de ce système !",
+        
+        //missing_transmitter_hint
+        "BETULA: Oryza said that each planet would have a warp transmitter on its north pole that leads to the orrery station, but I don't see one here.": "BETULA : Oryza a dit que chaque planète posséderait un émetteur de distorsion à son pôle Nord menant à la station du planétaire, mais je n'en vois pas ici.",
+        "ALNUS: I suppose she only said that <![CDATA[<i>most</i>]]> of the transmitters would be on the north pole. Perhaps this one is somewhere else.": "ALNUS : Je suppose qu'elle a seulement dit que la <![CDATA[<i>plupart</i>]]> des émetteurs seraient au pôle Nord. Peut-être que celui-ci est ailleurs.",
+        "DAUCUS: That's irritating. Lack of access to this planet's transmitter will make travel much more difficult.": "DAUCUS : C'est agaçant. L'impossibilité d'accéder à l'émetteur de cette planète rendra les voyages beaucoup plus difficiles.",
+        
+        //multi_receiver_hint
+        "ADONSONIA: I'm really sorry everyone, but I may have accidentally dropped the materials for the other transmitter into the star during transport.": "ADONSONIA : Je suis vraiment désolée, mais j'ai peut-être accidentellement fait tomber les matériaux de l'autre émetteur dans l'étoile, pendant le transport.",
+        "ALNUS: Adonsonia! That was our last warp core! I don't know why you feel the need to constantly sabotage us! Do you just dislike us all?": "ALNUS : Adonsonia ! C'était notre dernier générateur de distorsion ! Je ne comprends pas pourquoi tu ressens le besoin de tout saboter constamment ! Est-ce que tu nous détestes tous ?",
+        "ADONSONIA: I didn't mean to drop it, it just happened! I know I do more pranks than you would like, but I'd never purposefully cause actual harm to the project!": "ADONSONIA : Je ne voulais pas le laisser tomber, c'est juste... arrivé ! Je sais que je fais plus de blagues que tu ne le voudrais, mais je ne ferais jamais exprès de nuire au projet !",
+        "ALNUS: Even if we choose to believe you, that doesn't change the fact that we're now out of warp cores. Without another one we can't make any more transmitters, which means we can only use one of the receivers.": "ALNUS : Même si on te croit, cela ne change rien au fait que nous n'avons plus de générateur de distorsion. Sans un autre générateur, on ne pourra plus fabriquer d'émetteurs, ce qui signifie qu'on ne pourra utiliser qu'un seul des récepteurs.",
+        "DAUCUS: Don't worry about that. I've gone ahead and hacked the transmitter to work with either receiver, depending on which one lines up. That way, we won't need a second transmitter.": "DAUCUS : Ne t'inquiète pas pour ça. J'ai piraté l'émetteur pour qu'il fonctionne avec l'un ou l'autre des récepteurs, selon celui qui est aligné. Comme ça, nous n'aurons pas besoin d'un deuxième émetteur.",
+        "ADONSONIA: Thank you, Daucus! I am really sorry about incinerating those components, but I'm glad you were able to clean up my mess a bit.": "ADONSONIA : Merci, Daucus ! Je suis vraiment désolée d'avoir détruit ces composants, mais je suis contente que tu aies pu arranger un peu mes bêtises.",
+        "BETULA: We know, Adonsonia. Alnus is just upset. Everyone makes mistakes.": "BETULA : On sait, Adonsonia. Alnus est juste contrarié. Tout le monde fait des erreurs.",
+        "ALNUS: Really? That's very helpful, Daucus! We were really relying on those warp pads, so it's good to have them all usable.": "ALNUS : Vraiment ? Ce sera très utile, Daucus ! Nous comptions beaucoup sur ces plateformes de distorsion, donc c'est bien qu'elles soient toutes utilisables.",
+        
+        //quantum_hint
+        "ALNUS: I found this interesting looking stone on this planet, so I decided to place it in this building.": "ALNUS : J'ai trouvé ce roc plutôt intéressant sur cette planète, alors j'ai décidé de le placer dans ce bâtiment.",
+        "ALNUS: I had just put the stone here, Adonsonia. How did you already steal it?": "ALNUS : Je venais juste de le poser ici, Adonsonia. Comment as-tu déjà pu le voler ?",
+        "ADONSONIA: I wish I could achieve such a feat, but that wasn't me! I recall an old study on this kind of stone, which concluded that they move when unobserved.": "ADONSONIA : J'aimerais réussir un tel exploit, mais ce n'était pas moi ! Je me souviens d'une vieille publication sur ce type de roc, qui concluait qu'ils bougent lorsqu'on ne les observe pas.",
+        "BETULA: That is quite an interesting trait! Do you have any idea where it may go when it's not here?": "BETULA : C'est une caractéristique plutôt intéressante ! As-tu une idée de l'endroit où il peut aller quand il n'est pas ici ?",
+        "ADONSONIA: I'm not sure, to be honest. I don't believe I've seen it anywhere besides here.": "ADONSONIA : Je n'en suis pas sûre, pour être honnête. Je ne crois pas l'avoir vu ailleurs qu'ici.",
+        "ALNUS: I would accuse you of lying if the stone hadn't appeared behind me moments ago (nearly scaring my lower garments off). Unfortunately, it took a recording of mine with it, and it doesn't seem to have brought it back.": "ALNUS : Je t'accuserais de mentir si le roc n'était pas apparu derrière moi il y a quelques instants (faisant presque tomber mes sous-vêtements). Malheureusement, il a emporté un de mes enregistrements avec lui, et il ne semble pas l'avoir ramené.",
+        
+        //sand_structure_hint
+        "DAUCUS: I must say, Adonsonia, it is impressively lazy that you spent all this time at this structure and have only built this little platform.": "DAUCUS : Je dois dire, Adonsonia, que c'est très paresseux de ta part d'avoir passé tout ce temps sur cette structure, et de n'avoir construit que cette petite plateforme.",
+        "ADONSONIA: There would be more here, but it seems that somebody has covered the building I've labored for hours on almost entirely in sand!": "ADONSONIA : Il devrait y en avoir d'autres ici, mais il semblerait que quelqu'un ait recouvert presque entièrement de sable le bâtiment sur lequel j'ai travaillé pendant des heures !",
+        "BETULA: I apologize — I believe that may be my fault. I wanted us to have a planet approximating a desert, so I placed a large amount of sand on this one without realizing there was a structure already built.": "BETULA : Je m'excuse, je crois que c'est peut-être ma faute. Je voulais que nous ayons une planète ressemblant à un désert, alors j'ai placé une grande quantité de sable sur celle-ci, sans me rendre compte qu'une structure y était déjà construite.",
+        "ADONSONIA: I suppose this is more karma for my own antics than anything else, so I accept your apology. I would appreciate help figuring out a way to get rid of the sand, though. I wonder if there may be some way to move it somewhere else.": "ADONSONIA : Je suppose que c'est plus une question de karma pour mes propres blagues qu'autre chose, alors j'accepte tes excuses. J'apprécierais cependant qu'on m'aide à trouver un moyen de me débarrasser du sable. Je me demande s'il n'y aurait pas moyen de le déplacer ailleurs.",
+        "ALNUS: That is so strange, Adonsonia! It's almost as if people interfering with your work isn't terribly fun.": "ALNUS : C'est tellement bizarre, Adonsonia ! C'est presque comme si les gens qui interféraient avec ton travail n'étaient pas très drôles.",
+        
+        //teleporter_nodoor_hint
+        "ALNUS: Who constructed this building around the warp receiver? I know we wanted one, but I can't seem to locate the door.": "ALNUS : Qui a construit ce bâtiment autour du récepteur de distorsion ? Je sais qu'on en voulait un, mais je n'arrive pas à trouver la porte.",
+        "ADONSONIA: Would you look at that? It seems that I <![CDATA[<i>unintentionally forgot</i>]]> to put a door on the building. <![CDATA[<i>100% accidental</i>]]>, I can assure you.": "ADONSONIA : Voyez-vous cela ? On dirait que j'ai <![CDATA[<i>involontairement oublié</i>]]> de mettre une porte sur le bâtiment. <![CDATA[<i>100% accidentel</i>]]>, je vous l'assure.",
+        "ALNUS: Adonsonia, this is no time for your pranks! I left important materials and documents near the warp pad that I can no longer access! How do I get in?!": "ALNUS : Adonsonia, ce n'est pas le moment de faire des blagues ! J'ai laissé du matériel et des documents importants près de la plateforme de distorsion à laquelle je n'ai plus accès ! Comment puis-je y accéder ?!",
+        "ADONSONIA: Who can say? Maybe there's no way into the building at all. I suppose you'll just need to figure it out.": "ADONSONIA : Qui peut le savoir ? Il n'y a peut-être aucun moyen d'entrer dans le bâtiment. Je suppose que tu devras juste trouver une solution.",
+        "ALNUS: Do you really expect me to believe that you don't know any way in when I can see your salt-treat wrappers inside? (And might I remind you just how rude it is to leave non-disposable waste on the floor!!)": "ALNUS : Tu veux vraiment que je croie que tu ne connais aucun moyen d'entrer, alors que je peux voir tes emballages de bonbons salés à l'intérieur ? (Et puis-je te rappeler à quel point il est impoli de laisser des déchets non jetables par terre !!)",
+        "BETULA: Alnus, I'm sure that there's some way to get into the building, don't worry.": "BETULA : Alnus, je suis sûre qu'il y a un moyen d'entrer dans le bâtiment, ne t'inquiète pas.",
+        
+        //tower_ascension_hint
+        "ALNUS: I thought that the size of this planet deserved a monument of fitting stature, so I constructed this tower here!": "ALNUS : J'ai pensé qu'une planète de cette ampleur méritait un monument à sa hauteur, alors j'ai construit cette tour ici !",
+        "BETULA: This is lovely, Alnus! I look forward to seeing the top chamber of the tower once you install a tractor beam to get up there!": "BETULA : C'est magnifique, Alnus ! J'ai hâte de voir la chambre supérieure de la tour, une fois que tu auras installé un rayon tracteur pour y accéder !",
+        "ALNUS: A tractor beam? We don't have any means by which to make a tractor beam. We weren't given the right materials.": "ALNUS : Un rayon tracteur ? Nous n'avons aucun moyen de fabriquer un rayon tracteur. On ne nous a pas fourni les matériaux adéquats.",
+        "BETULA: Then how do you intend for us to get up there? The gravity of this planet is far too strong for a thrustpack to give the necessary height.": "BETULA : Alors, comment comptes-tu nous faire monter là-haut ? La gravité de cette planète est bien trop forte pour qu'un propulseur puisse nous donner assez de hauteur.",
+        "ALNUS: ...I left my lunch up there...": "ALNUS : ...J'ai oublié mon déjeuner là-haut...",
+        "DAUCUS: Hopefully we can find a way to get up there. Redesigning this whole structure would be torment.": "DAUCUS : J'espère que nous trouverons un moyen d'y accéder. Devoir repenser toute cette structure serait un supplice.",
+        "DAUCUS: I'll admit that this is pretty impressive, especially considering how strong the gravity of this planet is.": "DAUCUS : J'avoue que c'est assez impressionnant, surtout compte tenu de la gravité de la planète.",
+        "ADONSONIA: Ha! Intentional or not, that's a good prank. I don't know if I could have done better myself!": "ADONSONIA : Ah ! Intentionnelle ou non, c'est une bonne blague. Je ne sais pas si j'aurais pu faire mieux !",
+        
+        //under_ice_hint
+        "ADONSONIA: I'm disappointed that this planet is so unremarkable. We can't even make it more interesting ourselves, since the ice is simply too unstable to build on.": "ADONSONIA : Je suis déçue que cette planète soit si banale. Nous ne pouvons même pas la rendre plus intéressante, car la glace est tout simplement trop instable pour pouvoir y construire dessus.",
+        "BETULA: I must agree. There really isn't much on this planet that we can work with.": "BETULA : Je suis d'accord. Il n'y a pas grand-chose sur cette planète avec quoi on puisse travailler.",
+        "ALNUS: Subsurface scans indicate that the ice is hollow and that the planet possesses an ocean below it. If we could gain access to the area below the ice, we may be able to create structures.": "ALNUS : Les analyses du sous-sol indiquent que la glace est creuse, et que la planète possède un océan en dessous. Si nous pouvions accéder à la zone sous la glace, nous pourrions peut-être y construire des structures.",
+        "ADONSONIA: That would be ideal, because this plain planet is currently my least favorite.": "ADONSONIA : Ce serait idéal, car cette planète plate est actuellement celle que j'aime le moins.",
+        
+        //platform_invitation
+        "The star system in front of you was the subject of an educational project (and festival entry) known as the <![CDATA[<Color=orange>]]>Heliostudy<![CDATA[</Color>]]>.": "Le système stellaire devant vous était l'objet d'un projet scolaire (et d'une participation au festival) connu sous le nom d'<![CDATA[<Color=orange>]]>Heliostudy<![CDATA[</Color>]]>.",
+        "This system is identifiable by its purple lines and pale blue sun. We invite you to fly over and explore it!": "Ce système est reconnaissable à ses traits violets et à son soleil bleu pâle. Nous vous invitons à le survoler et à l'explorer !",
+        
+        //students_intro
+        "BETULA: This project sounds pretty fun! Being the architects of a mock star system is a very cool opportunity, especially considering that we get to show it at the next festival!": "BETULA : Ce projet a l'air vraiment amusant ! Être les architectes d'un système stellaire factice est une opportunité vraiment chouette, surtout puisqu'on va pouvoir le montrer au prochain festival !",
+        "ALNUS: Fun? Betula, our next school project is going to be shown at a <![CDATA[<i>festival</i>]]>. If we mess it up even slightly, we could turn our entire clan into the posterior of every joke for the next century!": "ALNUS : Amusant ? Betula, notre projet scolaire sera présenté à un <![CDATA[<i>festival</i>]]>. Si on le rate, même juste un peu, on pourrait faire de tout notre clan la cible de toutes les blagues pour le siècle à venir !",
+        "ADONSONIA: Alnus, I doubt that our project being imperfect will affect the reputation of our clan. Everyone understands that we're still students, after all.": "ADONSONIA : Alnus, je doute que l'imperfection de notre projet nuise à la réputation de notre clan. Tout le monde comprend que nous sommes encore des étudiants, après tout.",
+        "ALNUS: A festival entry is no small matter. We need to make sure that we do this right.": "ALNUS : Participer à un festival, ce n'est pas rien. Nous devons nous assurer de bien faire les choses.",
+        "BETULA: Well, regardless of what stakes may or may not exist, we won't be able to do anything until we get down onto the planets and survey them, so I think that should be our next course of action.": "BETULA : Eh bien, quels que soient les enjeux, on ne pourra rien faire tant que nous n'aurons pas atterri sur les planètes pour les étudier, donc je pense que ce devrait être notre prochaine étape.",
+        "DAUCUS: Ah, I see that it's going to be that kind of project. In that case, just let me know what you need me to do, and I'll (maybe) do it.": "DAUCUS : Ah, ce sera donc ce genre de projet. Dans ce cas, dites-moi simplement ce que vous attendez de moi, et je le ferai (peut-être).",
+        
+        //teacher_intro_recording
+        "ORYZA: Hello, students! As I mentioned in class the other day, our clan is hoping for you all to take part in our entry for the upcoming festival. Welcome to our entry!": "ORYZA : Bonjour, élèves ! Comme je l'ai mentionné en classe l'autre jour, notre clan espère que vous participerez tous à notre projet pour le prochain festival. Accueillons-le comme il se doit !",
+        "ORYZA: We've decided to focus on education for this festival, which is where you all are going to come in! This entire star system is actually an educational device made to help students like yourselves understand how such a system works.": "ORYZA : Nous avons décidé de mettre l'accent sur l'éducation pour ce festival, et c'est là que vous allez tous intervenir ! Ce système stellaire est en fait un outil pédagogique conçu pour aider les élèves comme vous à comprendre leur fonctionnement.",
+        "ORYZA: As you can see below you, a number of different planets have been prepared for you to work with. You are free to build on and reshape these planets as you see fit, in order to create a system that demonstrates your understanding. Think of yourself as... architects!": "ORYZA : Comme vous pouvez le voir ci-dessous, plusieurs planètes différentes ont été préparées comme outils de travail. Vous êtes libres de construire et de remodeler ces planètes comme bon vous semble, afin de créer un système qui démontre votre compréhension. Considérez-vous comme... des architectes !",
+        "ORYZA: At the center of this platform is the orrery, a vital tool in your shaping of this system. While an orrery is normally a <![CDATA[<Color=orange>]]>miniature<![CDATA[</Color>]]> representation of a star system, it is more accurate in this case to say that the star system is a scaled-up representation of the orrery!": "ORYZA : Au centre de cette plateforme se trouve le planétaire, un outil essentiel à la conception de ce système. Bien qu'un planétaire soit normalement une représentation <![CDATA[<Color=orange>]]>miniature<![CDATA[</Color>]]> d'un système stellaire, il serait ici plus exact de dire que le système stellaire est une représentation du planétaire à grande échelle !",
+        "ORYZA: That may be a bit confusing, but I'll leave it to you all to discover what I mean by that! To make navigation easier in this system, we've placed warp transmitters on each planet (mostly on the north pole) that will bring you to and from this station.": "ORYZA : Cela peut paraître un peu déroutant, mais je vous laisse découvrir ce que je veux dire par là ! Pour faciliter la navigation dans ce système, nous avons placé des plateformes de distorsion sur chaque planète (principalement au pôle Nord), qui vous permettront de vous rendre à cette station et d'en revenir.",
+        "ORYZA: You will have finite resources for this project, so make sure to use them with care. Other than that, have fun! You will all be given approximately two weeks to complete your project before it is submitted to the festival, so just make sure to have everything done by then.": "ORYZA : Vos ressources pour ce projet seront limitées, alors utilisez-les avec parcimonie. À part ça, amusez-vous ! Vous aurez environ deux semaines pour terminer votre projet avant qu'il ne soit soumis au festival, alors assurez-vous d'avoir tout terminé d'ici là.",
+        "ORYZA: Oh, and one last thing. Since this is meant to demonstrate your understanding of star systems, I'll need you to tell me seven different requirements that your system will fulfill to be similar to a real star system. This is a <![CDATA[<i>graded</i>]]> project after all. Have fun, little ones!": "ORYZA : Oh, et une dernière chose. Puisque ce projet vise à démontrer votre compréhension des systèmes stellaires, je vais vous demander de me préciser sept contraintes différentes que votre système devra respecter pour ressembler à un véritable système stellaire. Il s'agit d'un projet <![CDATA[<i>noté</i>]]>, après tout. Amusez-vous bien, les enfants !",
+        
+        //big_planet_name
+        "ADONSONIA: This massive sphere shall be known as... <![CDATA[<color=orange>The Big One</color>]]>!": "ADONSONIA : Cette sphère massive sera connue sous le nom de... la <![CDATA[<color=orange>Géante</color>]]> !",
+        "ALNUS: Is that all you could come up with?": "ALNUS : C'est tout ce que tu as trouvé ?",
+        "ADONSONIA: Alnus, aren't you always telling me to be more practical? This is just my (totally, <![CDATA[<i>entirely</i>]]> earnest) attempt to appease you.": "ADONSONIA : Alnus, ne me répètes-tu pas sans cesse d'être plus pragmatique ? C'est juste ma tentative (totalement et <![CDATA[<i>entièrement</i>]]> sérieuse) pour t'apaiser.",
+        "DAUCUS: That should be easy to remember, I suppose.": "DAUCUS : Ce devrait être facile à retenir, je suppose.",
+        
+        //crystal_planet_name
+        "ALNUS: I have decided that the name of this planet shall be... <![CDATA[<color=orange>Shattered Geode</color>]]>!": "ALNUS : J'ai décidé que le nom de cette planète serait... la <![CDATA[<color=orange>Géode brisée</color>]]> !",
+        "BETULA: That's an impressive name, Alnus!": "BETULA : Quel nom impressionnant, Alnus !",
+        "ALNUS: This crystalline body is quite majestic. It only makes sense that it would receive a name of equal beauty!": "ALNUS : Ce corps cristallin est majestueux. Il est tout à fait logique qu'il reçoive un nom d'une égale beauté !",
+        "ADONSONIA: Truly, you possess <![CDATA[<i>incredible</i>]]> humility. It is such a relief that you are in <![CDATA[<i>no way</i>]]> being strange about the name of this planet.": "ADONSONIA : Vraiment, tu possèdes une <![CDATA[<i>incroyable</i>]]> humilité. Quel soulagement que tu ne sois <![CDATA[<i>aucunement</i>]]> dérangé par le nom de cette planète.",
+        
+        //ernesto_hint
+        "ORYZA: Imagine a point that exists at the average point of all star systems in this cluster.": "ORYZA : Imaginons un point qui serait à égale distance de tous les systèmes stellaires de cet ensemble.",
+        "ADONSONIA: A point? How would I imagine that? I propose that the average point is represented by our current class study specimen.": "ADONSONIA : Un point ? Comment l'imaginer ? Je propose que ce point central soit représenté par notre actuel spécimen d'étude.",
+        "ORYZA: Very well. Imagine this average point to be represented by an anglerfish named Ernesto.": "ORYZA : Très bien. Imaginons que ce point soit représenté par un cœlacanthe nommé Ernesto.",
+        "ORYZA: Assume that Ernesto can only appear within the sphere of influence (which has a radius of 2500 meters) around <![CDATA[<Color=orange>]]>Heliocenter<![CDATA[</Color>]]>.": "ORYZA : Supposons qu'Ernesto ne puisse apparaître que dans la sphère d'influence (d'un rayon de 2 500 mètres) autour de l'<![CDATA[<Color=orange>]]>Héliocentre<![CDATA[</Color>]]>.",
+        "ADONSONIA: I never finished this mathematics problem that Oryza assigned to us. I don't like math, so I'm sending it to space. Farewell!": "ADONSONIA : Je n'ai jamais terminé ce problème de mathématiques qu'Oryza nous a donné. Je n'aime pas les maths, alors je les envoie dans l'espace. Adieu !",
+        "ORYZA: If it means that you'll have more enthusiasm in this lesson, then we can make that addition.": "ORYZA : Si cela peut te donner plus d'enthousiasme pour ce cours, alors nous pouvons faire cet ajout.",
+        
+        //final_door_computer
+        "Project status: Requirements not met.": "État du projet : Conditions non remplies.",
+        
+        //house_flavor_recording
+        "DAUCUS: Why are we keeping our beds here of all places? It's quite cold and not terribly comfortable.": "DAUCUS : Pourquoi gardons-nous nos lits ici ? Il fait assez froid et ce n'est pas très confortable.",
+        "ADONSONIA: It isn't that cold, Daucus. Since when were you so sensitive to the cold?": "ADONSONIA : Il ne fait pas si froid, Daucus. Depuis quand es-tu si frileux ?",
+        "ALNUS: I'm tempted to agree with Daucus. The orrery station has its own climate control — could we not just stay there?": "ALNUS : Je serais presque d'accord avec Daucus. La station du planétaire a sa propre climatisation. Ne pourrions-nous pas simplement y rester ?",
+        "BETULA: We're meant to care for this system. How can we properly care for it if we're unwilling to even sleep in it!?": "BETULA : Nous sommes censés prendre soin de ce système. Comment pouvons-nous en prendre soin correctement si nous ne sommes même pas prêts à y dormir !?",
+        "BETULA: Additionally, look above you! The view of the stars through the aurora is breathtaking!": "BETULA : Et puis, regardez au-dessus de vous ! La vue sur les étoiles au travers des aurores boréales est à couper le souffle !",
+        "ALNUS: I suppose that much at least is true.": "ALNUS : Ça, au moins, c'est vrai.",
+        "...": "...",
+        "ADONSONIA: We should build a campfire.": "ADONSONIA : Nous devrions faire un feu de camp.",
+        "BETULA: That's a wonderful idea! It would warm us, and we would maintain our view of the night sky.": "BETULA : C'est une excellente idée ! Cela nous réchaufferait, et nous garderions une vue imprenable sur le ciel nocturne.",
+        "ALNUS: That... doesn't sound unpleasant, if I'm being honest.": "ALNUS : Ce... ne serait pas déplaisant, en toute franchise.",
+        "DAUCUS: I have some food we can roast if you all are willing to build the actual fire.": "DAUCUS : J'ai de la nourriture à faire griller, si vous voulez bien allumer le feu.",
+        "ADONSONIA: Then it's a deal! Let's get the fire started, everyone!": "ADONSONIA : C'est parti ! Allumons le feu !",
+        
+        //platform_computer
+        "<![CDATA[<color=red>]]>WARNING:<![CDATA[</color>]]> THIS EXPERIMENTAL ORRERY IS NOW ACTIVE.\r\nUser is fully responsible for any damage caused by using this device. (You will break things.)": "<![CDATA[<color=red>]]>ATTENTION :<![CDATA[</color>]]> CE PLANÉTAIRE EXPÉRIMENTAL EST DÉSORMAIS ACTIF.\r\nL'utilisateur est entièrement responsable de tout dommage causé par le maniement de cet appareil. (Vous risquez de casser des choses).",
+        "Space gear can now be re-equipped.": "L'équipement spatial peut désormais être rééquipé.",
+        
+        //sand_planet_name
+        "BETULA: Daucus, have you decided on a name for this planet yet?": "BETULA : Daucus, as-tu déjà choisi un nom pour cette planète ?",
+        "DAUCUS: <![CDATA[<color=orange>Daucus</color>]]>.": "DAUCUS : <![CDATA[<color=orange>Daucus</color>]]>.",
+        "ADONSONIA: I know you like easy solutions, but won't it be a <![CDATA[<i>bit</i>]]> easy to mix up you and the planet?": "ADONSONIA : Je sais que tu aimes les solutions de facilité, mais ne risquerait-on pas <![CDATA[<i>un peu</i>]]> de te confondre avec la planète ?",
+        "DAUCUS: Yes.": "DAUCUS : Oui.",
+        "ALNUS: ...I suppose that calling the planet <![CDATA[<color=orange>Daucus</color>]]> works as well as anything.": "ALNUS : ...Je suppose qu'appeler la planète <![CDATA[<color=orange>Daucus</color>]]> fonctionne aussi bien que n'importe quel autre nom.",
+        
+        //water_planet_name
+        "BETULA: I've decided to name this planet <![CDATA[<color=orange>Glacial Abyss!</color>]]>!": "BETULA : J'ai décidé de nommer cette planète l'<![CDATA[<color=orange>Abysse glaciale !</color>]]>!",
+        "ADONSONIA: I like it! Clearly you do as well, if your enthusiasm is anything to go by.": "ADONSONIA : J'aime bien ! Toi aussi, visiblement, si l'on en croit ton enthousiasme.",
+        "BETULA: I should clarify. The first exclamation is actually part of the name, <![CDATA[<color=orange>Glacial Abyss!</color>]]>.": "BETULA : Je dois être plus précise. Le premier point d'exclamation fait réellement partie du nom : l'<![CDATA[<color=orange>Abysse glaciale !</color>]]>.",
+        "ALNUS: All things considered, that is not the worst planet name that has been chosen for this project.": "ALNUS : Tout bien réfléchi, ce n'est pas le pire nom de planète qui a été choisi pour ce projet.",
+        
+        //student_names
+        "Heliostudy team members": "Membres de l'équipe d'Heliostudy",
+        "Alnus": "Alnus",
+        "Betula": "Betula",
+        "Daucus": "Daucus",
+        "Adonsonia": "Adonsonia",
+        
+        //teacher_outro_recording
+        "ORYZA: If you're hearing this, that must mean that you all successfully completed the requirements you set out for yourselves. Congratulations!": "ORYZA : Si vous entendez ceci, cela signifie que vous avez réussi à respecter les contraintes que vous vous étiez fixées. Félicitations !",
+        "ORYZA: The task you were given was not an easy one. To complete it, you had to work very hard and work together. You've made your clan proud, and your project will demonstrate to all the other clans just how clever our little ones are.": "ORYZA : La tâche qui vous a été confiée n'était pas facile. Pour la mener à bien, vous avez dû travailler dur et collaborer. Vous avez fait la fierté de votre clan, et votre projet démontrera à tous les autres clans l'intelligence de nos enfants.",
+        "ORYZA: Speaking of, there is one last thing you all must do before this system is ready to be presented at the festival.": "ORYZA : D'ailleurs, il vous reste une dernière chose à faire avant que ce système soit prêt à être présenté au festival.",
+        "ORYZA: Seeing as this entry is as much about all of you as it is about this educational tool, it's only fitting that you all leave a personal mark on it. Towards that end, I request that you all make self portraits and display them in this room!": "ORYZA : Puisque cette participation vous concerne autant que cet outil pédagogique, il est tout à fait normal que vous y laissiez une empreinte personnelle. Pour cela, je vous demande à tous de réaliser des autoportraits, et de les exposer dans cette salle !",
+        "ORYZA: We are all so proud of what you little ones have accomplished. We can't wait to see where your lives will take you in the future. For now though, it is about time that your journey led you all back to your homes and your warm beds!": "ORYZA : Nous sommes tous très fiers de ce que vous avez accompli, les enfants. Nous avons hâte de voir où vos vies vous mèneront. Mais pour l'instant, il est temps que votre voyage vous ramène tous chez vous et dans vos lits bien chauds !",
+        
+        //double_sand_req
+        "BETULA: Unburying this structure has me thinking; isn't it strange for only one planet in this system to have sand?": "BETULA : Déterrer cette structure me fait penser : n'est-il pas étrange qu'une seule planète de ce système soit recouverte de sable ?",
+        "ALNUS: I suppose so, but why are you mentioning this?": "ALNUS : Je suppose que si, mais pourquoi mentionnes-tu ceci ?",
+        "BETULA: I think it may be a good fourth requirement that multiple planets have sand.": "BETULA : Je pense que la quatrième contrainte pourrait être que plusieurs planètes contiennent du sable.",
+        "DAUCUS: That sounds pretty easy to me.": "DAUCUS : Ça me paraît bien.",
+        "ALNUS: Agreed. We'll notify our teacher of that being our fourth requirement, then.": "ALNUS : D'accord. Nous informerons notre professeure que c'est notre quatrième contrainte, alors.",
+        "ADONSONIA: If it keeps sand off of this planet and away from my pyramid, I'm all for it.": "ADONSONIA : Si cela empêche le sable d'atteindre cette planète et ma pyramide, je suis tout à fait pour.",
+        "BETULA: I'm still very sorry about that.": "BETULA : Je suis vraiment désolée pour ça.",
+        
+        //dried_seabed_req_recorder
+        "ALNUS: I maintain that the discussion of your idea did not require us to come <![CDATA[<i>here</i>]]>.": "ALNUS : Je maintiens que la discussion de ton idée ne nécessitait pas que nous venions <![CDATA[<i>ici</i>]]>.",
+        "ADONSONIA: Don't worry. As long as there's water, we're fine. That brings me to what I actually wanted to discuss; I think our second requirement should be to have a planet with visible geothermal activity.": "ADONSONIA : Ne t'inquiète pas. Tant qu'il y a de l'eau, tout va bien. Ce qui m'amène à ce dont je voulais parler : je pense que notre deuxième contrainte devrait être d'avoir une planète présentant une activité géothermique apparente.",
+        "BETULA: It is true that many star systems have planets with geothermal activity. What made you think of it?": "BETULA : Il est vrai que de nombreux systèmes stellaires possèdent des planètes avec une activité géothermique. Qu'est-ce qui t'a donné cette idée ?",
+        "ADONSONIA: When I drained the water from <![CDATA[<color=orange>Glacial Abyss!</color>]]> to flood this cave, I saw how interesting all of the geysers looked when freed from the ice.": "ADONSONIA : Lorsque j'ai drainé l'eau de l'<![CDATA[<color=orange>Abysse glaciale !</color>]]> pour inonder cette grotte, j'ai vu à quel point tous les geysers devenaient intéressants une fois libérés de la glace.",
+        "DAUCUS: That sounds easy enough. Should we go ahead and send that requirement to Oryza?": "DAUCUS : Ça semble plutôt simple. Devrions-nous transmettre cette contrainte à Oryza ?",
+        "ALNUS: If it will get us out of this cave faster, then yes, certainly.": "ALNUS : Si cela peut nous faire sortir de cette grotte plus rapidement, alors oui, sûrement.",
+        
+        //final_location_req
+        "ORYZA: I thought that you little ones would be interested to see this: directly above you lies a safe way to view the layers of the planet's core!": "ORYZA : J'ai pensé que vous, les enfants, seriez intéressés de voir ceci : juste au-dessus de vous se trouve un moyen sécurisé d'observer les couches du noyau de la planète !",
+        "ORYZA: Additionally, that door (at the end of the path behind you) is the final location that you will need to visit in order to submit your assignment. Think of it as your seventh requirement.": "ORYZA : De plus, cette porte (au bout du chemin derrière vous) est le dernier endroit que vous devrez visiter pour rendre votre devoir. Voyez cela comme votre septième contrainte.",
+        "ALNUS: I do have a concern with this. I'm fairly certain that other requirements of ours will make it impossible for us to use the geysers and gain access to the core once we are ready to submit.": "ALNUS : Je suis inquiet à ce sujet. Je suis presque certain que d'autres contraintes nous empêcheront d'utiliser les geysers et d'accéder au noyau, une fois que nous serons prêts à rendre le projet.",
+        "ORYZA: That is an interesting situation. Unfortunately, I simply cannot allow you to change your requirements at this stage of the project, and you will need to be here to submit it. You all are very clever though, so I'm sure that you'll think of something!": "ORYZA : C'est une situation intéressante. Malheureusement, je ne peux pas vous autoriser à modifier vos contraintes à ce stade du projet, et vous devrez être ici pour le rendre. Vous êtes tous très intelligents, alors je suis sûre que vous trouverez un moyen d'y parvenir !",
+        "BETULA: It's quite interesting! I've never been to the core of a planet before!": "BETULA : C'est assez intéressant ! Je n'ai jamais été dans le noyau d'une planète auparavant !",
+        "DAUCUS: Does that mean that we only need six other requirements in total?": "DAUCUS : Cela signifie-t-il que nous n'avons besoin que de six autres contraintes au total ?",
+        "ORYZA: I suppose that it would, yes.": "ORYZA : Je suppose que oui, en effet.",
+        
+        //frozen_planet_req
+        "ADONSONIA: An interesting idea for our first requirement could be that one of the planets must have a large amount of solid ice on it.": "ADONSONIA : Une idée intéressante pour notre première contrainte pourrait être qu'une des planètes soit recouverte d'une grande quantité de glace solide.",
+        "BETULA: That could be a good one! Star systems do tend to have a wide range of climates, so an icy body would demonstrate that.": "BETULA : Cela pourrait être une bonne idée ! Les systèmes stellaires ont tendance à avoir une grande variété de climats, et un corps glacé le démontrerait.",
+        "ADONSONIA: Alright! I've gone ahead and let Oryza know that our first requirement will be to include a planet with ice.": "ADONSONIA : Très bien ! J'ai prévenu Oryza que notre première contrainte serait d'inclure une planète recouverte de glace.",
+        "ALNUS: Wait, don't send that message yet! I was experimenting earlier, and there doesn't seem to be a way to re-freeze water in this system! Our star is too hot to allow water to re-freeze, even in the furthest orbit.": "ALNUS : Attends, n'envoie pas ce message tout de suite ! J'ai fait une expérience plus tôt, et il ne semble pas y avoir de moyen de recongeler l'eau dans ce système ! Notre étoile est trop chaude pour permettre à l'eau de recongeler, même sur l'orbite la plus éloignée.",
+        "ADONSONIA: That's inconvenient — I've already sent the message with the requirement. Is there some way that we can further reduce the heat reaching the planet?": "ADONSONIA : C'est embêtant. J'ai déjà envoyé le message avec la contrainte. Y aurait-il un moyen de réduire davantage la chaleur atteignant la planète ?",
+        "DAUCUS: Would it not be wise to wait for more people to give input before sending that message?": "DAUCUS : Ne serait-il pas plus sage d'attendre que davantage de personnes donnent leur avis, avant d'envoyer ce message ?",
+        
+        //middle_orbit_req
+        "DAUCUS: Has anyone had any ideas for our last requirement? We are approaching the deadline, so we should keep it simple.": "DAUCUS : Quelqu'un a-t-il une idée pour notre dernière contrainte ? Nous approchons de la date limite, alors nous devrions rester simples.",
+        "ADONSONIA: We haven't put any orbital restrictions on specific planets yet. Perhaps we could do something along those lines.": "ADONSONIA : Nous n'avons pas encore imposé de restrictions orbitales à des planètes spécifiques. On pourrait peut-être faire quelque chose dans ce sens.",
+        "ALNUS: It seems sensible to say that mass would gather towards the center of a naturally-occurring star system. Based on that, we could avoid leaving the largest planet in the farthest orbit.": "ALNUS : Il semble raisonnable de dire que dans un système stellaire naturel, la masse se concentre vers le centre. Selon cette loi, nous pourrions éviter de laisser la plus grosse planète sur l'orbite la plus lointaine.",
+        "BETULA: That is a fair idea! I'll inform Oryza of that being our final requirement.": "BETULA : C'est une bonne idée ! J'informerai Oryza que c'est notre dernière contrainte.",
+        
+        //opposite_sides_req_computer
+        "ADONSONIA: If you're reading this, then you've bested my little convergence puzzle. Nicely done! Bravo! (I'm being earnest, I did not make this puzzle to be easy).": "ADONSONIA : Si vous lisez ceci, c'est que vous avez résolu ma petite énigme de convergence. Bien joué ! Bravo ! (Je suis sérieuse, je n'ai pas conçu cette énigme pour qu'elle soit facile).",
+        "ADONSONIA: If you're wondering about the fifth requirement that I sent to Oryza, don't worry, it's not <![CDATA[<i>terribly</i>]]> bad. I figured that it didn't make sense for planets in the same orbit to be particularly close, so I said that any planets in the same orbit would be on opposite sides of the sun.": "ADONSONIA : Si vous vous demandez quelle est la cinquième contrainte que j'ai envoyée à Oryza, ne vous inquiétez pas, elle n'est pas <![CDATA[<i>épouvantablement</i>]]> difficile. J'ai pensé qu'il n'était pas logique que des planètes sur une même orbite soient particulièrement proches, alors j'ai dit que toutes les planètes sur une même orbite devraient être de part et d'autre du soleil.",
+        "ADONSONIA: Also, for the record, Daucus took part in my little prank too. Turns out that hacking all of the planet signals to make a harmony only costs a few salt-treats!": "ADONSONIA : Et pour information, Daucus a aussi participé à ma petite blague. Il s'avère que pirater tous les signaux planétaires pour créer une harmonie ne coûte que quelques bonbons salés !",
+        
+        //warp_alignment_req
+        "DAUCUS: A fairly simple requirement would be to have our transmitter line up with one of our receivers.": "DAUCUS : Une contrainte assez simple serait que notre émetteur soit aligné avec l'un de nos récepteurs.",
+        "ALNUS: I'm not clear on how that demonstrates an understanding of star systems.": "ALNUS : Je ne vois pas très bien en quoi cela démontre une compréhension des systèmes stellaires.",
+        "DAUCUS: We've placed a number of different buildings on these planets, so it's already not a representation of a fully natural system. Given that, lining up the warp pads would demonstrate that we're considering how transport would work in the system.": "DAUCUS : Nous avons placé plusieurs bâtiments différents sur ces planètes, ce n'est donc déjà pas une représentation d'un système entièrement naturel. Sachant cela, aligner les plateformes de distorsion montrerait que nous réfléchissons au fonctionnement du transport dans le système.",
+        "DAUCUS: Given that we only have the one transmitter, I think we can get away with lining up with whichever warp pad is most convenient.": "DAUCUS : Étant donné que nous n'avons qu'un seul émetteur, je pense que nous pouvons nous contenter d'aligner seulement la plateforme de distorsion la plus pratique.",
+        "ALNUS: That is a fair justification. I'll let our teacher know that our third requirement will be an aligned transmitter-receiver pair.": "ALNUS : C'est une justification valable. Je ferai savoir à notre professeure que notre troisième contrainte sera une paire d'émetteur/récepteur alignés.",
+        "ADONSONIA: That's not a terribly natural requirement, Daucus. I'm surprised to hear that you're going against the grain like that. I like it!": "ADONSONIA : Ce n'est pas une contrainte très naturelle, Daucus. Je suis surprise d'entendre que tu veux aller à contre-courant. J'aime bien ça !",
+        "BETULA: I was skeptical at first, but I do like your reasoning. I vote that we make this a requirement.": "BETULA : J'étais sceptique au début, mais j'apprécie ton raisonnement. Je propose que nous en fassions une contrainte."
+    },
+
+    "ShipLogDictionary": {
+        
+        //walker_jam5_planet1
+        "Signal Detector": "Détecteur de signaux",
+        "A Nomai named Adonsonia created a puzzle involving detecting signals. She locked the fifth requirement for a project behind solving it.": "Une Nomaï nommée Adonsonia a créé une énigme impliquant la détection de signaux. Sa résolution cache la cinquième contrainte d'un projet.",
+        "Warp Transmitter": "Émetteur de distorsion",
+        "A warp transmitter on the equator of Shattered Geode. A Nomai named Daucus modified it to link with both receivers on the other planets in the system.": "Un émetteur de distorsion situé à l'équateur de la Géode brisée. Un Nomaï nommé Daucus l'a modifié pour le relier aux deux récepteurs des autres planètes du système.",
+        "Quantum Rock": "Roc quantique",
+        "A quantum rock located in a structure facing the sun on Shattered Geode. There is a large skylight in the ceiling. A Nomai named Betula theorized about where the stone might go when it disappears. The stone took a recorder with it when it disappeared.": "Un roc quantique situé dans une structure faisant face au soleil sur la Géode brisée. Il y a une grande lucarne au plafond. Une Nomaï nommée Betula a émis une théorie sur l'endroit où le roc pourrait disparaître. Le roc a emporté avec lui un enregistrement lors de sa disparition.",
+        
+        //walker_jam5_planet2
+        "Tall Tower": "Haute tour",
+        "A tall tower on the surface of The Big One. The planet's gravity is far too strong to reach the top.": "Une haute tour à la surface de la Géante. La gravité de la planète est bien trop forte pour atteindre son sommet.",
+        "Ghost Matter Cave": "Grotte de matière fantôme",
+        "A cave on the south pole of The Big One. The cave mouth is filled with ghost matter. A Nomai named Alnus noted that ghost matter can be neutralized with water.": "Une grotte au pôle Sud de la Géante. L'entrée de la grotte est remplie de matière fantôme. Un Nomaï nommé Alnus a remarqué que la matière fantôme peut être neutralisée avec de l'eau.",
+        
+        //walker_jam5_planet3
+        "Buried Structure": "Structure enterrée",
+        "A mostly buried structure on the south pole of Daucus. A Nomai named Adonsonia theorized about whether the sand could be moved elsewhere.": "Une structure en grande partie enterrée au pôle Sud de Daucus. Une Nomaï nommée Adonsonia a émis l'hypothèse que le sable pouvait être déplacé ailleurs.",
+        "Enclosed Structure": "Structure fermée",
+        "I was able to access the rest of the structure by arriving via the warp receiver.": "J'ai pu accéder au reste de la structure en passant par le récepteur de distorsion.",
+        "A structure built around a warp receiver on the equator of Daucus. The structure does not include a door.": "Une structure construite autour d'un récepteur de distorsion à l'équateur de Daucus. La structure ne possède pas de porte.",
+        
+        //walker_jam5_planet4
+        "Subsurface Ocean": "Océan souterrain",
+        "The ice on \"Glacial Abyss!\" is hollow and there is a subsurface ocean below it.": "La glace sur l'\"Abysse glaciale !\" est creuse et un océan souterrain se trouve en dessous.",
+        "The ice on \"Glacial Abyss!\" is hollow and I was able to reach the subsurface ocean below it.": "La glace sur l'\"Abysse glaciale !\" est creuse et j'ai pu atteindre l'océan souterrain en dessous.",
+        "Undersea Warp Receiver": "Récepteur de distorsion sous-marin",
+        "There is a warp receiver near the equator of \"Glacial Abyss!\" on the seabed under the ice.": "Un récepteur de distorsion se trouve près de l'équateur de l'\"Abysse glaciale !\", au fond de la mer, sous la glace.",
+        "Geysers": "Geysers",
+        "Nomai noticed geysers beneath the ice on the seabed of \"Glacial Abyss!\" near the north pole. The flow of the geysers prevents entry. A Nomai named Alnus mentioned that thawing the planet had increased its geothermal activity.": "Une Nomaï a remarqué des geysers sous la glace, au fond de la mer de l'\"Abysse glaciale !\", près du pôle Nord. Le jet des geysers empêche d'y entrer. Un Nomaï nommé Alnus a mentionné que le dégel de la planète avait augmenté son activité géothermique.",
+        "Planetary Core Display": "Affichage du noyau planétaire",
+        "Abyssal Core": "Noyau abyssal",
+        "\"Glacial Abyss!\" has a hollow core connected to the geysers near the north pole. A Nomai teacher wanted her students to see something in the core.": "L'\"Abysse glaciale !\" possède un noyau creux relié aux geysers près du pôle Nord. Une enseignante Nomaï souhaitait que ses élèves découvrent quelque chose dans le noyau.",
+        "\"Glacial Abyss!\" has a hollow core connected to the geysers near the north pole. I was able to reach the core by descending the geysers while the planet was frozen. It contains a viewing area for safely observing the layers of the planet's core.": "L'\"Abysse glaciale !\" possède un noyau creux relié aux geysers près du pôle Nord. J'ai pu atteindre le noyau à travers les geysers alors que la planète était gelée. Il contient une zone d'observation permettant d'étudier en toute sécurité les couches du noyau de la planète.",
+        "Core Orrery Warp Transmitter": "Émetteur de distorsion du planétaire",
+        "Missing Orrery Warp Transmitter": "Émetteur de distorsion du planétaire manquant",
+        "The warp transmitter from \"Glacial Abyss!\" to the orrery station isn't on the north pole.": "L'émetteur de distorsion reliant l'\"Abysse glaciale !\" à la station du planétaire ne se trouve pas au pôle Nord.",
+        "The warp transmitter from \"Glacial Abyss!\" to the orrery station is in the core of the planet.": "L'émetteur de distorsion reliant l'\"Abysse glaciale !\" à la station du planétaire se trouve dans le noyau de la planète.",
+        "The core of \"Glacial Abyss!\" contains a sealed door. A Nomai computer attached to the door states that not all project requirements have been met.": "Le noyau de l'\"Abysse glaciale !\" contient une porte scellée. Un ordinateur Nomaï connecté à la porte indique que toutes les conditions du projet n'ont pas été remplies.",
+        
+        //walker_jam5_platform
+        "Invitation Platform": "Plateforme d'accueil",
+        "I found an invitation platform for a Nomai educational project and festival entry called the Heliostudy.": "J'ai trouvé une plateforme d'accueil pour un projet scolaire et une participation à un festival Nomaï, appelé l'Heliostudy.",
+        "The device on the platform can be activated by placing all of the orbs at approximately the same distance from the center. Additionally, the user must not be wearing any space gear. I was warned that the device is highly experimental and likely to break things.": "L'appareil sur la plateforme peut être activé en plaçant tous les orbes à équidistance du centre. De plus, l'utilisateur ne doit porter aucun équipement spatial. On m'a prévenu que cet appareil était hautement expérimental, et qu'il risquait de casser des choses.",
+        
+        //walker_jam5_station
+        "Orrery Station": "Station du planétaire",
+        "Heliostudy": "Heliostudy",
+        "The system with purple lines and a pale blue star was the subject of an educational project and Nomai festival entry known as the Heliostudy.": "Le système aux traits violets et à l'étoile bleu pâle était l'objet d'un projet scolaire et d'une participation au festival Nomaï, sous le nom d'Heliostudy.",
+        "The station contains an orrery of the system. A Nomai named Oryza claims the system is a scaled-up representation of the orrery.": "La station contient un planétaire du système. Une Nomaï nommée Oryza affirme que le système est une représentation du planétaire à grande échelle.",
+        "There are warp transmitters connected to the station on the north pole of most planets in the system.": "Des émetteurs de distorsion sont connectés à la station, au pôle Nord de la plupart des planètes du système.",
+        "A group of Nomai students were assigned a project to prepare this star system to be their clan's entry in a festival. They had to propose 7 requirements that the system would fulfill in order to demonstrate their understanding of the mechanisms of natural star systems.": "Un groupe d'étudiants Nomaï s'est vu confier un projet visant à préparer ce système stellaire pour la participation de leur clan à un festival. Ils devaient proposer 7 contraintes que le système remplirait, afin de démontrer leur compréhension des mécanismes des systèmes stellaires naturels.",
+        "Frozen Planet": "Planète gelée",
+        "First Requirement": "Première contrainte",
+        "The first of 7 requirements that a Nomai project must meet.": "La première des 7 contraintes qu'un projet Nomaï doit respecter.",
+        "By using another astral body's gravity to help me, I was able to reach the top of the tower.": "Grâce à la gravité d'un autre corps astral, j'ai pu atteindre le sommet de la tour.",
+        "The first requirement is that solid ice must be present on a planet in the system. The system's star is too hot to allow ice to re-freeze, even in the furthest orbit. A Nomai named Adonsonia wondered if there may be a way to further reduce the heat reaching the planet while it is in the furthest orbit.": "La première contrainte est qu'une planète du système doit être recouverte de glace solide. L'étoile du système est trop chaude pour permettre à la glace de recongeler, même sur l'orbite la plus éloignée. Une Nomaï nommée Adonsonia s'est demandé s'il n'existait pas un moyen de réduire davantage la chaleur atteignant la planète, lorsqu'elle est sur son orbite la plus éloignée.",
+        "Geothermal Activity": "Activité géothermique",
+        "Second Requirement": "Deuxième contrainte",
+        "The second of 7 requirements that a Nomai project must meet.": "La deuxième des 7 contraintes qu'un projet Nomaï doit respecter.",
+        "By flooding the planet, I was able to safely enter the cave.": "En inondant la planète, j'ai pu pénétrer dans la grotte en toute sécurité.",
+        "The second requirement is that a planet must have exposed geothermal activity.": "La deuxième contrainte est qu'une planète doit posséder une activité géothermique apparente.",
+        "Warp Alignment": "Alignement de distorsion",
+        "Third Requirement": "Troisième contrainte",
+        "The third of 7 requirements that a Nomai project must meet.": "La troisième des 7 contraintes qu'un projet Nomaï doit respecter.",
+        "The third requirement is for the warp transmitter that does not lead to the orrery station to be aligned with at least one receiver.": "La troisième contrainte est que l'émetteur de distorsion qui ne mène pas à la station du planétaire doit être aligné avec au moins un récepteur.",
+        "Sand Distribution": "Répartition du sable",
+        "Fourth Requirement": "Quatrième contrainte",
+        "The fourth of 7 requirements that a Nomai project must meet.": "La quatrième des 7 contraintes qu'un projet Nomaï doit respecter.",
+        "By siphoning the sand off the planet using the largest planet in the system, I was able to access the rest of the structure.": "En siphonnant le sable grâce à la plus grande planète du système, j'ai pu accéder au reste de la structure.",
+        "The fourth requirement is that multiple planets in the system must have sand.": "La quatrième contrainte est que plusieurs planètes du système doivent être recouvertes de sable.",
+        "Orbit Sharing": "Partage d'orbite",
+        "Fifth Requirement": "Cinquième contrainte",
+        "The fifth of 7 requirements that a Nomai project must meet.": "La cinquième des 7 contraintes qu'un projet Nomaï doit respecter.",
+        "Simultaneously scanning all the astral bodies' signals activated a nearby Nomai computer.": "L'écoute simultanée de tous les signaux des corps astraux a permis d'activer un ordinateur Nomaï à proximité.",
+        "The fifth requirement is that any two planets that share an orbit must be on opposite sides of the sun.": "La cinquième contrainte est que deux planètes partageant une même orbite doivent se trouver de part et d'autre du soleil.",
+        "Mass Distribution": "Répartition de la masse",
+        "Sixth Requirement": "Sixième contrainte",
+        "The sixth of 7 requirements that a Nomai project must meet.": "La sixième des 7 contraintes qu'un projet Nomaï doit respecter.",
+        "By blocking the light from the sun, I was able to quantum entangle with the rock to reach a cave below the surface.": "En bloquant la lumière du soleil, j'ai pu être quantiquement intriqué avec le roc pour atteindre une grotte sous la surface.",
+        "The sixth requirement is that the largest planet in the system may not be in the furthest orbit.": "La sixième contrainte est que la plus grande planète du système ne doit pas être sur l'orbite la plus éloignée.",
+        "Final Location": "Emplacement final",
+        "Seventh Requirement": "Septième contrainte",
+        "The last of 7 requirements that a Nomai project must meet.": "La dernière des 7 contraintes qu'un projet Nomaï doit respecter.",
+        "Once all six requirements are met, the project must be submitted in the core of \"Glacial Abyss!\". A Nomai named Alnus pointed out that it is impossible to reach the core via the geysers while all the other project requirements are met.": "Une fois les six contraintes respectées, le projet doit être soumis au niveau du noyau de l'\"Abysse glaciale !\". Un Nomaï nommé Alnus a souligné qu'il est impossible d'atteindre le noyau via les geysers, tant que toutes les autres contraintes du projet sont respectées."
+    },
+
+    "UIDictionary": {
+        "Walker_Jam5_Star": "Héliocentre",
+        "Walker_Jam5_Planet1": "Géode brisée",
+        "Walker_Jam5_Planet2": "La Géante",
+        "Walker_Jam5_Planet3": "Daucus",
+        "Walker_Jam5_Planet4": "Abysse glaciale !",
+        "Walker_Jam5_Station": "Station du planétaire",
+
+        "Walker_Jam5_Harmonic": "Harmonie solaire",
+        "Walker_Jam5_Star_Signal": "Héliocentre",
+        "Walker_Jam5_Planet1_Signal": "Géode brisée",
+        "Walker_Jam5_Planet2_Signal": "La Géante",
+        "Walker_Jam5_Planet3_Signal": "Daucus",
+        "Walker_Jam5_Planet4_Signal": "Abysse glaciale !",
+
+        "REQUIREMENTS_SCREEN_PROMPT": "1. Une planète du système est recouverte de glace solide.\n2. Une planète présente une activité géothermique apparente.\n3. Au moins un récepteur de distorsion est aligné.\n4. Plusieurs planètes sont recouvertes de sable.\n5. Toutes les planètes sur une même orbite sont situées de part et d'autre du soleil.\n6. La plus grande planète n'est pas sur l'orbite la plus éloignée.",
+        "ORB_CANCEL_DRAG_PROMPT": "Libérer l'orbe",
+        "DEVELOPER_COMMENTARY_WARP_PROMPT": "Distorsion vers les commentaires",
+        "DEVELOPER_COMMENTARY_WARP_UNREAD_PROMPT": "Distorsion vers les commentaires non lus",
+        "DEVELOPER_COMMENTARY_READ_NOTIFICATION": "COMMENTAIRES LUS",
+
+        "Heliostudy contains developer commentary that can be enabled from the options menu.\n\nIt is highly recommended to complete the mod before enabling commentary.": "Heliostudy propose des commentaires des développeurs activables depuis le menu des options.\n\nIl est fortement recommandé de terminer le mod avant d'activer les commentaires.",
+        "Enable developer commentary from the options menu!": "Activez les commentaires des développeurs depuis le menu des options !",
+        "Developer Commentary": "Commentaires des développeurs",
+        "None": "Aucun",
+        "All": "Tous",
+        "View commentary from the mod's developers. Use the Developer Commentary frequency on your signalscope to locate and warp to commentary. It is recommended that you finish the mod before enabling this option.": "Afficher les commentaires des développeurs du mod. Utilisez la fréquence des commentaires des développeurs sur votre onduloscope, pour localiser les commentaires et y effectuer une distorsion. Il est recommandé de terminer le mod avant d'activer cette option.",
+        
+        "You are not real.": "Vous n'êtes pas réel.",
+        "Heliostudy": "Heliostudy",
+        "Ernesto": "Ernesto"
+    },
+
+    "AchievementTranslations": {}
+}
