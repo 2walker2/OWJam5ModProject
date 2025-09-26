@@ -58,7 +58,7 @@
     "Lately things have been a bit more difficult, what with the universe coming to an end and all. The students are actually doing fairly well emotionally speaking, but you would not believe the number of them who try to make existential arguments for missing assignments!": 
     "近期事情变得有些棘手，毕竟宇宙即将走向终结了。学生们的情绪都还稳定，但你不会想到有多少学生对缺交作业进行存在主义的辩解！",
     "Device... Ah, that old thing! That's an old prototype for the orrery used in our project. We found it lying around at some point during our work, and decided to see if we could get into some mischief with it.": 
-    "设备……啊，那个旧东西！那是我们项目中天体仪的原型机。我们在工作时发现它被闲置在某个地方，于是决定试着用它玩点小把戏。",
+    "装置……啊，那个旧东西！那是我们项目中天体仪的原型机。我们在工作时发现它被闲置在某个地方，于是决定试着用它玩点小把戏。",
     "Daucus was able to hack it to become responsive if certain conditions were met, so that we could use it without the adults becoming aware of its functional state.": 
     "道库斯成功破解了它，使它在特定条件满足时响应，这样我们就可以暗中使用它，而不让大人们察觉它还能正常运转。",
     "...Unfortunately, it proved to be highly unstable and dangerous. I really shouldn't tell you how to activate it. I have learned some responsibility over the years, after all.": 
@@ -490,9 +490,10 @@
 
         //walker_jam5_station
         "Orrery Station": "天体仪空间站",
+      "A Nomai space station overlooking the star system.": "一座挪麦空间站，俯瞰整个星系。",
         "Heliostudy": "辉日研究",
         "The system with purple lines and a pale blue star was the subject of an educational project and Nomai festival entry known as the Heliostudy.": "这个拥有紫色轮廓和浅蓝色恒星的星系是一个教学项目和挪麦发现节参展项目，名为辉日研究。",
-        "The station contains an orrery of the system. A Nomai named Oryza claims the system is a scaled-up representation of the orrery.": "太空站内设有一座本星系的天体仪。一位名为欧瑞扎的挪麦人声称这个星系是天体仪的放大版。",
+        "The station contains an orrery of the system. A Nomai named Oryza claims the system is a scaled-up representation of the orrery.": "空间站内设有一座本星系的天体仪。一位名为欧瑞扎的挪麦人声称这个星系是天体仪的放大版。",
         "There are warp transmitters connected to the station on the north pole of most planets in the system.": "星系中的大部分星球在北极都有一个与空间站相连接的跃迁发射点。",
         "A group of Nomai students were assigned a project to prepare this star system to be their clan's entry in a festival. They had to propose 7 requirements that the system would fulfill in order to demonstrate their understanding of the mechanisms of natural star systems.": "一群挪麦学生被布置了一项任务，要求他们改造这个星系，并将其作为家族的发现节参展项目。他们必须提出七个该星系可以满足的条件，以体现自己对自然界恒星系运行机制的理解。",
 
@@ -564,7 +565,7 @@
     "查看mod开发者解说。使用信号镜的开发者解说频道定位及跃迁至解说地点。\n建议通关mod后再开启此选项。",
 
     "You are not real.":"你并不真实存在。",
-    "Heliostudy":"Heliostudy（辉日计划）",
+    "Heliostudy":"Heliostudy（辉日研究）",
     "Ernesto":"埃内斯托"
 
   },
