@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 696587571
+CRC: 1378959553
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2676c1a71590e777370b2b35386e551c
+    Hash: 5749cd586b5b51a356988ffe0f7b344b
   TypeTreeHash:
     serializedVersion: 2
     Hash: e4c360d21cbcec07e1dfe2c650a062e1
@@ -354,4 +354,4 @@ Assets:
 - Assets/Texture2D/LOD_Terrain_HT_SandVariant_d.png
 - Assets/Shader/Standard (Refractive).asset
 Dependencies:
-- C:/Users/dwalk/Outer Wilds Modding/OWJam5Root/OWJam5ModProject/OWJam5ModProject/planets/assets/walker_jam5_assets2
+- D:/Github/OWJam5ModProject/OWJam5ModProject/planets/assets/walker_jam5_assets2
