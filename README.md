@@ -13,9 +13,15 @@ Created by:
 * [Walker](https://github.com/2walker2), who did design, programming, ship logs, and developer commentary
 * [JohnCorby](https://github.com/JohnCorby), who did programming, music, optimization, and design
 
-and playtested by:
+Playtested by:
 
 * IcyViaton
 * vodlink
 * pikpik_carrot
 * Anonymous
+
+And translated by:
+* Nan: Chinese
+* Barirn: Korean
+* LaraNanuq: French
+* HanSoloCh: Russian
