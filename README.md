@@ -10,12 +10,18 @@ Listen to the soundtrack [here](https://open.spotify.com/album/2UM3EtB8dB9WGV8xW
 Created by:
 * [coderCleric](https://github.com/coderCleric), who did design, programming, and writing
 * [Lezzlebit](https://github.com/lezzlebit), who did music, audio, 2D and 3D Art, and design
-* [Walker](https://github.com/2walker2), who did design, programming, ship logs, and developer commentary
+* [Walker](https://github.com/DWalkerMPortfolio?tab=repositorie), who did design, programming, ship logs, and developer commentary
 * [JohnCorby](https://github.com/JohnCorby), who did programming, music, optimization, and design
 
-and playtested by:
+Playtested by:
 
 * IcyViaton
 * vodlink
 * pikpik_carrot
 * Anonymous
+
+And translated by:
+* Nan: Chinese
+* Barirn: Korean
+* LaraNanuq: French
+* HanSoloCh: Russian
