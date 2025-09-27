@@ -3,7 +3,7 @@ CRC: 756373968
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 36cdf6671ab95be7c5b96efa911b7e3c
+    Hash: 9b898638ecde83f05b178f6b476b26a3
   TypeTreeHash:
     serializedVersion: 2
     Hash: d6e7163f47d5a48446b5a08965f94164
@@ -74,4 +74,4 @@ Assets:
 - Assets/Nomai Ruins/Resources/Materials/Structure_NOM_HexagonTile_n.png
 - Assets/Nomai Ruins/Resources/Materials/Structure_NOM_HexagonStar_s.png
 Dependencies:
-- D:/Github/OWJam5ModProject/OWJam5ModProject/planets/assets/walker_jam5_assets
+- C:/Users/dwalk/Outer Wilds Modding/OWJam5Root/OWJam5ModProject/OWJam5ModProject/planets/assets/walker_jam5_assets

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2706662208
+CRC: 3766172361
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a2ef57867038e66cc76ea8e8359ae80c
+    Hash: e2ce294ffe79da49e77fbe1ec80089bc
   TypeTreeHash:
     serializedVersion: 2
     Hash: e5386719bdb3e7abdf8afdb298d720c8
@@ -644,5 +644,5 @@ Assets:
 - Assets/_Bundle/DeveloperCommentary/Dialog/John/RuinsMusic.xml
 - Assets/Nomai Ruins/Resources/Meshes/GravityFlipper.fbx
 Dependencies:
-- D:/Github/OWJam5ModProject/OWJam5ModProject/planets/assets/walker_jam5_assets
-- D:/Github/OWJam5ModProject/OWJam5ModProject/planets/assets/walker_jam5_assets2
+- C:/Users/dwalk/Outer Wilds Modding/OWJam5Root/OWJam5ModProject/OWJam5ModProject/planets/assets/walker_jam5_assets
+- C:/Users/dwalk/Outer Wilds Modding/OWJam5Root/OWJam5ModProject/OWJam5ModProject/planets/assets/walker_jam5_assets2
