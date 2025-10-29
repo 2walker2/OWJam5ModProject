@@ -1,0 +1,1008 @@
+{
+  "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/translation_schema.json",
+  "DialogueDictionary": {
+    //adonsonia_intro
+    "Hello there!": "こんにちは！",
+    "AAAAHHHH!!!!": "ああああああああああああああああああああああああああああああああああああ",
+    "WHAT!?!?!??": "WHAT!?!?!??",
+    "Ha! I'm sorry if I frightened you.": "ハ！怖がらせてしまったのなら、ごめんなさい。",
+    "I wondered why this old project was claiming to have been submitted again after all these years! I'm Adonsonia, one of the students who worked on this project a long time ago.": "なぜこの古いプロジェクトが、今さらまた提出されたと主張するのか不思議だった！私はアドンソニア、昔このプロジェクトに携わった学生の一人だ。",
+    "You don't look like a Nomai, but you must be quite clever to have gotten this system into the correct configuration after all of the time it has spent drifting.": "あなたは野舞には見えないが、漂流に費やした時間を経て、このシステムを正しいコンフィギュレーションに仕上げるとは、かなり賢い人なのだろう。",
+    "Effort like that is certainly worthy of some reward. How about this; I have some free time from all of my teaching duties right now! If you ask me any questions, I'll do my best to answer them.": "そのような努力は確かに報酬に値する。私は今、指導の仕事の合間を縫って自由な時間を過ごしている！何か質問があれば、できる限りお答えしますよ。",
+ 
+    //adonsonia_outro
+    "So, was there anything you wanted to ask me about?": "それで、何か聞きたいことはあった？",
+    "How are we able to understand each other?": "どうやってお互いを理解することができるのか？",
+    "What happened to Alnus after the project?": "プロジェクトの後、アルナスはどうなったのですか？",
+    "What happened to Betula after the project?": "プロジェクトの後、ベチュラはどうなったのですか？",
+    "What happened to Daucus after the project?": "プロジェクトの後、ドーカスはどうなったのですか？",
+    "What happened to you after the project?": "プロジェクトの後、あなたはどうなりましたか？",
+    "What's the deal with the device back on the invitation platform?": "デバイスが招待台に戻ったことについては？",
+    "Can I <![CDATA[<color=orange>pretty please</color>]]> know how to activate that device?": "<![CDATA[<color=orange>pretty please</color>]]>その装置を起動させる方法を教えてもらえませんか？",
+    "I don't have any more questions for now.": "今のところ、これ以上の質問はない。",
+    "That would be due to the universal translator I have on my person. It's able to quickly discern language patterns, allowing us to understand each other with minimal issues. We have Betula to thank for that — it's actually her invention!": "それは私が肌身離さず持っている万能翻訳機のおかげだろう。言葉のパターンを素早く判別し、最小限の問題でお互いを理解することができる。これはベチュラの発明なんだ！",
+    "Ah, that fascicle of nerves. Although his anxiety is still there, he's become much better at managing it. He's also grown more able to take a joke, much to my relief.": "ああ、あの神経の筋膜だ。不安はまだあるが、それをうまくコントロールできるようになった。冗談も言えるようになった。",
+    "As you might imagine, he had a very good academic career after our project. After completing his education he moved on to become one of our clan's head researchers. He's used his knowledge of star systems particularly well, helping our clan identify systems likely to harbor life.": "ご想像の通り、私たちのプロジェクトの後、彼は非常に優秀な学究的キャリアを積んだ。学業を終えた後、彼は我々の一族の研究者のトップになった。彼は特に星系に関する知識を生かし、生命が存在しそうな星系を特定するのに役立っている。",
+    "Through his efforts our clan has met friends of many different forms, and had quite the cultural exchange. This was quite useful in the development of the universal translator I'm using to speak to you now.": "彼の努力によって、私たちの一族はさまざまな形の友人と出会い、かなりの文化交流をしてきた。このことは、私が今皆さんにお話しするために使っている万能翻訳機の開発に大いに役立ちました。",
+    "I believe he's currently using his skills to identify stars that are still stable enough to support our people, as well as others. He's also made himself useful to rescue efforts, identifying star systems simultaneously likely to have life and likely to be annihilated soon.": "彼は現在、私たちの仲間や他の星々を支えるのに十分なほど安定している星を特定するために、そのスキルを使っていると思う。彼はまた、生命が存在しそうな星系とすぐに消滅しそうな星系を同時に特定し、救助活動に役立てている。",
+    "Betula actually went on to study alien cultures and languages. She was always more interested in social affairs than strictly academic ones, so it was a type of work that uniquely suited her.": "ベチュラは実際に異星人の文化や言語を研究するようになった。彼女は学問的なことよりも社会的なことに興味があった。",
+    "She has been the first Nomai to contact a number of different alien species, and used the knowledge gained to develop the universal translator that allows us to communicate now.": "彼女はノマイ族で初めて、さまざまな異星人と接触し、そこで得た知識をもとに、私たちのコミュニケーションを可能にする万能翻訳機を開発した。",
+    "She's even caused some members of other species to join Nomai clans. Due to her efforts, approximately half of our clan is actually composed of non-Nomai species. Their insights have led to some remarkable technological breakthroughs.": "彼女のおかげで、他の種族がノマイ・クランに加わったこともある。彼女の努力により、私たちのクランの約半分はノマイ以外の種族で構成されています。彼らの洞察力によって、技術的な飛躍がもたらされた。",
+    "Nowadays she uses her social skills to help people of varying cultures cooperate, which is especially important given the dwindling resources of our universe. It's a bit of a shame, I imagine she would have been quite thrilled to speak with you if she were here.": "現在、彼女はその社交的なスキルを活かして、さまざまな文化を持つ人々が協力し合えるよう手助けしている。もし彼女がここにいたら、あなたと話すのをとても楽しみにしていただろうに。",
+    "Ha! Daucus always says he was never able to beat that lazy streak of his, although I'm honestly not convinced that he ever tried. The only thing he was ever willing to put real effort into was hacking systems.": "ハ！ドーカスはいつも、あの怠惰な性格を克服することはできなかったと言っている。彼が本当に努力を惜しまなかったのは、システムをハッキングすることだけだった。",
+    "Fortunately, he was able to use that to find his place refurbishing and repurposing old technology. He's been able to revive a number of machines that, by all accounts, never should have been able to work again.": "幸いなことに、彼はそれを活かして古い技術の改修と再利用に自分の居場所を見つけることができた。彼は、誰の目から見ても二度と動くはずのなかった数々のマシンを復活させることができた。",
+    "He's actually expanded the number of ships available to our people quite substantially. This has allowed our clan to contact many more species than would otherwise be possible. I believe that other clans even bring him derelict vessels from time to time in the hopes that he can repair them.": "彼は実際に、私たち一族が利用できる船の数を大幅に増やしてくれた。そのおかげで私たちのクランは、他の方法では不可能なほど多くの種族と接触できるようになった。他の氏族は、彼が修理できることを期待して、時折、廃船を持ってくることさえあると思う。",
+    "I'm unsure how he feels about it, but he's recently been put in charge of a substantially sized team. With the current state of the universe, it's more important than ever to keep equipment operational for as long as possible. He's actually become quite an important member of our clan.": "彼がどう思っているかはわからないが、最近、かなりの規模のチームを任されるようになった。宇宙の現状を考えると、機材をできるだけ長く稼働させておくことは、これまで以上に重要だ。実際、彼は我々のクランにとって重要なメンバーになっている。",
+    "As you may have guessed, I never took my studies particularly seriously as a child. In school, I was much more concerned with playing pranks on Alnus and socializing with Betula.": "お察しの通り、私は子供の頃、勉強に真剣に取り組んだことはない。学校では、アルヌスにいたずらをしたり、ベチュラと交友を深めたりすることの方がずっと大事だった。",
+    "It was actually the influence of our old teacher, Oryza, that led to me becoming a teacher. She was able to convince me to put more effort into my studies, something that I am now very thankful for whenever a student comes to me with questions.": "私が教師になったのは、実は恩師であるオリザ先生の影響だった。彼女は、私が勉強にもっと力を入れるよう説得してくれた。今では生徒が質問に来るたびに、そのことにとても感謝している。",
+    "Outside of standard teaching duties, I've also been aiding in communications between us Nomai and other species. Some other teachers and I have even created an inter-species teacher association to aid in the spread of different people's knowledge.": "通常の授業以外にも、私は私たちノマイ族と他の種族とのコミュニケーションのお手伝いをしています。他の教師たちと私は、さまざまな人々の知識を広めるために、種族を超えた教師協会を作りました。",
+    "Lately things have been a bit more difficult, what with the universe coming to an end and all. The students are actually doing fairly well emotionally speaking, but you would not believe the number of them who try to make existential arguments for missing assignments!": "最近、宇宙が終わろうとしていることもあって、物事が少し難しくなっている。生徒たちは感情的にはかなりよくやっているが、課題を欠席したことで実存的な議論をしようとする生徒が信じられないほど多い！",
+    "Device... Ah, that old thing! That's an old prototype for the orrery used in our project. We found it lying around at some point during our work, and decided to see if we could get into some mischief with it.": "デバイス...ああ、あの古いやつか！あれは、私たちのプロジェクトで使われているオルレリーの古い試作品なんだ。作業中に転がっているのを見つけて、いたずらできないか試してみることにしたんだ。",
+    "Daucus was able to hack it to become responsive if certain conditions were met, so that we could use it without the adults becoming aware of its functional state.": "ドーカスは、特定の条件が満たされれば反応するようにハックすることができた。",
+    "...Unfortunately, it proved to be highly unstable and dangerous. I really shouldn't tell you how to activate it. I have learned some responsibility over the years, after all.": "...残念ながら、非常に不安定で危険であることが判明した。その起動のさせ方は、本当はあなたに教えるべきではありません。結局のところ、私は長年にわたってある程度の責任を学んできた。",
+    "...Oh, alright, but don't claim that I didn't warn you. You should exercise extreme caution around that device — it's quite possible for it to <![CDATA[<color=red>break things</color>]]> and not function entirely as expected.": "...ああ、わかった。だが、私が警告しなかったと主張しないでくれ。そのデバイスの周りでは細心の注意を払うべきだ。<![CDATA[<color=red>break things</color>] ]>する可能性は十分にあるし、完全に期待通りに機能しないこともある。",
+    "To activate it, all of the orbs on the invitation platform need to be placed at roughly the same distance from the center. Additionally, it won't activate unless it is approached by somebody who is not wearing any space gear.": "これを作動させるには、招待台にあるすべてのオーブを中心からほぼ同じ距離に置く必要がある。さらに、宇宙服を着ていない人が近づかないと発動しない。",
+    "As for what exactly it does... I suppose I'll leave you to figure that out for yourself! Have fun, and be careful!": "具体的に何をするのかについては...。それは自分で考えてください！楽しんで、そして気をつけて",
+    "Understood. I'll be here for some time, so feel free to come back if you change your mind.": "わかったよ。しばらくはここにいるから、気が変わったら遠慮なく戻ってきてくれ。",
+  
+    //ernesto
+    "Hey it's me Ernesto.": "やあ、エルネストだ。",
+    "The stars have gathered around this point, and I have been formed.": "星がこの地点に集まり、私が形成された。",
+    "Take witness, and know that I am forever; and so too is my wisdom.": "そして、私の知恵もまた永遠であることを知れ。",
+    "I will bestow a gift upon you: you may ask me a single question, and I will answer it.": "ひとつだけ質問してくれたら、それに答えよう。",
+    "I am incredibly generous. You may ask another question.": "私は信じられないほど寛大だ。別の質問をしてもいい。",
+    "What question will you be asking?": "どんな質問をするのか？",
+    "Wait, aren't you a mathematical construct? You aren't real!": "待って、あなたは数学的構成物じゃないの？あなたは実在しない！",
+    "What is the meaning of the universe?": "宇宙の意味とは？",
+    "Why am I very slowly drifting away from you?": "なぜ私はあなたから少しずつ離れていくのだろう？",
+    "I once found an artificial ring world inhabited by a species whose language I could not translate. What did they call themselves?": "私はかつて、翻訳できない言語を持つ種族が住む人工的なリングワールドを見つけたことがある。彼らは自分たちを何と呼んでいたのだろう？",
+    "I once saw a slide reel showing an alien resting at a green campfire, before being engulfed in a bright light. What caused this?": "緑色のキャンプファイヤーで休んでいたエイリアンが、明るい光に包まれるのをスライドで見たことがある。その原因は？",
+    "Who was the winner of Outer Wilds Mod Jam 5?": "アウターワイルズ・モッズジャム5の勝者は？",
+    "Why in the world would the Nomai have candy wrappers? That is entirely against their philosophy.": "一体なぜ野舞がキャンディの包み紙を持っているのか？それは彼らの哲学にまったく反している。",
+    "No, YOU aren't real.": "いや、君は本物じゃない。",
+    "The meaning of the universe? It's right there in the name.": "宇宙の意味？それは名前の中にある",
+    "E.R.N.E.S.T.O.": "E.R.N.E.S.T.O.",
+    "E: Enlightenment, in truth, comes only from Ernesto.": "E: 悟りは、本当はエルネストからしか得られない。",
+    "R: Roast marsh mallow!": "R：マシュマロのロースト！",
+    "N: NOTHING beats an epic gamer moment!": "N: 壮大なゲーマーの瞬間に勝るものはない！",
+    "E: Eheheheeeeee": "E: えへへへへ",
+    "S: Save your mind and body from the sphere of ice; for as long as you live, it will not show mercy.": "S：あなたの心と体を氷の球から救いなさい。あなたが生きている限り、氷は慈悲を示さないから。",
+    "T: Text for ernesto universe dialogue goes here": "T：エルネスト・ユニバース対談のテキストはこちら",
+    "O: Oh... that's groundsize. That's groundsize of my supermassive planet.": "O:ああ...地面サイズだ。私の超巨大惑星の大きさだ。",
+    "It's uh. It's because my wisdom is too powerful. Yeah": "それは......。私の知恵が強すぎるからだああ",
+    "Just like don't worry about it bro": "ただ、心配することはないよ",
+    "Ah, the inhabitants of the ring world. You would like to know the name of their collective people.": "ああ、リングの世界の住人たち。あなたは彼らの集団の名前を知りたがっている。",
+    "They called themselves... The \"Joemai\".": "彼らは自らをこう呼んだ。ジョエマイ」。",
+    "It's a shame that you couldn't understand their dialect. While much of their informaton was communicated visually, their writing was like nothing I had ever seen.": "彼らの方言を理解できなかったのは残念だ。彼らの情報の多くは視覚的に伝えられるが、彼らの文章は私が見たこともないようなものだった。",
+    "If you don't mind, I'd like to share a truly profound piece of the Joemai's poetry. It made a significant mark on my eternal life:": "もし差し支えなければ、ジョエマイの詩の中から本当に深いものを紹介したい。それは私の永遠の人生に大きな足跡を残した：",
+    "\"I hope your bones shatter into a fine powder\"": "\"骨が粉々に砕けることを願う\"",
+    "He farted": "彼は屁をこいた",
+    "Team gloopus won the fifth Outer Wilds mod jam. They made the \"one million Ernestos on an otherwise empty new horizons planet config\" mod.": "チームgloopusは第5回Outer Wilds mod jamで優勝した。彼らは「何もないニューホライズンズの惑星コンフィグに100万のアーネストス」を作った。",
+    "The mod boasted a whopping thirty-six thousand hours of content, split up into fifteen chapters.": "このMODはなんと3万6000時間ものコンテンツを誇り、15の章に分かれている。",
+    "It took ten minutes for the mod to make two of the three judges begin to sob uncontrollably. The third judge simply left the room and began to reflect on life.": "3人の審査員のうち2人が抑えきれずに嗚咽を漏らすまで10分を要した。3人目の審査員はただ部屋を出て、人生を振り返り始めた。",
+    "It won because it had a script in it that removed every other jam entry. The judges have not noticed, as they are still playing the mod to this day.": "優勝したのは、他のジャムのエントリーをすべて削除するスクリプトが入っていたからだ。審査員たちは気づいていない。",
+    "Yeah that's a fair question.": "ああ、それはもっともな質問だ。",
+    "It was funny. Idk": "面白かったよ。どうだろう？",
+
+    //convergence_explanation
+    "BETULA: This structure is <![CDATA[<i>very</i>]]> impressive, although I don't recall us ever discussing it or its construction.": "BETULA：この構造は<![CDATA[<i>非常に</i>]]>印象的だが、その構造について議論した記憶はない。",
+    "ADONSONIA: This is just a small puzzle that I made in my spare time. It uses those old radios that Oryza gave us for detecting signals. If anyone manages to solve it, the computer over there will activate and display its information.": "アドンソニア：これは私が暇なときに作った小さなパズルです。信号を検出するために、オリザがくれた古いラジオを使うんだ。誰かがこれを解くことができれば、あそこにあるコンピューターが起動して、その情報が表示される。",
+    "ALNUS: I fear I won't like the answer, but I need to ask anyway. What's on the computer?": "アルヌス：答えが気に入らないと思うが、とにかく聞いておきたい。コンピューターには何が？",
+    "ADONSONIA: Oh, nothing significant — just the condition that I told Oryza would be our fifth project requirement.": "アドンソニア：ああ、特に重要なことはない。ただ、オリザには5番目のプロジェクト要件になると伝えた。",
+    "ALNUS: Adonsonia, we don't have time for games like this. Please just tell us the solution so that we can know the new requirement.": "アルヌス：アドンソニア、こんなゲームに付き合っている時間はないんだ。新しい要件を知るために、解決策を教えてください。",
+    "ADONSONIA: Sorry. I would respond, but I'm really quite busy with a project on <![CDATA[<color=orange>Daucus</color>]]>. I'm sure that you understand!": "アドンソニア：すみません。お返事したいのですが、<![CDATA[<color=orange>Daucus</color>]]>のプロジェクトで本当に忙しいのです。ご理解いただけると思います！",
+    "ALNUS: YOU HAD TO COME HERE TO WRITE THAT!": "alnus：それを書くためにここに来る必要があったんだね！",
+    "DAUCUS: If you committed us to some very difficult requirement, you aren't going to live to see this system presented at the festival.": "DAUCUS：もしあなたが私たちに非常に難しい条件を課したのなら、あなたはこのシステムが映画祭で発表されるのを見るまで生きられないでしょう。",
+
+    //geyser_hint
+    "BETULA: With access to the planet's true surface, I noticed some interesting looking geysers located near the north pole.": "BETULA：この惑星の真の地表にアクセスできるようになって、北極の近くに面白そうな間欠泉があることに気づいた。",
+    "ALNUS: Our teacher had mentioned those. Apparently, the geysers lead all the way to the hollow core of this planet. She says that there's something down there that she wants us to see.": "アルヌス：先生がそのことを言っていたんだ。間欠泉はこの惑星の空洞の核まで続いているらしい。彼女は、私たちに見てほしいものが下にあると言っていた。",
+    "ADONSONIA: I've already tried jumping into one, but the flow of the geyser forced me back to the surface.": "アドンソニア：すでに飛び込もうとしたことがあるんだけど、間欠泉の流れに押し流されて地表に戻ったわ。",
+    "ALNUS: Thawing the planet seems to have dramatically increased its level of geothermal activity. We won't be able to explore the geysers until we find a way to subdue it again.": "アルヌス：惑星を融かすことで、地熱活動のレベルが劇的に上昇したようだ。再び鎮圧する方法を見つけるまで、間欠泉を探索することはできないだろう。",
+    "ADONSONIA: Once we do that, we'll be free to go down the geysers and explore the core!": "アドンソニア：それができたら、間欠泉を降りてコアを探検する自由ができる！",
+    "BETULA: That sounds quite dangerous! Did you sustain any injuries?": "ベトゥーラ：かなり危険なようですね！怪我はしなかった？",
+    "ADONSONIA: Not to worry, Betula, I... wait... OH NO! THE FLESH PARASITES FROM THE CORE! THEY'RE TAKING CONTROL!": "心配しないで、ベチュラ、私は...待って...。待って..！コアの肉寄生虫が支配されている！",
+    "BETULA: Good to hear that you're alright.": "ベトゥーラ：無事でよかった。",
+
+    //ghost_matter_hint
+    "ALNUS: I wanted to warn everyone that, according to our teacher, a highly hazardous and invisible substance has been spilled in this cave. Please avoid it!": "アルヌス：みんなに警告しておきたいんだけど、先生によると、この洞窟で非常に危険で目に見えない物質が流出したらしいんだ。避けてください！",
+    "ALNUS: Fortunately, it seems that the substance can be temporarily neutralized with water. If anyone accidentally touches it, we can use that to our advantage.": "アルヌス：幸いなことに、この物質は一時的に水で中和することができるようだ。もし誰かが誤って触れても、それを利用することができる。",
+    "ADONSONIA: What an interesting property! I'm tempted to touch it to see how it feels.": "ADONSONIA：何とも興味深い性質ですね！どんな感じか触ってみたくなりました。",
+    "BETULA: I don't believe that to be advisable, Adonsonia. Someone could be seriously hurt trying to do that.": "アドンソニア、それはお勧めできない。誰かが大怪我をするかもしれない。",
+    "BETULA: With this substance and this planet's gravity, <![CDATA[<color=orange>The Big One</color>]]> may be the most dangerous planet in this system!": "ベトゥーラ：この物質とこの惑星の重力では、<![CDATA[<color=orange>The Big One</color>]]>はこの星系で最も危険な惑星かもしれない！",
+
+    //missing_transmitter_hint
+    "BETULA: Oryza said that each planet would have a warp transmitter on its north pole that leads to the orrery station, but I don't see one here.": "BETULA: オリザは、各惑星の北極にワープ発信機があり、それがオルレリー・ステーションにつながると言っていたが、ここには見当たらない。",
+    "ALNUS: I suppose she only said that <![CDATA[<i>most</i>]]> of the transmitters would be on the north pole. Perhaps this one is somewhere else.": "アルヌス：彼女が言ったのは、<![CDATA[<i>ほとんどの</i>]]>送信機は北極にあるというだけだろう。おそらくこれは別の場所にあるのでしょう。",
+    "DAUCUS: That's irritating. Lack of access to this planet's transmitter will make travel much more difficult.": "ダグラス：それは苛立たしい。この惑星の送信機にアクセスできないことは、旅行をより困難にする。",
+    
+    //multi_receiver_hint
+    "ADONSONIA: I'm really sorry everyone, but I may have accidentally dropped the materials for the other transmitter into the star during transport.": "ADONSONIA：みなさん、本当に申し訳ないのですが、もうひとつの送信機の材料を輸送中に誤って星に落としてしまったかもしれません。",
+    "ALNUS: Adonsonia! That was our last warp core! I don't know why you feel the need to constantly sabotage us! Do you just dislike us all?": "アルヌス：アドンソニア！あれが最後のワープコアだなぜ常に妨害する必要があるのかわからない！俺たちが嫌いなのか？",
+    "ADONSONIA: I didn't mean to drop it, it just happened! I know I do more pranks than you would like, but I'd never purposefully cause actual harm to the project!": "ADONSONIA：落とすつもりはなかったの！でも、わざとプロジェクトに実害を与えるようなことはしないわ！",
+    "ALNUS: Even if we choose to believe you, that doesn't change the fact that we're now out of warp cores. Without another one we can't make any more transmitters, which means we can only use one of the receivers.": "アルナス： 君の言うことを信じたとしても、ワープコアがもうないという事実は変わらない。もう1つなければ、トランスミッターは作れない。つまり、レシーバーは1つしか使えない。",
+    "DAUCUS: Don't worry about that. I've gone ahead and hacked the transmitter to work with either receiver, depending on which one lines up. That way, we won't need a second transmitter.": "DAUCUS：心配しないでください。送信機をハックして、どちらの受信機でも使えるようにしました。そうすれば、2台目の送信機は必要ない。",
+    "ADONSONIA: Thank you, Daucus! I am really sorry about incinerating those components, but I'm glad you were able to clean up my mess a bit.": "アドンソニア：ありがとう、ドーカス！部品を焼却してしまったことは本当に申し訳なかった。",
+    "BETULA: We know, Adonsonia. Alnus is just upset. Everyone makes mistakes.": "ベトゥーラ：わかってるよ、アドンソニア。アルナスは動揺しているだけ。誰だってミスはする。",
+    "ALNUS: Really? That's very helpful, Daucus! We were really relying on those warp pads, so it's good to have them all usable.": "アルヌス：そうか？とても助かるよ、ドーカス！ワープパッドは本当に頼りにしていたから、全部使えるようになってよかったよ。",
+
+    //quantum_hint
+    "ALNUS: I found this interesting looking stone on this planet, so I decided to place it in this building.": "アルヌス：この惑星で面白そうな石を見つけたので、この建物に置くことにしたんだ。",
+    "ALNUS: I had just put the stone here, Adonsonia. How did you already steal it?": "アルヌス：アドンソニア、私は石をここに置いたばかりだ。どうやって盗んだんだ？",
+    "ADONSONIA: I wish I could achieve such a feat, but that wasn't me! I recall an old study on this kind of stone, which concluded that they move when unobserved.": "アドンソニア：私もそのような偉業を成し遂げたいのですが、それは私ではありません！この種の石についての古い研究を思い出した。",
+    "BETULA: That is quite an interesting trait! Do you have any idea where it may go when it's not here?": "ベトゥーラ：なかなか興味深い特徴ですね！ここにいないとき、どこに行くのか見当がつきますか？",
+    "ADONSONIA: I'm not sure, to be honest. I don't believe I've seen it anywhere besides here.": "アドンソニア：正直、よくわからない。ここ以外では見たことがないと思う。",
+    "ALNUS: I would accuse you of lying if the stone hadn't appeared behind me moments ago (nearly scaring my lower garments off). Unfortunately, it took a recording of mine with it, and it doesn't seem to have brought it back.": "アルヌス：さっき石が私の背後に現れなければ、私はあなたが嘘をついていると非難していただろう（私の下着が脅かされそうになった）。残念なことに、その石は私の録音を持ち去ってしまった。",
+    
+    //sand_structure_hint
+    "DAUCUS: I must say, Adonsonia, it is impressively lazy that you spent all this time at this structure and have only built this little platform.": "ダウス：アドンソニア、この建造物にこれだけの時間を費やしておきながら、こんな小さなプラットフォームしか作らないとは、見事な怠慢だと言わざるを得ない。",
+    "ADONSONIA: There would be more here, but it seems that somebody has covered the building I've labored for hours on almost entirely in sand!": "ADONSONIA：まだ他にもあるはずなんだけど、私が何時間もかけて建てた建物を、誰かがほとんど砂で覆ってしまったみたいなんだ！",
+    "BETULA: I apologize — I believe that may be my fault. I wanted us to have a planet approximating a desert, so I placed a large amount of sand on this one without realizing there was a structure already built.": "ベトゥーラ：申し訳ありません。砂漠に近い惑星を作りたかったので、すでに建造物があることに気づかず、この惑星に大量の砂を敷き詰めてしまいました。",
+    "ADONSONIA: I suppose this is more karma for my own antics than anything else, so I accept your apology. I would appreciate help figuring out a way to get rid of the sand, though. I wonder if there may be some way to move it somewhere else.": "ADONSONIA：これは何よりも自分のふざけた行動に対するカルマだと思うので、謝罪は受け入れるよ。砂を取り除く方法を考えるのを手伝ってくれるとありがたい。何か別の場所に移動させる方法はないだろうか。",
+    "ALNUS: That is so strange, Adonsonia! It's almost as if people interfering with your work isn't terribly fun.": "アルヌス：不思議だね、アドンソニア！まるで自分の仕事を邪魔されるのが面白くないかのようだ。",
+    
+    //teleporter_nodoor_hint
+    "ALNUS: Who constructed this building around the warp receiver? I know we wanted one, but I can't seem to locate the door.": "アルナス：ワープ受信機の周りにこの建物を建てたのは誰だ？欲しいのは分かっているんですが、ドアの場所が分からないんです。",
+    "ADONSONIA: Would you look at that? It seems that I <![CDATA[<i>unintentionally forgot</i>]]> to put a door on the building. <![CDATA[<i>100% accidental</i>]]>, I can assure you.": "アドンソニア：あれを見てください。ビルにドアをつけるのを<![CDATA[<i>意図せず</i>]]>忘れてしまったようだ。<![CDATA[<i>100%偶然</i>]]>、断言できる。",
+    "ALNUS: Adonsonia, this is no time for your pranks! I left important materials and documents near the warp pad that I can no longer access! How do I get in?!": "アルヌス：アドンソニア、悪ふざけをしている場合ではない！ワープパッドの近くに重要な資料や書類を置いてきてしまった！どうすれば入れる？",
+    "ADONSONIA: Who can say? Maybe there's no way into the building at all. I suppose you'll just need to figure it out.": "アドンソニア：誰が言える？もしかしたら、このビルに入る方法はまったくないのかもしれない。それを解明する必要があるでしょうね。",
+    "ALNUS: Do you really expect me to believe that you don't know any way in when I can see your salt-treat wrappers inside? (And might I remind you just how rude it is to leave non-disposable waste on the floor!!)": "アルヌス：中に塩菓子の包み紙が見えるのに、本当に何も知らないとでも思っているのか？(使い捨てでないゴミを床に放置することがどれほど失礼なことか、思い知らせてやろうか！）。",
+    "BETULA: Alnus, I'm sure that there's some way to get into the building, don't worry.": "ベトゥーラ：アルヌス、建物に入る方法はきっとあるはずだから、心配しないで。",
+    
+    //tower_ascension_hint
+    "ALNUS: I thought that the size of this planet deserved a monument of fitting stature, so I constructed this tower here!": "アルヌス：私は、この惑星の大きさにふさわしい記念碑が必要だと考え、この塔を建てた！",
+    "BETULA: This is lovely, Alnus! I look forward to seeing the top chamber of the tower once you install a tractor beam to get up there!": "ベトゥーラ：素敵ね、アルナス！トラクタービームを設置したら、塔の最上階を見るのが楽しみだわ！",
+    "ALNUS: A tractor beam? We don't have any means by which to make a tractor beam. We weren't given the right materials.": "トラクタービーム？我々にはトラクタービームを作る手段がない。適切な材料が与えられていないんだ。",
+    "BETULA: Then how do you intend for us to get up there? The gravity of this planet is far too strong for a thrustpack to give the necessary height.": "ベチュラ：では、どうやって私たちをあそこまで連れて行くつもりですか？この惑星の重力は、スラストパックで必要な高さを得るには強すぎる。",
+    "ALNUS: ...I left my lunch up there...": "アルヌス：...あそこに弁当を置いてきたんだ...",
+    "DAUCUS: Hopefully we can find a way to get up there. Redesigning this whole structure would be torment.": "DAUCUS：うまくいけば、上に行く方法が見つかるかもしれない。この構造全体を再設計するのは苦悩の連続だ。",
+    "DAUCUS: I'll admit that this is pretty impressive, especially considering how strong the gravity of this planet is.": "DAUCUS：特にこの惑星の重力の強さを考えると、これはかなり印象的だと認めるよ。",
+    "ADONSONIA: Ha! Intentional or not, that's a good prank. I don't know if I could have done better myself!": "ADONSONIA：はは！意図的であろうとなかろうと、いいいたずらだね。私ならもっとうまくできたかもしれない！",
+    
+    //under_ice_hint
+    "ADONSONIA: I'm disappointed that this planet is so unremarkable. We can't even make it more interesting ourselves, since the ice is simply too unstable to build on.": "アドンソニア：この惑星があまりに地味なことにがっかりしている。氷が不安定で、その上に建物を建てることができないのですから。",
+    "BETULA: I must agree. There really isn't much on this planet that we can work with.": "ベトゥーラ：私もそう思う。この惑星には、私たちが使えるものは本当に少ない。",
+    "ALNUS: Subsurface scans indicate that the ice is hollow and that the planet possesses an ocean below it. If we could gain access to the area below the ice, we may be able to create structures.": "アルナス：地下をスキャンしたところ、氷は空洞で、その下に海があることがわかりました。氷の下にアクセスできれば、建造物を作ることができるかもしれません。",
+    "ADONSONIA: That would be ideal, because this plain planet is currently my least favorite.": "アドンソニア：それは理想的ね。このプレーンな惑星は、今のところ私の一番嫌いな惑星なんだから。",
+    
+    //platform_invitation
+    "The star system in front of you was the subject of an educational project (and festival entry) known as the <![CDATA[<Color=orange>]]>Heliostudy<![CDATA[</Color>]]>.": "目の前の星系は、<![CDATA[<Color=orange>]]>Heliostudy<![CDATA[</Color>]]>として知られる教育プロジェクト（そしてフェスティバルへの参加）の対象だった。",
+    "This system is identifiable by its purple lines and pale blue sun. We invite you to fly over and explore it!": "この星系は、紫色の線と淡い青色の太陽で識別できる。ぜひ飛んでみてください！",
+    
+    //students_intro
+    "BETULA: This project sounds pretty fun! Being the architects of a mock star system is a very cool opportunity, especially considering that we get to show it at the next festival!": "BETULA: このプロジェクトはとても楽しそうですね！模擬星系の設計者というのはとてもクールな機会だし、特に次のフェスティバルでそれを披露できることを考えるとね！",
+    "ALNUS: Fun? Betula, our next school project is going to be shown at a <![CDATA[<i>festival</i>]]>. If we mess it up even slightly, we could turn our entire clan into the posterior of every joke for the next century!": "アルヌス：楽しいか？ ベチュラ、次の学校のプロジェクトは<![CDATA[<i>フェスティバル</i>]]>で披露することになっているんだ。もしちょっとでも失敗したら、私たちの一族全体が今後100年間、あらゆる冗談のネタにされかねないわ！",
+    "ADONSONIA: Alnus, I doubt that our project being imperfect will affect the reputation of our clan. Everyone understands that we're still students, after all.": "アドンソニア：アルナス、私たちのプロジェクトが不完全でも、一族の評判に影響するとは思えない。みんな、私たちがまだ学生であることを理解しているんだから。",
+    "ALNUS: A festival entry is no small matter. We need to make sure that we do this right.": "アルヌス：フェスティバルのエントリーは小さな問題ではない。私たちはこれを確実に行う必要があります。",
+    "BETULA: Well, regardless of what stakes may or may not exist, we won't be able to do anything until we get down onto the planets and survey them, so I think that should be our next course of action.": "ベトゥーラ：まあ、どんな利害関係が存在するかしないかにかかわらず、惑星に降りて調査するまでは何もできない。",
+    "DAUCUS: Ah, I see that it's going to be that kind of project. In that case, just let me know what you need me to do, and I'll (maybe) do it.": "DAUCUS：ああ、そういう企画になるんですね。それなら、何をすればいいか言ってくれれば、（たぶん）やりますよ。",
+    
+    //teacher_intro_recording
+    "ORYZA: Hello, students! As I mentioned in class the other day, our clan is hoping for you all to take part in our entry for the upcoming festival. Welcome to our entry!": "オリザ：生徒の皆さん、こんにちは！先日の授業でお話したように、私たちの一族は、今度のフェスティバルに皆さんにエントリーしていただきたいと思っています。私たちのエントリーへようこそ！",
+    "ORYZA: We've decided to focus on education for this festival, which is where you all are going to come in! This entire star system is actually an educational device made to help students like yourselves understand how such a system works.": "オリザ：今回のフェスティバルでは教育に焦点を当てることにした！このスターシステム全体は、実は君たちのような学生に、このようなシステムの仕組みを理解してもらうために作られた教育装置なんだ。",
+    "ORYZA: As you can see below you, a number of different planets have been prepared for you to work with. You are free to build on and reshape these planets as you see fit, in order to create a system that demonstrates your understanding. Think of yourself as... architects!": "オリザ：眼下に見えるように、さまざまな惑星が用意されている。自分の理解を示すシステムを作るために、これらの惑星を自由に組み合わせたり、形を変えたりしてください。自分自身を...建築家だと考えてください！",
+    "ORYZA: At the center of this platform is the orrery, a vital tool in your shaping of this system. While an orrery is normally a <![CDATA[<Color=orange>]]>miniature<![CDATA[</Color>]]> representation of a star system, it is more accurate in this case to say that the star system is a scaled-up representation of the orrery!": "ORYZA：このプラットフォームの中心には、この星系を形作る上で重要なツールであるオーレライがある。通常、オーレリーとは星系を<![CDATA[<Color=orange>]]>ミニチュア<![CDATA[</Color>]]>で表現したものだが、この場合、星系はオーレリーを拡大したものであると言った方が正確である！",
+    "ORYZA: That may be a bit confusing, but I'll leave it to you all to discover what I mean by that! To make navigation easier in this system, we've placed warp transmitters on each planet (mostly on the north pole) that will bring you to and from this station.": "ORYZA：ちょっとわかりにくいかもしれませんが、どういう意味かは皆さんにお任せします！この星系での航行を容易にするため、各惑星（主に北極）にワープ発信機を設置した。",
+    "ORYZA: You will have finite resources for this project, so make sure to use them with care. Other than that, have fun! You will all be given approximately two weeks to complete your project before it is submitted to the festival, so just make sure to have everything done by then.": "ORYZA：このプロジェクトで使えるリソースは限られているので、注意して使ってください。それ以外は楽しんでください！映画祭に提出するまでに約2週間の猶予が与えられますので、それまでにすべてを完成させてください。",
+    "ORYZA: Oh, and one last thing. Since this is meant to demonstrate your understanding of star systems, I'll need you to tell me seven different requirements that your system will fulfill to be similar to a real star system. This is a <![CDATA[<i>graded</i>]]> project after all. Have fun, little ones!": "オリザ：それと最後にもうひとつ。これはあなたの星系に対する理解を示すためのものなので、あなたの星系が実際の星系に似ているために満たすべき7つの条件を教えてほしい。これは<![CDATA[<i>グレード</i>]]>プロジェクトなのだ。楽しんでください、小さなお子さんたち！",
+    
+    //big_planet_name
+    "ADONSONIA: This massive sphere shall be known as... <![CDATA[<color=orange>The Big One</color>]]>!": "アドンソニア：この巨大な球体は...<![CDATA[<color=orange>The Big One</color>]]>！",
+    "ALNUS: Is that all you could come up with?": "アルヌス：それで全部ですか？",
+    "ADONSONIA: Alnus, aren't you always telling me to be more practical? This is just my (totally, <![CDATA[<i>entirely</i>]]> earnest) attempt to appease you.": "アルヌス：もっと現実的になれって、いつも言ってるでしょ？これは、あなたをなだめようとする私の（まったく、<！[CDATA[<i>entirely</i>]]>真剣な）試みよ。",
+    "DAUCUS: That should be easy to remember, I suppose.": "ダグラス：覚えておくのは簡単だと思うよ。",
+    
+    //crystal_planet_name
+    "ALNUS: I have decided that the name of this planet shall be... <![CDATA[<color=orange>Shattered Geode</color>]]>!": "アルヌス：私はこの惑星の名前を...と決めた。<![CDATA[<color=orange>Shattered Geode</color>]]>！",
+    "BETULA: That's an impressive name, Alnus!": "BETULA: 印象的な名前だね、アルヌス！",
+    "ALNUS: This crystalline body is quite majestic. It only makes sense that it would receive a name of equal beauty!": "アルヌス：この結晶体はとても荘厳だ。それに匹敵する美しさを持つ名前が付けられたのも納得がいく！",
+    "ADONSONIA: Truly, you possess <![CDATA[<i>incredible</i>]]> humility. It is such a relief that you are in <![CDATA[<i>no way</i>]]> being strange about the name of this planet.": "アドンソニア：本当に、あなたは<！[CDATA[<i>信じられない</i>]>謙虚さを持っています。あなたが<![CDATA[<i>とんでもない</i>]]>この惑星の名前について奇妙であることは、とても救いです。",
+    
+    //ernesto_hint
+    "ORYZA: Imagine a point that exists at the average point of all star systems in this cluster.": "オリザ：この星団内のすべての星系の平均点に存在する点を想像してみてください。",
+    "ADONSONIA: A point? How would I imagine that? I propose that the average point is represented by our current class study specimen.": "ADONSONIA：一点？どうやって想像するんだ？私は、平均点を現在のクラス研究の標本で表すことを提案します。",
+    "ORYZA: Very well. Imagine this average point to be represented by an anglerfish named Ernesto.": "オリザ：よろしい。この平均点をアーネストというアンコウが表していると想像してみてください。",
+    "ORYZA: Assume that Ernesto can only appear within the sphere of influence (which has a radius of 2500 meters) around <![CDATA[<Color=orange>]]>Heliocenter<![CDATA[</Color>]]>.": "オリザ：エルネストは<![CDATA[<Color=orange>]]>ヘリセンター<![CDATA[</Color>]]>を中心とした影響範囲（半径2500メートル）内にしか出現できないと仮定する。",
+    "ADONSONIA: I never finished this mathematics problem that Oryza assigned to us. I don't like math, so I'm sending it to space. Farewell!": "アドンソニア：オリザから出された数学の問題が終わらなかったんだ。数学は好きじゃないから、宇宙に送るよ。さようなら！",
+    "ORYZA: If it means that you'll have more enthusiasm in this lesson, then we can make that addition.": "オリザ：このレッスンにもっと熱中してもらえるということなら、追加してもいい。",
+    
+    //final_door_computer
+    "Project status: Requirements not met.": "プロジェクトの状況：要件を満たしていない。",
+    
+    //house_flavor_recording
+    "DAUCUS: Why are we keeping our beds here of all places? It's quite cold and not terribly comfortable.": "ダグラス：なぜ、よりによってこんなところにベッドを置いているんだ？かなり寒いし、あまり快適じゃない。",
+    "ADONSONIA: It isn't that cold, Daucus. Since when were you so sensitive to the cold?": "そんなに寒くないわよ、ドーカス。いつからそんなに寒さに敏感になったの？",
+    "ALNUS: I'm tempted to agree with Daucus. The orrery station has its own climate control — could we not just stay there?": "アルヌス：私もドーカスに同意したい。オルレリーステーションには空調設備がある。",
+    "BETULA: We're meant to care for this system. How can we properly care for it if we're unwilling to even sleep in it!?": "ベトゥーラ：私たちはこのシステムを大切にする義務がある。その中で眠ることさえ厭うのであれば、どうすれば適切にケアできるのでしょうか？",
+    "BETULA: Additionally, look above you! The view of the stars through the aurora is breathtaking!": "ベトゥーラ：さらに、頭上を見てください！オーロラ越しに見る星空は息をのむ美しさです！",
+    "ALNUS: I suppose that much at least is true.": "アルヌス：少なくともそれだけは事実だと思う。",
+    "...": "...",
+    "ADONSONIA: We should build a campfire.": "アドンソニア：キャンプファイヤーをしましょう。",
+    "BETULA: That's a wonderful idea! It would warm us, and we would maintain our view of the night sky.": "ベトゥーラ：それは素晴らしいアイデアですね！暖まるし、夜空の眺めも保てる。",
+    "ALNUS: That... doesn't sound unpleasant, if I'm being honest.": "アルヌス：それは...正直に言えば、不愉快には聞こえないね。",
+    "DAUCUS: I have some food we can roast if you all are willing to build the actual fire.": "DAUCUS：火をおこすのを手伝ってくれるなら、焼ける料理があるよ。",
+    "ADONSONIA: Then it's a deal! Let's get the fire started, everyone!": "アドンソニア：じゃあ、決まりね！みんな、火をつけよう！",
+    
+    //platform_computer
+    "<![CDATA[<color=red>]]>WARNING:<![CDATA[</color>]]> THIS EXPERIMENTAL ORRERY IS NOW ACTIVE.\r\nUser is fully responsible for any damage caused by using this device. (You will break things.)": "<![CDATA[<color=red>]]>警告:<![CDATA[</color>]]>この実験装置は現在作動中です。\r\nこの装置を使用することによって生じた損害は、すべて使用者の責任となります。(物を壊すことになります）。",
+    "Space gear can now be re-equipped.": "スペースギアの再装備が可能に。",
+    
+    //sand_planet_name
+    "BETULA: Daucus, have you decided on a name for this planet yet?": "ベトゥーラ：ドーカス、この惑星の名前はもう決まったの？",
+    "DAUCUS: <![CDATA[<color=orange>Daucus</color>]]>.": "DAUCUS：<![CDATA[<color=orange>Daucus</color>]]>。",
+    "ADONSONIA: I know you like easy solutions, but won't it be a <![CDATA[<i>bit</i>]]> easy to mix up you and the planet?": "ADONSONIA：あなたが簡単な解決策を好むのは知っていますが、あなたとこの惑星を混同するのは簡単ではありませんか？",
+    "DAUCUS: Yes.": "DAUCUS：はい。",
+    "ALNUS: ...I suppose that calling the planet <![CDATA[<color=orange>Daucus</color>]]> works as well as anything.": "アルヌス：......惑星を<![CDATA[<color=orange>Daucus</color>]]>と呼ぶのは、何でもうまくいくと思う。",
+    
+    //water_planet_name
+    "BETULA: I've decided to name this planet <![CDATA[<color=orange>Glacial Abyss!</color>]]>!": "ベトゥーラ：私はこの惑星を<！[CDATA[<color=orange>Glacial Abyss!</color>]]>と名付けることに決めた！",
+    "ADONSONIA: I like it! Clearly you do as well, if your enthusiasm is anything to go by.": "アドンソニア：私は好きだよ！あなたの熱意からすれば、明らかにあなたもそうでしょう。",
+    "BETULA: I should clarify. The first exclamation is actually part of the name, <![CDATA[<color=orange>Glacial Abyss!</color>]]>.": "BETULA: はっきりさせておく。CDATA[<color=orange>Glacial Abyss!</color>]]> という名前の一部です。",
+    "ALNUS: All things considered, that is not the worst planet name that has been chosen for this project.": "アルヌス：総合的に考えて、このプロジェクトに選ばれた惑星の名前としては最悪ではない。",
+    
+    //student_names
+    "Heliostudy team members": "ヘリオスタディ・チームメンバー",
+    "Alnus": "アルヌス",
+    "Betula": "ベチュラ",
+    "Daucus": "ドーカス",
+    "Adonsonia": "アドンソニア",
+
+    //teacher_outro_recording
+    "ORYZA: If you're hearing this, that must mean that you all successfully completed the requirements you set out for yourselves. Congratulations!": "オリザ：これを聞いているということは、みなさんが自分で決めた条件を無事にクリアしたということですね。おめでとう！",
+    "ORYZA: The task you were given was not an easy one. To complete it, you had to work very hard and work together. You've made your clan proud, and your project will demonstrate to all the other clans just how clever our little ones are.": "オリザ：君たちに与えられた仕事は簡単なものではなかった。完成させるために、君たちは懸命に働き、協力しなければならなかった。君たちは自分のクランに誇りを持たせてくれたし、君たちのプロジェクトは他のクランに、うちの子たちがどれだけ賢いかを示すことになるだろう。",
+    "ORYZA: Speaking of, there is one last thing you all must do before this system is ready to be presented at the festival.": "ORYZA：そういえば、このシステムを映画祭で発表する前に、皆さんが最後にやらなければならないことがあります。",
+    "ORYZA: Seeing as this entry is as much about all of you as it is about this educational tool, it's only fitting that you all leave a personal mark on it. Towards that end, I request that you all make self portraits and display them in this room!": "ORYZA：このエントリーは、この教育ツールに関するものであると同時に、あなた方全員に関するものでもあります。そのために、皆さんには自画像を作ってこの部屋に飾っていただきたい！",
+    "ORYZA: We are all so proud of what you little ones have accomplished. We can't wait to see where your lives will take you in the future. For now though, it is about time that your journey led you all back to your homes and your warm beds!": "オリザ：私たちはみんな、君たちが成し遂げたことをとても誇りに思っている。これからの君たちの人生がどうなっていくのか、楽しみでならない。しかし、今は、君たちの旅が、君たちの家と暖かいベッドに戻る時なのだ！",
+    
+    //double_sand_req
+    "BETULA: Unburying this structure has me thinking; isn't it strange for only one planet in this system to have sand?": "この星系で砂のある惑星が1つしかないのは奇妙ではないか。",
+    "ALNUS: I suppose so, but why are you mentioning this?": "アルヌス：そうだと思いますが、なぜそのことをおっしゃるのですか？",
+    "BETULA: I think it may be a good fourth requirement that multiple planets have sand.": "ベトゥーラ：複数の惑星に砂があることは、第4の条件としていいかもしれないね。",
+    "DAUCUS: That sounds pretty easy to me.": "ダグラス：それは簡単なことだと思う。",
+    "ALNUS: Agreed. We'll notify our teacher of that being our fourth requirement, then.": "アルヌス：賛成だ。では、それが4つ目の条件であることを先生に伝えましょう。",
+    "ADONSONIA: If it keeps sand off of this planet and away from my pyramid, I'm all for it.": "アドンソニア：それでこの惑星から砂がなくなり、私のピラミッドから砂がなくなるなら、大賛成よ。",
+    "BETULA: I'm still very sorry about that.": "ベトゥーラ：そのことについては、今でもとても残念に思っている。",
+    
+    //dried_seabed_req_recorder
+    "ALNUS: I maintain that the discussion of your idea did not require us to come <![CDATA[<i>here</i>]]>.": "アルヌス：私は、あなたのアイデアを議論するために、私たちが<![CDATA[<i>ここ</i>]]>に来る必要はなかったと主張します。",
+    "ADONSONIA: Don't worry. As long as there's water, we're fine. That brings me to what I actually wanted to discuss; I think our second requirement should be to have a planet with visible geothermal activity.": "アドンソニア：心配しないで。水さえあれば大丈夫です。地熱活動が目に見える惑星であることが第二の条件だと思います。",
+    "BETULA: It is true that many star systems have planets with geothermal activity. What made you think of it?": "ベトゥーラ：多くの星系に地熱活動のある惑星があるのは事実です。どうしてそれを思いついたのですか？",
+    "ADONSONIA: When I drained the water from <![CDATA[<color=orange>Glacial Abyss!</color>]]> to flood this cave, I saw how interesting all of the geysers looked when freed from the ice.": "アドンソニア：この洞窟を水浸しにするために<![CDATA[<color=orange>Glacial Abyss!</color>]]>から水を抜いたとき、氷から解放された間欠泉がどれほど面白く見えるかを見た。",
+    "DAUCUS: That sounds easy enough. Should we go ahead and send that requirement to Oryza?": "ダグラス：それは簡単そうだね。その要件をオリザに送るべきか？",
+    "ALNUS: If it will get us out of this cave faster, then yes, certainly.": "アルヌス：それでこの洞窟から早く出られるなら、そうだね。",
+    
+    //final_location_req
+    "ORYZA: I thought that you little ones would be interested to see this: directly above you lies a safe way to view the layers of the planet's core!": "ORYZA：君たちの真上に、地球のコアの層を安全に見る方法があるんだ！",
+    "ORYZA: Additionally, that door (at the end of the path behind you) is the final location that you will need to visit in order to submit your assignment. Think of it as your seventh requirement.": "ORYZA：さらに、あのドア（あなたの後ろにある小道の突き当たり）は、課題を提出するために訪れなければならない最後の場所です。第7の条件だと思ってください。",
+    "ALNUS: I do have a concern with this. I'm fairly certain that other requirements of ours will make it impossible for us to use the geysers and gain access to the core once we are ready to submit.": "アルヌス：これには懸念があります。私たちが提出する準備が整えば、他の要件によって間欠泉を使ったりコアにアクセスしたりすることが不可能になることは間違いありません。",
+    "ORYZA: That is an interesting situation. Unfortunately, I simply cannot allow you to change your requirements at this stage of the project, and you will need to be here to submit it. You all are very clever though, so I'm sure that you'll think of something!": "オリザ：それは興味深い状況ですね。残念ながら、今の段階で要件を変更することはできません。でも、皆さんはとても賢いので、きっと何か考えてくれると思います！",
+    "BETULA: It's quite interesting! I've never been to the core of a planet before!": "ベトゥーラ：とても興味深いわ！惑星の核に行くのは初めてだわ！",
+    "DAUCUS: Does that mean that we only need six other requirements in total?": "ダウス：つまり、他に必要なのは全部で6つだけということですか？",
+    "ORYZA: I suppose that it would, yes.": "オリザ：そうだろうね。",
+    
+    //frozen_planet_req
+    "ADONSONIA: An interesting idea for our first requirement could be that one of the planets must have a large amount of solid ice on it.": "アドンソニア：最初の条件として、惑星のひとつに固体の氷が大量になければならないというのは、面白いアイデアかもしれません。",
+    "BETULA: That could be a good one! Star systems do tend to have a wide range of climates, so an icy body would demonstrate that.": "BETULA: それはいいかもしれない！星系はさまざまな気候を持つ傾向があるから、氷で覆われた天体はそれを証明することになる。",
+    "ADONSONIA: Alright! I've gone ahead and let Oryza know that our first requirement will be to include a planet with ice.": "アドンソニア：わかりました！オリザには、氷のある惑星が第一条件だと伝えてある。",
+    "ALNUS: Wait, don't send that message yet! I was experimenting earlier, and there doesn't seem to be a way to re-freeze water in this system! Our star is too hot to allow water to re-freeze, even in the furthest orbit.": "アルナス：待って、そのメッセージはまだ送らないで！この星系で水を再凍結させる方法はなさそうだ！この星系では水を再凍結させる方法はないようだ。",
+    "ADONSONIA: That's inconvenient — I've already sent the message with the requirement. Is there some way that we can further reduce the heat reaching the planet?": "ADONSONIA：それは不都合ですね。私はすでに要件と一緒にメッセージを送りました。地球に届く熱をさらに減らす方法はありますか？",
+    "DAUCUS: Would it not be wise to wait for more people to give input before sending that message?": "DAUCUS：そのメッセージを送る前に、より多くの人々の意見を待った方が賢明ではないでしょうか？",
+    
+    //middle_orbit_req
+    "DAUCUS: Has anyone had any ideas for our last requirement? We are approaching the deadline, so we should keep it simple.": "DAUCUS：最後の条件について、何かアイデアをお持ちの方はいらっしゃいますか？締め切りが迫っているので、シンプルなものにしましょう。",
+    "ADONSONIA: We haven't put any orbital restrictions on specific planets yet. Perhaps we could do something along those lines.": "アドンソニア：私たちはまだ特定の惑星に軌道制限をかけていません。その線で何かできるかもしれません。",
+    "ALNUS: It seems sensible to say that mass would gather towards the center of a naturally-occurring star system. Based on that, we could avoid leaving the largest planet in the farthest orbit.": "アルヌス：自然発生した恒星系の中心に質量が集まるというのは、理にかなっているように思えます。それに基づけば、最も大きな惑星を最も遠い軌道に残すことは避けられるでしょう。",
+    "BETULA: That is a fair idea! I'll inform Oryza of that being our final requirement.": "ベトゥーラ：それはいい考えだ！それが最終条件だとオリザに伝えておくわ。",
+    
+    //opposite_sides_req_computer
+    "ADONSONIA: If you're reading this, then you've bested my little convergence puzzle. Nicely done! Bravo! (I'm being earnest, I did not make this puzzle to be easy).": "ADONSONIA：これを読んでいるということは、私の小さなコンバージェンス・パズルに勝ったということだ。よくやった！ブラボー！(本気です。このパズルを簡単にするために作ったわけではありません)。",
+    "ADONSONIA: If you're wondering about the fifth requirement that I sent to Oryza, don't worry, it's not <![CDATA[<i>terribly</i>]]> bad. I figured that it didn't make sense for planets in the same orbit to be particularly close, so I said that any planets in the same orbit would be on opposite sides of the sun.": "ADONSONIA：私がオリザに送った5つ目の条件について疑問に思っている方、心配しないでください。同じ軌道にある惑星が特に近くにあるのは意味がないと思ったので、同じ軌道にある惑星は太陽の反対側にあると言いました。",
+    "ADONSONIA: Also, for the record, Daucus took part in my little prank too. Turns out that hacking all of the planet signals to make a harmony only costs a few salt-treats!": "ADONSONIA：あと、念のために言っておくけど、Daucusも私のちょっとしたイタズラに参加してくれたわ。惑星信号をすべてハッキングしてハーモニーを作っても、塩数粒で済むことがわかったんだ！",
+    
+    //warp_alignment_req
+    "DAUCUS: A fairly simple requirement would be to have our transmitter line up with one of our receivers.": "DAUCUS：かなりシンプルな条件としては、送信機が受信機のひとつと一直線に並ぶことだ。",
+    "ALNUS: I'm not clear on how that demonstrates an understanding of star systems.": "アルヌス：それがどのように星系に対する理解を示しているのか、私にはよくわかりません。",
+    "DAUCUS: We've placed a number of different buildings on these planets, so it's already not a representation of a fully natural system. Given that, lining up the warp pads would demonstrate that we're considering how transport would work in the system.": "ダグラス：私たちはこれらの惑星にさまざまな建物を配置しているので、すでに完全な自然システムを表現しているわけではありません。そう考えると、ワープパッドを並べることで、この星系でどのように輸送が機能するかを考えていることがわかる。",
+    "DAUCUS: Given that we only have the one transmitter, I think we can get away with lining up with whichever warp pad is most convenient.": "ダグラス：送信機が1つしかないことを考えると、どのワープパッドに並んでも大丈夫だと思う。",
+    "ALNUS: That is a fair justification. I'll let our teacher know that our third requirement will be an aligned transmitter-receiver pair.": "アルヌス：それは正当な理由だ。先生には、3つ目の要件としてトランスミッターとレシーバーのペアを揃えるよう伝えておきます。",
+    "ADONSONIA: That's not a terribly natural requirement, Daucus. I'm surprised to hear that you're going against the grain like that. I like it!": "ADONSONIA：それはひどく自然な要求ではないわ、ドーカス。あなたがそのような流れに逆らっていると聞いて驚いています。私は好きよ！",
+    "BETULA: I was skeptical at first, but I do like your reasoning. I vote that we make this a requirement.": "ベトゥーラ：最初は懐疑的でしたが、あなたの推論には好感が持てます。これを必須条件にすることに一票。",
+    
+    
+    //Developer Commentary
+
+    //Adonsonia
+    "Adonsonia Dialogue": "アドンソニア・ダイアログ",
+    "Author: coderCleric --- Subject: Adonsonia Dialogue": "著者：CoderCleric ---件名：アドンソニア・ダイアログ",
+    "Something that wasn't discussed until a little bit into development is what would actually happen when the player beat the mod. We wanted to come up with something that would tie it together and, ideally, provide a bit of a reward.": "開発の少し前まで議論されていなかったのは、プレイヤーがMODを倒したときに実際に何が起こるかということだ。私たちは、それを結びつけるような何かを考え出したかったし、理想を言えば、ちょっとしたご褒美を提供したかった。",
+    "We thought that it would be fun if the player had the chance to talk to a Nomai who was checking in on the project, and I had the idea for it to be one of the students. We all decided on Adonsonia since we thought it would be fun to have the delinquent come back as a teacher.": "チェックインしている野舞と話す機会があったら面白いんじゃないかということで、生徒の一人という案が出ました。アドンソニアに決めたのは、不良が先生になって帰ってくるというのも面白そうだと思ったからです。",
+    "When I wrote the Adonsonia dialogue, I had two main goals for what I wanted to convey to the player. Firstly, I wanted to give the player an update on what happened to each of the students and how they're dealing with the end of the universe. Second, I wanted a fun way for Adonsonia to tell the player how to use the experimental orrery.": "アドンソニアの台詞を書いたとき、プレイヤーに伝えたいことは主に2つありました。第一に、それぞれの生徒たちに何が起こったのか、彼らが宇宙の終わりにどう対処しているのか、その最新情報をプレイヤーに伝えたかった。2つ目は、アドンソニアが実験用オルレリーの使い方をプレイヤーに楽しく伝えること。",
+    "I think she came out pretty good overall. I think that her tone is similar to how she talks in the rest of the mod, while also being distinct enough to show how she's grown. She was a lot of fun to write throughout the entire mod, and here is no exception.": "全体的にかなりいい感じに仕上がったと思う。彼女の口調は、他のMODでの話し方に似ていると思うし、同時に彼女がどう成長したかを示すのに十分な個性もある。彼女はMOD全体を通して書いていてとても楽しかったし、ここでも例外ではない。",
+    
+    //Aurora
+    "Aurora": "オーロラ",
+    "Author: Walker --- Subject: Aurora": "著者ウォーカー --- テーマオーロラ",
+    "The aurora was a late addition to the mod and was originally added simply to make Glacial Abyss! more visually interesting. The visual effect itself was actually created by Jamie for use in another mod.": "オーロラはこのMODに後から追加されたもので、もともとは単にGlacial Abyss！を視覚的に面白くするために追加されたものだった。視覚効果自体は、ジェイミーが別のMODで使うために作ったものだ。",
+    "However, one issue we discovered in playtesting was that it could be quite difficult to tell whether The Big One is frozen since its surface is a similar color to the ice.": "しかし、プレイテストで発見した問題のひとつは、ビッグ・ワンの表面が氷と同じような色をしているため、凍っているかどうかを見分けるのがかなり難しいということだった。",
+    "To solve this, I decided to add an aurora to The Big One, repurposing it as a universal indicator of a planet being frozen.": "これを解決するために、私はビッグ・ワンにオーロラを追加し、惑星が凍結していることを示す普遍的な指標として再利用することにした。",
+    
+    //Barracks
+    "Barracks": "バラック",
+    "Author: Walker --- Subject: Barracks": "著者ウォーカー --- 件名バラック",
+    "This structure serves no gameplay purpose and simply provides a location to give the Nomai students a bit of a character moment. The recorder found here is my favorite piece of writing Cleric did for the mod.": "この構造にはゲームプレイ上の目的はなく、単に野舞の生徒にちょっとした個性を与える場所を提供しているだけだ。ここにあるリコーダーは、クレリックがこのMODのために書いたものの中で一番気に入っている。",
+    "This structure also fills out the southern hemisphere of Glacial Abyss! which was conspicuously empty before it was added.": "この建造物は、氷河期の深淵の南半球を埋めるものでもある。",
+    "I designed each of the beds here to belong to one of the Nomai students.": "ここにあるベッドは、野舞の生徒のものであるようにデザインした。",
+    "Alnus, the serious student, has the staff.": "真面目な学生であるアルナスがスタッフを持っている。",
+    "Daucus, the slightly lazy one, has a pile of bowls he never cleaned up.": "ちょっと怠け者のドーカスは、片付けないボウルの山を持っている。",
+    "Betula, the social one, has a set of toys.": "社交的なベチュラはおもちゃを持っている。",
+    "And Adonsonia has the salt-treats. These were originally called sap-treats but were renamed after the campfire was added and we noticed the Nomai students were beginning to feel too much like Hearthians.": "そしてアドンソニアには塩菓子がある。これはもともと樹液のお菓子と呼ばれていたものだが、キャンプファイヤーが追加され、野舞の生徒たちがハース人に似すぎていることに気づいたため、改名された。",
+    "Fun fact: when I first added the campfire, I forgot to include an oxygen volume in this area. So dozing off or roasting a marshmallow would immediately suffocate you.": "面白い事実：最初に焚き火を追加したとき、このエリアに酸素量を入れるのを忘れていた。だから居眠りしたりマシュマロを焼いたりするとすぐに窒息してしまう。",
+    
+    //BuriedStructureScrollPlacement
+    "Scroll Placement": "スクロールの配置",
+    "Author: Walker --- Subject: Scroll Placement": "著者ウォーカー --- 件名スクロールの配置",
+    "At the end of the jam, the buried scroll in this structure was placed in this shelf just below the sand level.": "ジャムの最後には、この構造物の中に埋められた巻物が、砂の高さのすぐ下のこの棚に置かれた。",
+    "However, after the mod released, I consistently noticed players failing to find the scroll. Some even thought that this wasn't the buried structure described in the Nomai text because there seemingly wasn't much to it underneath the sand.": "しかし、MODがリリースされた後、私は一貫してプレイヤーが巻物を見つけられないことに気づきました。砂の下には大したものがないように見えたので、野舞の文章に書かれていた埋もれた構造物ではないと考える者さえいた。",
+    "After the jam, I added the interior room and relocated the scroll within it which effectively solved both of these issues.": "ジャムの後、私は内部の部屋を追加し、その中にスクロールを移動させた。",
+    
+    //ClericIntro
+    "coderCleric Introduction": "コーダークレリック紹介",
+    "Howdy! I'm coderCleric, one of the people who worked on this mod.": "こんにちは！僕はcoderClericで、この改造に携わった一人だ。",
+    "I've been in the modding community for a while, and have made submissions for the first, second, and third mod jams. This mod was actually my first time making a mod with a team!": "私はしばらくの間、MODコミュニティに参加していて、第1回、第2回、第3回のMODジャムに応募しました。今回のMODは、実は初めてチームでMODを作ったんだ！",
+    "In this mod I wrote the vast majority of the Nomai text, and also did programming for a few of the puzzles. I hope you enjoy our commentary! You can recognize me by the <![CDATA[<color=purple>purple</color>]]> orb color.": "このMODでは、ノマイのテキストの大部分を書き、いくつかのパズルのプログラミングも担当しました。私たちの解説を楽しんでもらえたらうれしいです！私は<![CDATA[<color=purple>purple</color>]]>のオーブの色でわかります。",
+    
+    //ColoredLightCookie
+    "Colored Light Cookies": "カラーライトクッキー",
+    "Author: JohnCorby --- Subject: Colored Light Cookies": "著者JohnCorby --- 件名：カラーライトクッキー",
+    "The light emitted by the lava projects a colored texture, which is not a vanilla Unity feature. Outer Wilds modifies the lighting shaders to allow for these colored textures, mainly for slide projectors in Echoes of the Eye.": "溶岩が放つ光は色のついたテクスチャを投影しますが、これはUnityのバニラ機能ではありません。Outer Wildsは、主にEchoes of the Eyeのスライドプロジェクタのために、このような色のついたテクスチャを可能にするためにライティングシェーダを修正します。",
+    "However, for some reason, the colors are inverted before being displayed. I still have no idea why this is done, as it doesn't seem to help with color compression or anything like that.": "しかし、なぜか表示される前に色が反転してしまう。色の圧縮などには何の役にも立たないようなので、なぜこのようなことが行われるのか、私にはまだわからない。",
+    "This actually causes an issue in base game with the Nomai escape pods, as they have a spotlight with a triangle texture that is now incorrectly inverted, turning it into an outline of a triangle instead of a solid shape.": "というのも、ノマイの脱出ポッドには三角形のテクスチャを使ったスポットライトがあるのだが、これが誤って反転してしまい、立体ではなく三角形の輪郭になってしまうからだ。",
+    
+    //CommentaryIntro
+    "Developer Commentary Introduction": "開発者コメント紹介",
+    "Welcome to the developer commentary for Heliostudy!": "Heliostudyの開発者コメントへようこそ！",
+    "This mod was developed over the course of two weeks as an entry in the 5th Outer Wilds modding jam. The theme of the jam was <![CDATA[<color=orange>miniature</color>]]> and all entries take place in the same shared world.": "このMODは第5回Outer Wilds modding jamのエントリーとして2週間かけて開発されました。ジャムのテーマは<![CDATA[<color=orange>miniature</color>]]>で、すべてのエントリーは同じ共有世界で行われます。",
+    "You can find commentary in these floating orbs across most of the mod's points of interest. You can also use the <![CDATA[<color=orange>\"Developer Commentary\"</color>]]> frequency on your signalcope to locate them and to identify which ones you haven't read yet.": "MODのほとんどのポイントにある、この浮遊するオーブの中に解説を見つけることができます。また、シグナルスコープの<![CDATA[<color=orange>\"Developer Commentary\"</color>]]>周波数を使うことで、それらの位置を特定し、まだ読んでいないものを特定することができます。",
+    "If you're outside your ship, you can teleport directly to commentary by pressing the interact button while targeting it with your signalscope. If you press the autopilot button instead, you'll teleport specifically to commentary you haven't read yet.": "自機の外にいる場合、シグナルスコープでコメンタリーをターゲットしながらインタラクトボタンを押すと、コメンタリーに直接テレポートすることができる。代わりに自動操縦ボタンを押すと、まだ読んでいない解説にテレポートする。",
+    "The commentary orbs are color-coded by the development team member that wrote them. If you want to explore commentary more methodically or have a specific subject you're interested in, you can enable commentary only from a specific team member in the options menu. You can find an intro from each of the members of the development team for whom you have commentary enabled further down this bridge.": "解説のオーブは、それを書いた開発チームのメンバーによって色分けされています。解説をより系統的に調べたい場合、あるいは興味のある特定のテーマがある場合は、オプションメニューで特定のチームメンバーからの解説のみを有効にすることができる。コメンタリーを有効にした開発チームの各メンバーのイントロダクションは、このブリッジのさらに下にあります。",
+    "If you haven't completed the mod yet, you should do so before continuing as much of this commentary will refer to later areas of the mod and may not make sense without the context of the entire experience.": "まだこのMODをクリアしていないのであれば、先に進む前にクリアしておくべきだろう。この解説の多くは、MODの後の部分に言及するものであり、体験全体の文脈を理解しないと意味がわからないかもしれない。",
+    
+    //ConvergenceHint
+    "Convergence Puzzle Hint": "コンバージェンス・パズルのヒント",
+    "Author: coderCleric --- Subject: Convergence Puzzle Hint": "著者: coderCleric --- 件名：コンバージェンス・パズルのヒント",
+    "This text is important for demonstrating just how anxious Alnus is about this project, and how overly-seriously he's taking it. While he gets annoyed in other texts, this is the only one where he properly loses his temper.": "この文章は、アルナスがこのプロジェクトにどれほど不安を抱いているか、どれほど真剣に取り組みすぎているかを示す上で重要である。他の文章でも彼はイライラしているが、きちんとキレているのはこの文章だけである。",
+    "While he's fairly used to Adonsonia messing with him by now, this is one of the most overt cases of her doing it. She made a unique structure to hide the new requirement, after all.": "アドンソニアが自分を弄ぶのはもう慣れたことだが、今回は最もあからさまなケースのひとつだ。結局のところ、彼女は新しい条件を隠すためにユニークな構造を作ったのだ。",
+    "I actually had pretty mixed feelings about having a Nomai speak in all-caps, but decided to stick with it. It felt right for who Alnus is and the situation that he's in (he's only a kid, after all), and people generally seemed to be a fan of it during playtesting.": "実は、ノマイがオールキャップスで話すことについてはかなり複雑な思いがあったのだが、このままでいくことにした。アルヌスという人物と彼が置かれている状況（結局のところ、彼はまだ子供なのだが）には合っていると感じたし、プレイテストの間、人々は概してそれを好んでいるようだった。",
+    
+    //CoreAudio
+    "Core Audio": "コア・オーディオ",
+    "Author: Jamie --- Subject: Core Audio": "著者ジェイミー --- 件名コアオーディオ",
+    "Sometimes it's important to know where not to place music!": "時には、音楽を置くべきでない場所を知ることも重要だ！",
+    "I originally planned for the core of Glacial Abyss to have a custom music track. It would have been something of a loud and deep chorus (likely using the same chords heard in the gravity crystal ambience, to accompany the purple streaks in the ground -- both hopefully justifying the strange inverted gravity in this area).": "当初、Glacial Abyssの核心部にはカスタム・ミュージックを入れようと計画していた。それは大音量で深いコーラスのようなものだっただろう（重力結晶のアンビエンスで聴かれるのと同じ和音を使い、地面の紫色の筋に合わせている。）",
+    "I also planned for this music to be given more layers once you entered the final room (similar to how the music was staged in our previous jam mod, Root Access).": "また、最後の部屋に入ったら、この音楽がもっと重層的になるように計画した（以前のジャムMOD『Root Access』で音楽がどのように演出されたかに似ている）。",
+    "However, once I actually listened to the music in-game, it felt a bit too grand. I realized that this area felt more ominous and strange if all you could hear was a deep rumbling sound... And the final room music would hopefully stand in contrast to this, as a sort of reward for finishing your studies!": "しかし、実際にゲーム内で音楽を聴いてみると、ちょっと壮大すぎるように感じた。このエリアは、深い地鳴りのような音しか聞こえないほうが、不吉で奇妙な感じがする......。そして最後の部屋の音楽は、できればこれとは対照的な、勉強を終えたご褒美のような存在であってほしい！",
+    "Similarly, I originally placed me and Will's ruins theme on most Nomai structures in this mod -- set to play as long as you were essentially anywhere at the structure.": "同様に、このMODではもともと、ほとんどのノマイの建造物に僕とウィルの廃墟のテーマを置いていたんだ。",
+    "The theme felt pretty upbeat, so this was later changed to only (mostly) play in the parts of the structures that you could only access after solving their respective puzzles, as a reward for players!": "テーマがかなりアップビートに感じられたので、これは後に、プレイヤーへのご褒美として、それぞれのパズルを解いた後にしかアクセスできない建造物の部分でのみ（ほとんど）プレイするように変更された！",
+    
+    //CoreDesign
+    "Core Concept": "コアコンセプト",
+    "Author: Walker --- Subject: Core Concept": "著者ウォーカー --- テーマコアコンセプト",
+    "Before we redesigned the puzzle to get here, this location simply served as a place for the quantum rock that's now on Shattered Geode to take you.": "ここに来るためにパズルを再設計する前は、この場所は現在シャタード・ジオードにある量子石があなたを連れて行く場所として機能していただけだった。",
+    "I proposed making it look like a diagram of the core of a planet like you'd see in a textbook because I thought it would fit well with the school project concept of the mod. The inverted gravity was inspired by Lumina Terra, another team's entry in the previous jam.": "教科書に載っているような惑星の核の図のようにすることを提案したのは、この改造の学校プロジェクトのコンセプトに合うと思ったからだ。逆重力は、前回のジャムで別のチームがエントリーした「ルミナ・テラ」にインスパイアされた。",
+    "Jamie took the concept of this area and ran with it! It ended up looking like it should be way more important than it was at the time so we decided to make it the way for players to reach the final room of the mod. This, in turn, led to the addition of the final warp puzzle.": "ジェイミーはこのエリアのコンセプトを受け継ぎ、それを実行した！結局、当時よりもずっと重要な場所に見えるようになったので、プレイヤーがこのMODの最後の部屋にたどり着くための道にすることにした。その結果、最後のワープパズルが追加されることになった。",
+    "One fun fact is that this area is slightly less than a full hemisphere. This is so that the holographic orbit lines aren't visible passing through the core of the planet.": "ひとつ面白いのは、この面積が半球より少し小さいことだ。これは、惑星のコアを通過するホログラフィック軌道線が見えないようにするためだ。",
+    
+    //CoreWarpPad
+    "Core Warp Pad": "コア・ワープ・パッド",
+    "Author: Walker --- Subject: Core Warp Pad": "著者ウォーカー --- テーマコアワープパッド",
+    "The use of this warp pad in the final puzzle was a rather late addition to the mod after we had already implemented the rest of the warp transmitters connected to the orrery station.": "最終的なパズルでこのワープパッドを使ったのは、オーレリーステーションに接続された残りのワープ送信機をすでに実装した後、かなり遅れて追加されたものだった。",
+    "Return warps are a mechanic that I think has a lot of potential for use in mods. In the base game, they're just a convenience feature and are never actually required to complete a puzzle.": "リターンワープは、MODで使える可能性のあるメカニックだと思う。ベースゲームでは単なる便利機能で、パズルをクリアするために実際に必要なことはない。",
+    "This isn't the first time I've used this mechanic. A puzzle in Astral Codec has a similar setup and was part of what inspired me to add this puzzle to Heliostudy.": "この仕組みを使うのはこれが初めてではない。Astral Codecのパズルにも同じような設定があり、Heliostudyにこのパズルを追加するきっかけの一部となった。",
+    "One strange thing you probably haven't noticed about this warp pad is that it has a duplicate ship log entry. Approaching the warp pad reveals a ship log fact on the core's card and also on its own child card.": "このワープパッドの奇妙な点は、シップログの項目が重複していることだ。ワープパッドに近づくと、コアのカードにも、そのコアの子カードにも、シップログの事実があることがわかる。",
+    "This is so that the missing warp transmitter can be added as a rumor fact when you explore the north pole while still allowing the core to be marked as \"more to explore\" until you find the warp pad.": "これは、北極を探検する際に、ワープ発信機の紛失を噂の事実として追加できるようにするためであり、同時に、ワープパッドを見つけるまではコアを「もっと探検する必要がある」とマークできるようにするためでもある。",
+    
+    //CutPuzzleConcepts
+    "Cut Puzzles": "カットパズル",
+    "Author: Walker --- Subject: Cut Puzzles": "著者ウォーカー --- テーマカットパズル",
+    "Despite increasing the scope of the mod multiple times during development, we still left a lot of ideas on the cutting room floor. Some puzzle concepts that didn't make it into the final mod include:": "開発中に何度もMODの範囲を広げたにもかかわらず、私たちはまだ多くのアイデアをカットしたままにしていました。最終的なMODに入れなかったパズルのコンセプトは以下の通りです：",
+    "Using ice and/or sand to lift a heavy object. Or using ice to allow players to slide a heavy object across the surface of a planet.": "氷や砂を使って重いものを持ち上げる。あるいは、氷を使って重い物体を惑星の表面を滑らせる。",
+    "Multiple orreries with different capabilities or a black hole capable of warping an entire planet to somewhere the orrery couldn't reach.": "異なる能力を持つ複数のオーレリー、あるいはオーレリーが到達できない場所に惑星全体をワープさせることができるブラックホール。",
+    "Using Shattered Geode to focus a laser that could be aimed at other planets.": "シャタード・ジオードを使って、他の惑星に向けられるレーザーの焦点を合わせる。",
+    "Smashing two planets into each other to break a chunk off of one of them.": "2つの惑星をぶつけ合い、片方の惑星の塊を壊す。",
+    "A planet covered in lava that you could transfer like sand and water.": "溶岩に覆われた惑星で、砂や水のように移し替えることができる。",
+    "Using the water transfer funnel to power a waterwheel.": "水車に動力を供給するために水移送漏斗を使用。",
+    "A cloaked planet that players could discover because it still had an orb in the orrery.": "遮蔽された惑星で、オーブのある惑星を発見することができる。",
+    "And a fluid reset switch with a final requirement using it.": "そして、それを使用する最終条件を備えたフルードリセットスイッチ。",
+    "Who knows. Maybe we'll add some of these in an update someday or the mod will get a sequel in a future jam.": "誰にもわからない。いつかアップデートで追加するかもしれないし、将来のジャムで続編が出るかもしれない。",
+    "All in all I think this mod turned out phenomenally! And I'm really happy with what we did accomplish in the mere two weeks we had available.": "全体として、この改造は驚異的なものになったと思う！わずか2週間の間に成し遂げたことに本当に満足している。",
+    
+    //DevelopmentProcess
+    "Development Process": "開発プロセス",
+    "Author: Walker --- Subject: Development Process": "著者ウォーカー --- 件名開発プロセス",
+    "Timeline": "タイムライン",
+    "Playtesting": "プレーテスト",
+    "--End Commentary--": "--解説終わり--。",
+    "I attribute a lot of our successes developing this mod to a very strong team composition and a solid development process.": "このMODの開発が成功したのは、非常に強力なチーム編成と堅実な開発プロセスのおかげだと思っている。",
+    "Each member of our team already had a lot of experience working on mods. Additionally, all of us knew at least the basics of design, programming, and editing 3D models with each of us having our own specialties beyond that.": "私たちのチームの各メンバーは、すでにMOD制作の経験が豊富でした。さらに、全員がデザイン、プログラミング、3Dモデルの編集の基本くらいは知っていて、それ以外にも各自が得意分野を持っていました。",
+    "This let us collaborate extremely effectively and also allowed us to avoid many common development pitfalls (we were very careful about prefab merge conflicts).": "このおかげで、私たちは非常に効率的に共同作業を進めることができたし、よくある開発の落とし穴も避けることができた（私たちはプレハブのマージ競合に非常に注意した）。",
+    "We spent the first half-day of the jam just brainstorming ideas and settling on an outline of the mod's structure and mechanics. Then the next day we began prototyping.": "ジャムの最初の半日は、ただアイデアを出し合い、MODの構造と仕組みのアウトラインを決めるのに費やした。そして翌日からプロトタイピングを始めた。",
+    "At the end of the first day of prototyping, we had the orrery working, mostly-complete art for the orrery station, and the fluid transfer and ice mechanics implemented.": "プロトタイピングの初日が終わった時点で、オーレリーが動き、オーレリーステーションのアートがほぼ完成し、流体移動と氷のメカニズムが実装されていた。",
+    "At the end of the first week of the two-week jam, the mod was almost fully playable and we started playtesting to figure out where we should focus our effort in the second week.": "2週間のジャムの最初の週が終わった時点で、MODはほぼ完全にプレイできるようになっていた。",
+    "Over the second week of the jam, we mostly just focused on polish and resolving playtest feedback. We ran new playtests every couple days as soon as we had addressed the most significant concerns from the previous test.": "ジャムの2週目、私たちは主に洗練とプレイテスト・フィードバックの解決に集中した。前回のテストで最も懸念された点を解決し次第、数日おきに新しいプレイテストを実施した。",
+    "In the end, we submitted the mod a couple days before the end of the jam so that we would have time to release a patch fixing any bugs players found before the end of the jam.": "結局、ジャム終了の数日前にMODを提出し、ジャム終了までにプレイヤーが見つけたバグを修正したパッチをリリースする時間を確保した。",
+    "Playtesting was invaluable to the development of this mod. It allowed us to identify major issues long before the mod released, made us aware of bugs we never would have noticed ourselves, and informed many of the quality-of-life features present in the final release.": "プレイテストはこのMODの開発にとって非常に貴重なものでした。MODがリリースされるずっと前に重大な問題を特定することができ、自分たちでは気づかなかったようなバグに気づかされ、最終リリースに含まれるクオリティ・オブ・ライフの機能の多くに影響を与えました。",
+    "We started playtesting around the halfway mark of the jam once enough of the mod was playable. I sourced all of our playtesters from the Outer Wilds Modding Discord server.": "MODが十分にプレイできるようになってから、ジャムの中盤あたりからプレイテストを始めた。プレイテスターはすべてOuter Wilds Modding Discordサーバーから集めた。",
+    "In each playtest, the playtester would play through the entire mod from start to finish (or as far as they could get) in a video call with most of the development team.": "各プレイテストでは、プレイテスターは開発チームの大半とビデオ通話をしながら、MOD全体を最初から最後まで（あるいはできる限り）プレイする。",
+    "In addition to watching the playtest live, we also recorded each session for later reference and kept notes in a shared development document.": "プレイテストを生で見るだけでなく、後で参照するために各セッションを録画し、共有の開発ドキュメントにメモを残した。",
+    "During each playtest we remained silent except in the case of technical issues with the mod and we encouraged playtesters to voice their thought processes so we could follow what they were thinking.": "各プレイテストの間、MODに技術的な問題がある場合を除き、私たちは沈黙を守り、プレイヤーの考えをフォローできるよう、プレイヤーの思考プロセスを声に出すよう促した。",
+    "Final Commentary --- All other entries required to unlock.": "最終コメント---アンロックには他のすべてのエントリーが必要。",
+    
+    //FinalEntry
+    "Final Entry": "最終エントリー",
+    "<![CDATA[<color=orange>--Unlock--</color>]]>": "<![CDATA[<color=orange>--ロック解除--</color>]]>。",
+    "From the entire development team: Thank you so much for playing Heliostudy!": "開発チーム一同よりHeliostudyをプレイしていただき、本当にありがとうございます！",
+    "Whatever reason you have for checking out our commentary, we hope you learned something or at least found it interesting.": "どのような理由で我々の解説をご覧になったにせよ、何かを学んでいただけた、あるいは少なくとも興味を持っていただけたなら幸いである。",
+    "If you're a modder looking for inspiration for your next mod, consider writing some developer commentary of your own. We'd love to see more mods include this as a feature.": "もしあなたが次のMODのインスピレーションを探しているMODerなら、開発者コメントを書くことを検討してみてください。より多くのMODがこのような機能を持つことを望みます。",
+    "If you're not a modder, consider trying it out. This is a fantastic community full of people happy to teach you how to mod this wonderful game. Learn the basics and consider joining the next jam!": "もしあなたがModderでないなら、試してみることを検討してほしい。この素晴らしいゲームの改造方法を喜んで教えてくれる人たちでいっぱいの素晴らしいコミュニティです。基本を学んで、次のジャムに参加することを検討してください！",
+    "Well, that's all from us. We hope you had fun!": "さて、我々からは以上だ。楽しんでいただけたなら幸いです！",
+    
+    //FinalMusic
+    "Final Room Music": "ファイナル・ルームの音楽",
+    "Author: JohnCorby --- Subject: Final Room Music": "著者JohnCorby --- 件名：ファイナル・ルームの音楽",
+    "This track started off as an arrangement made by Jamie.": "この曲はジェイミーのアレンジから始まった。",
+    "Since I made it towards the end of the jam, I could take elements of all the other songs (mainly the mallet instruments and Heliostudy motif) and combine them with said arrangement.": "ジャムの終盤に作ったので、他のすべての曲の要素（主にマレット楽器とヘリオスタディのモチーフ）を取り入れて、このアレンジと組み合わせることができた。",
+    "I think my favorite part is the accidental polyrhythm made by the piano with the rest of the song. It's the result of a 1-second delay, which happens to be 3 8th note triplets.": "私が一番好きなのは、ピアノが曲の他の部分と一緒に作る偶発的なポリリズムだ。これは1秒間のディレイの結果で、たまたま3つの8分音符の3連符になっている。",
+    "I also used an isolated section of the ATP music percussion and layered that on top of Jamie's existing percussion, which really fills it out.": "また、ATP音楽のパーカッションの分離した部分を使い、ジェイミーの既存のパーカッションの上に重ねた。",
+    
+    //FinalPuzzleFrustration
+    "Streamlining The Final Puzzle": "最後のパズルを合理化する",
+    "Author: Walker --- Subject: Streamlining The Final Puzzle": "著者ウォーカー --- 件名最終パズルの合理化",
+    "A big part of designing the final puzzle was trying to make the sequence of actions the player must take on the final loop as streamlined as possible.": "最後のパズルをデザインする上で大きな役割を果たしたのは、最後のループでプレイヤーが取らなければならない一連の行動をできるだけ合理的にすることだった。",
+    "In particular, we wanted to avoid the player having to reset the loop if they forgot one of the requirements or made a minor mistake when applying them.": "特に、選手が条件を忘れたり、条件を適用する際にちょっとしたミスをしたりした場合に、ループをリセットしなければならないのを避けたかった。",
+    "That first issue is solved with a screen prompt similar to the one used for the vessel coordinates in the base game. This prompt appears when the player has all 7 requirement ship logs unlocked and is standing next to this door or near the orrery.": "その最初の問題は、ベースゲームで船の座標に使われるものと似た画面プロンプトで解決される。このプロンプトは、プレイヤーが7つの要件すべての船ログをアンロックしており、このドアの横か、orreryの近くに立っているときに表示されます。",
+    "We also went back and numbered all the requirements so that this door Jamie made could show exactly which requirements are currently met.": "また、ジェイミーが作ったこのドアで、現在どの要件が満たされているかを正確に示すことができるよう、すべての要件にさかのぼって番号を振った。",
+    "Finally, the fact that the core is inaccessible when all of the requirements are met is pulling double duty as both a puzzle and a quality of life feature.": "最後に、すべての条件を満たすとコアにアクセスできなくなるという事実は、パズルとQOLの両方の役割を担っている。",
+    "Since the player must travel to the core first before warping to the orrery station to apply the requirements, they can always warp to the core to check the door and then warp back to the orrery to correct small mistakes.": "プレーヤーは、条件を適用するためにオーレリーステーションにワープする前に、まずコアに移動しなければならないので、いつでもコアにワープしてドアをチェックし、それからオーレリーにワープして小さなミスを修正することができる。",
+    "This combination of factors makes the final puzzle less prone to resets than even the final loop of Echoes of the Eye and resetting is relatively quick when it is necessary.": "このような要素が組み合わさって、最後のパズルは『エコーズ・オブ・ザ・アイ』の最終ループよりもリセットされにくく、リセットが必要な場合でも比較的短時間で済む。",
+    
+    //FinalRequirements
+    "Final Requirements": "最終要件",
+    "Author: coderCleric --- Subject: Final Requirements": "著者: coderCleric --- 件名：最終要件",
+    "Implementation": "実施",
+    "Overall Logic": "全体的なロジック",
+    "Brute-Force Prevention": "暴力防止",
+    "One of the more important programming tasks that I completed was actually checking whether or not the system configuration met the final project requirements.": "より重要なプログラミング作業のひとつは、システム構成がプロジェクトの最終要件を満たしているかどうかを実際にチェックすることだった。",
+    "This wasn't overly complicated, and I was actually able to use a static class with methods for checking each requirement. I've always enjoyed writing shorter, standalone methods to do very specific things, this was right up my alley.": "これは過度に複雑なものではなく、各要件をチェックするメソッドを持つ静的クラスを実際に使うことができた。私はいつも、非常に特殊なことをするための、より短い独立したメソッドを書くのが好きなので、これは私の好みにぴったりだった。",
+    "By far the most interesting requirement to program was the angle requirement. It required the planets to be grouped into the different orbits, and then for the pairs in those orbits to have their angles checked.": "プログラムで最も興味深かったのは、角度の条件だった。惑星をさまざまな軌道にグループ分けし、その軌道上のペアの角度をチェックする必要があった。",
+    "There were a few bugs that needed ironed out initially, but implementation went pretty smoothly overall and was a lot of fun!": "当初はいくつかのバグを修正する必要があったが、実装は全体的にかなりスムーズで、とても楽しかった！",
+    "Due to the narrative justification for the final requirements, it was important that they all have some sort of believable justification.": "最終的な要求事項の正当性を物語的に説明するため、すべての要求事項がある種の信憑性のある正当性を持つことが重要だった。",
+    "This is why the requirements are things like “planets in the same orbit must be far away” and “the large planet can't be too far from the sun”. They're meant to be believable as things students would think of to demonstrate their knowledge.": "同じ軌道にある惑星は遠く離れていなければならない」「大きな惑星は太陽から遠すぎてはならない」といった条件があるのはこのためだ。生徒が自分の知識を証明するために考えそうなこととして信憑性を持たせるためだ。",
+    "One of the more challenging parts of making the requirements in this way was actually preventing them from conflicting. Each requirement applies a certain restriction on how the system can be laid out, so adding new requirements can easily make old ones impossible.": "このような方法で要件を作成する上で、より困難なことのひとつは、実際に要件が矛盾しないようにすることだった。各要件は、システムのレイアウトに一定の制限を加えるので、新しい要件を追加すると、古い要件が簡単に不可能になる。",
+    "The nature of the requirements also makes them much more fun to fulfill. Since it's not just a code that we give to the player, it's up to them to actually figure out a system configuration that satisfies each requirement.": "また、要求事項の性質上、それを満たすことがより楽しくなる。我々がプレイヤーに与えるのは単なるコードではないので、各要件を満たすシステム構成を実際に考えるのはプレイヤー次第なのだ。",
+    "One thing we tried to do when designing the requirements was make sure that they discouraged the use of brute force to figure them out.": "私たちが要求事項を設計する際に心がけたことのひとつは、総当たりで計算することを避けるようにすることだった。",
+    "While brute force was discouraged by how specific the requirements were, our main defense was actually how all of the requirements almost conflict, with fulfilling one requiring another to be temporarily violated.": "ブルートフォース（総当たり戦）は、要求事項があまりに具体的であるために敬遠されたが、私たちの主な防御策は、実はすべての要求事項がほとんど相反しており、ある要求事項を満たすためには別の要求事項が一時的に違反される必要がある、というものだった。",
+    "One example is the interactions between the geyser, ice, and large planet orbital requirements. To fulfill the first two, you have to move the water to The Big One and then freeze it.": "その一例が、間欠泉、氷、そして大きな惑星の軌道条件との相互作用である。最初の2つを満たすには、ビッグ・ワンに水を運び、それを凍らせなければならない。",
+    "However, this will require you to violate that last requirement (since the water will only freeze in the farthest orbit). This means that you have to purposefully move The Big One closer to the sun after freezing it, but also not so close that it thaws again.": "しかし、これは最後の条件を破る必要がある（水は最も遠い軌道でしか凍らないから）。つまり、ビッグ・ワンを凍らせた後、意図的に太陽に近づけなければならない。",
+    "In true Outer Wilds fashion, it is technically possible to brute-force the requirements from the start. It's just very unlikely due to how specific they are and how they interact.": "アウター・ワイルズの流儀で言えば、最初から条件を総当りにすることは技術的には可能である。ただ、それがいかに特殊で、どのように相互作用するかによって、可能性は非常に低くなる。",
+    
+    //FinalStairs
+    "Final Stairs": "最後の階段",
+    "Author: Walker --- Subject: Final Stairs": "著者ウォーカー --- テーマ最後の階段",
+    "There are a couple important triggers placed on these stairs.": "この階段にはいくつかの重要なきっかけがある。",
+    "Firstly, a loop extension trigger for the final room. This is especially important because the default settings don't freeze time when reading dialog.": "まず、最後の部屋のループ延長トリガー。デフォルトの設定では、ダイアログを読むときに時間がフリーズしないので、これは特に重要だ。",
+    "In one playtest, a player reached the final room late and the loop ended while they were halfway through Adonsonia's dialog, forcing them to redo the entire final puzzle.": "あるプレイテストでは、あるプレイヤーが最後の部屋にたどり着くのが遅れ、アドンソニアの台詞の途中でループが終わってしまい、最後のパズルをすべてやり直さざるを得なかった。",
+    "The other important trigger is a credits volume near the top of the stairs that activates when players speak to Adonsonia.": "もう1つの重要なトリガーは、階段の一番上付近にあるクレジットのボリュームで、プレイヤーがアドンソニアに話しかけると作動する。",
+    "The primary purpose of this credits volume is to provide a clear delineation between the main mod and the post-mod content with the experimental orrery. I wanted to make sure players knew that the mod was over and that the experimental orrery is just a bonus.": "このクレジット・ボリュームの主な目的は、メインMODと実験的オーレリーによるポストMODコンテンツとの間に明確な区切りをつけることだ。私はプレイヤーに、このMODが終わったこと、そして実験的なオルレリーはあくまでオマケであることを知ってもらいたかった。",
+    
+    //FluidTransfer
+    "Fluid Transfer": "流体移送",
+    "Author: Walker --- Subject: Fluid Transfer": "著者：ウォーカー --- 件名：流体移送",
+    "When we were brainstorming puzzles we could use the orrery mechanic for, transferring fluids between planets was one of our earliest ideas. This puzzle was one of the first things I prototyped, even before the orrery was fully working.": "オーレリーのメカニックを使ったパズルを考えていたとき、惑星間の流体移動は初期のアイデアのひとつでした。このパズルは、オーレリーが完全に機能する前から、私が最初に試作したもののひとつです。",
+    "Ultimately, we used the concept for several puzzles and it subsequently informed the development of the ice mechanics. It also significantly restricted the designs of Daucus, Glacial Abyss!, and The Big One as they all needed to support their respective fluid(s) with the later two also needing to support ice as well.": "最終的に、我々はこのコンセプトをいくつかのパズルに使用し、その後氷のメカニズムの開発に反映させた。また、「Daucus」、「Glacial Abyss」、「The Big One」のデザインに大きな制約を与えた。",
+    "We went back and forth a lot on how explicit of a hint to give the player about the fluid transfer mechanic. We were worried players might find it unintuitive or not even think of it as something to try.": "流体移送のメカニズムについて、プレイヤーにどの程度明確なヒントを与えるかについては、何度も行き来した。プレーヤーが直感的に理解できなかったり、試そうとも思わなかったりするのではないかと心配したのです。",
+    "However, once we began playtesting, we quickly saw that those fears were unfounded. Players tended to grasp the mechanic very quickly. Most even discover it themselves through experimentation with the orrery.": "しかし、プレイテストを始めてみると、その心配はすぐに杞憂に終わった。プレイヤーはこのメカニズムをすぐに理解する傾向があった。ほとんどのプレイヤーは、オルレリーを使った実験を通して、自分自身でそれを発見した。",
+    
+    //FunnyDaucusMoment
+    "Funny Daucus Moment": "おかしなドーカスの瞬間",
+    "Author: JohnCorby --- Subject: Funny Daucus Moment": "著者JohnCorby --- 件名：おかしなドーカスの瞬間",
+    "The \"'Won't your planet name be easily confused for your name?' 'Yes.'\" dialogue was the one \"writing\" thing that I seriously suggested and that actually made it into the mod.": "惑星名はあなたの名前と混同されやすいのでは？",
+    "Daucus is my personal favorite character, so I'm happy I was able to contribute to his characterization a little bit.": "ドーカスは個人的に大好きなキャラクターなので、彼のキャラクター設定に少しでも貢献できたことをうれしく思っている。",
+    
+    //GeysersEvolution
+    "Geysers": "間欠泉",
+    "Author: Walker --- Subject: Geysers": "著者ウォーカー --- テーマ間欠泉",
+    "The geysers puzzle changed more significantly over the course of development than any other part of the mod. In fact, it originally didn't involve geysers at all.": "間欠泉パズルは、このMODの他のどの部分よりも、開発の過程で大きく変化した。実際、もともとは間欠泉はまったく関係なかったんだ。",
+    "In the original version of this puzzle, the quantum rock that's now on Shattered Geode was the way players would get to the core. You can learn more about it at the quantum rock structure on Shattered Geode.": "このパズルのオリジナル版では、現在シャタード・ジオードにある量子岩が、プレイヤーがコアにたどり着く方法だった。詳しくはShattered Geodeの量子岩の構造をご覧ください。",
+    "This early version of the puzzle wasn't very intuitive and it was clear from playtesting that it needed to change. However, we had already finalized parts of the final puzzle that relied on the relationship between the ice, the quantum rock, and the core.": "この初期バージョンのパズルはあまり直感的ではなく、プレイテストの結果、変更する必要があることは明らかでした。しかし、最終的なパズルのうち、氷、量子岩、コアの関係に依存する部分はすでに完成していました。",
+    "We needed a new way for players to reach the core that still required freezing the planet and warping under the ice. We also needed the updated puzzle to be easy to implement because we were starting to run out of time left in the jam. It was a bit of a conundrum but I spent the evening after a playtest thinking about it and came up with a proposal for the current geyser puzzle design.": "私たちは、惑星を凍らせて氷の下にワープする必要があるにもかかわらず、プレイヤーがコアに到達するための新しい方法を必要としていました。また、パズルの更新を簡単に行う必要もありました。ちょっとした難問でしたが、プレイテストの後の晩に考えて、現在の間欠泉パズルのデザイン案を思いつきました。",
+    "After convincing the rest of the team, we overhauled the puzzle. Jamie updated the planet model to include the geysers and Cleric handled the code.": "チームの他のメンバーを説得した後、パズルをオーバーホールした。ジェイミーが間欠泉を含む惑星モデルを更新し、クレリックがコードを処理した。",
+    "That design pivot is my proudest moment on this project because it effectively solved the mod's most glaring issue with minimal implementation complexity and without requiring us to overhaul any other puzzles tied to it.": "というのも、MODの最も顕著な問題を最小限の実装の複雑さで効果的に解決し、MODに関連する他のパズルをオーバーホールする必要がなかったからだ。",
+    "It even had the added bonus of making one of the final requirements much less ambiguous. Before the geysers were added, the \"geothermal activity\" requirement was for a planet to have a \"dry seabed\" which is much easier to misinterpret.": "その結果、最終的な要件のひとつがより曖昧でなくなるというおまけまでついた。間欠泉が追加される前は、\"地熱活動 \"の条件は \"乾燥した海底 \"を持つ惑星でなければならなかった。",
+    
+    //GhostMatterCave
+    "Ghost Matter Cave": "ゴースト・マター・ケイブ",
+    "Author: Walker --- Subject: Ghost Matter Cave": "著者ウォーカー --- テーマゴースト・マター・ケイブ",
+    "The mechanic used in this puzzle is an interesting case because it's technically a base-game mechanic but it's never explicitly taught to the player. As such, we were much more direct with the hint for this puzzle to ensure players were aware that water can neutralize ghost matter.": "このパズルで使われているメカニックは、技術的には基本ゲームのメカニックでありながら、プレイヤーに明確に教えられないという興味深いケースです。そのため、私たちはこのパズルのヒントをより直接的なものにし、プレイヤーに水がゴースト物質を中和できることを認識させました。",
+    "I placed this beacon here simply to make the structure more visible from afar. We noticed in playtesting that players have the most trouble finding points of interest on the south pole because they're never visible from the orrery station. This cave is especially bad because it blends in with its surroundings more than other structures.": "このビーコンをここに設置したのは、単に遠くから建造物を見やすくするためだ。私たちはプレイテストで、プレイヤーが南極の名所を見つけるのに最も苦労することに気づいた。この洞窟は他の構造物よりも周囲に溶け込んでいるため、特にひどい。",
+    "All of the text in this area is on raised platforms like this one to ensure it's always readable whether sand has been transfered to this planet or not.": "このエリアのテキストはすべて、砂がこの惑星に移動してもしなくても常に読めるように、このように盛り上がった台の上にある。",
+    
+    //GrandOrrery
+    "Prototype Orrery": "プロトタイプ・オレリー",
+    "Author: Walker --- Subject: Prototype Orrery": "著者ウォーカー --- 件名試作オーレリー",
+    "This device contains as many Nomai orbs as you have Jam 5 entries installed and lets you to move the entire solar system created by each entry once you learn how to activate it.": "この装置には、ジャム5エントリーがインストールされている数だけノマイオーブが入っており、起動方法を覚えれば、各エントリーで作られた太陽系全体を動かすことができる。",
+    "This prototype orrery was proposed on day one of the jam but was initially rejected for being too difficult to implement. The concept was inspired by the few entries in Jam 3 that took advantage of the shared world to interact with other teams' entries in interesting ways.": "このプロトタイプはジャム初日に提案されたが、実装が難しすぎるという理由で最初は却下された。このコンセプトは、ジャム3で他のチームの作品と面白い方法で相互作用するために共有世界を利用した数少ない作品に触発された。",
+    "When we got close to the end of the jam and were actually running out of things to do, we revisited the idea and Jamie decided to implement it (after we made sure it was allowed within the rules of the jam of course).": "ジャムが終わりに近づき、実際にやることがなくなってきたとき、私たちはそのアイデアを再検討し、ジェイミーはそれを実行に移すことにした（もちろん、ジャムのルールの中でそれが許されることを確認した上で）。",
+    "Since we couldn't be certain the orrery would work properly with all the other entries, we made sure to communicate repeatedly in text that it is experimental and likely to break things. We also made sure it couldn't affect anything until it was activated and fully reset everything at the end of the loop.": "オーラリーが他のすべてのエントリーで正しく機能するとは断言できなかったので、実験的なものであり、物事を壊す可能性があることをテキストで繰り返し伝えるようにした。また、ループの最後ですべてがリセットされるまでは、何も影響を及ぼさないようにした。",
+    "In its final state the prototype orrery serves as a nice reward for players at the end of the mod and is also necessary to solve the puzzles leading to our mod's obligatory easter egg.": "また、このMODのお決まりであるイースター・エッグにつながるパズルを解くためにも必要です。",
+    
+    //GravityTower
+    "Gravity Tower": "グラビティ・タワー",
+    "Author: Walker --- Subject: Gravity Tower": "著者ウォーカー --- 件名重力タワー",
+    "This puzzle is a good example of a base-game mechanic recontextualized by giving the player the ability to move the planets around. There isn't any custom code involved in this puzzle, just the natural results of gravity fields interacting.": "このパズルは、プレイヤーに惑星を動かす能力を与えることで、基本的なゲームのメカニズムを再文脈化した良い例だ。このパズルにはカスタム・コードは一切なく、重力場の相互作用による自然な結果だけである。",
+    "One issue I encountered when implementing this puzzle was that making the sun's gravity strong enough to allow players to reach the top of the tower would also cause the sun to pull players off the surfaces of planets with lower gravity if they were placed in the closest orbit.": "このパズルを実装する際に遭遇した問題のひとつは、タワーの頂上に到達できるほど太陽の重力を強くすると、最も近い軌道にプレイヤーを配置した場合、重力の弱い惑星の表面から太陽がプレイヤーを引きずり落としてしまうことだった。",
+    "I solved this by giving the sun high gravity but a very small range at which it is applied. The sun's sphere of gravitational influence is large enough to overlap with The Big One when it's in the closest orbit but doesn't reach the surface of smaller planets in the same position.": "私は太陽に高い重力を与えることでこれを解決したが、それが適用される範囲は非常に狭い。太陽の引力圏は、最も近い軌道にあるビッグ・ワンと重なるには十分大きいが、同じ位置にある小さな惑星の表面には届かない。",
+    "The only other way this puzzle changed during development was the removal of these platforms inside the tower that made it a bit easier to climb.": "このパズルが開発中に変更されたのは、塔の中にある台が取り除かれ、少し登りやすくなったことくらいだ。",
+    "These were removed after a playtester used them to easily scout-boost up the tower without solving the puzzle.": "プレイテスターがこれを使い、パズルを解かずに簡単に塔をスカウトブーストしてしまったため、これらは削除された。",
+    
+    //HarmonicConvergence
+    "Harmonic Convergence": "ハーモニック・コンバージェンス",
+    "Author: Walker --- Subject: Harmonic Convergence": "著者ウォーカー --- 件名ハーモニック・コンバージェンス",
+    "The concept for this puzzle originally came from thinking about interesting arrangements I could require the player to put the planets in. Lining all of them up was an obvious choice but it took a while for the rest of the puzzle to be conceived.": "このパズルのコンセプトは、もともとは惑星を配置するためにプレイヤーに要求できる面白い配置を考えることから生まれたんだ。すべての惑星を並べるのは当然の選択でしたが、パズルの残りの部分が思いつくまでには時間がかかりました。",
+    "Earlier concepts included Shattered Geode focusing a laser instead of using signals, the signals originating from Nomai devices, or playing the signals shattering a crystal. These were mostly rejected for being infeasible with the time available.": "それ以前のコンセプトには、シャタード・ジオードが信号の代わりにレーザーを集束させたり、能舞の装置から信号を発信したり、クリスタルを砕いて信号を再生したりといったものがあった。しかし、これらは時間的に不可能という理由で却下された。",
+    "Once the puzzle's design was solidified, the primary concern was how to handle the signal of Shattered Geode itself. I ultimately decided not to include it in the puzzle because the game does not allow the player to look straight up or down which would have made alignment difficult.": "パズルのデザインが固まったところで、一番の関心事はシャタード・ジオードの信号そのものをどう扱うかということでした。というのも、このゲームではプレイヤーが真上や真下を見ることができないので、位置合わせが難しくなってしまうからです。",
+    "The green panel on the floor with the Shattered Geode decal was added to make it clearer that scanning its signal is not required for the puzzle. Additionally, the planet's signal audio plays faintly in this area regardless of whether the player is targeting it or not.": "Shattered Geodeのデカールが貼られた床の緑色のパネルは、その信号をスキャンすることがパズルに必要でないことをより明確にするために追加された。さらに、このエリアでは、プレイヤーがターゲットにしているかどうかに関係なく、惑星のシグナル音声がかすかに再生される。",
+    "The planet signals were originally created for this puzzle but turned out to have the additional benefit of allowing players to identify planets with their signalscope while at the orrery.": "惑星信号はもともとこのパズルのために作られたものだが、オルレリーにいる間にシグナルスコープで惑星を識別できるという利点もあることが判明した。",
+    
+    //SignalPillars
+    "Signal Pillars": "信号柱",
+    "Author: Walker --- Subject: Signal Pillars": "著者ウォーカー --- 件名信号柱",
+    "Originally, the pillars with the torches were spaced evenly around the edge of the platform. I changed this after a playtester interpreted the puzzle as requiring them to line up each of the planets with their respective pillar. Their new placement makes it clearer that all of the planets must be in the same direction.": "もともとは、松明のある柱はプラットフォームの端に等間隔で配置されていました。プレイテスターが、このパズルは惑星をそれぞれの柱に並べることを要求していると解釈したため、これを変更しました。新しい配置によって、すべての惑星が同じ方向になければならないことがより明確になりました。",
+    "The pillars for the sun and The Big One are intentionally placed such that they're in clear view when targeting their respective astral bodies if the planets are all in their starting positions.": "太陽とビッグ・ワンの柱は、惑星がすべてスタート位置にある場合、それぞれのアストラル体を狙うときにはっきりと見えるように意図的に配置されている。",
+    "The platform with the computer is placed facing the sun so it's always visible when the puzzle is solved. Additionally, this whole structure is located near the south pole so that the final step of the puzzle is simply to scan straight ahead on a horizontal plane.": "コンピュータのあるプラットフォームは太陽に向かって設置されているため、パズルを解くときに常に見える。さらに、この構造物全体が南極の近くにあるため、パズルの最終ステップは水平面をまっすぐスキャンするだけだ。",
+    "After the jam ended, it became clear that this was one of the structures players had the hardest time finding. I added these metal pieces to the tops of the pillars to make the structure visible from a greater distance. They also make the structure more visually distinct and harder to mistake for the orrery warp transmitter on the other pole.": "ジャムが終わった後、これは選手たちが見つけるのに一番苦労した建造物のひとつであることが明らかになった。私はこの金属片を柱の上部に追加し、より遠くから構造物が見えるようにした。また、この金属片のおかげで、構造物が視覚的にはっきりし、もう一方の柱にあるワープ送信機と間違えにくくなった。",
+    
+    //IceClipping
+    "Ice Clipping": "アイス・クリッピング",
+    "Author: Walker --- Subject: Ice Clipping": "著者ウォーカー --- テーマアイス・クリッピング",
+    "One of the few significant issues present on the mod upon release was that players could clip into the ice above this warp receiver if they teleported to it while the planet was partially frozen.": "リリース時にこのMODに存在した数少ない重大な問題の1つは、惑星が部分的に凍結している間にプレイヤーがテレポートすると、このワープ受信機の上の氷にクリップしてしまうことだった。",
+    "After watching this happen to a few players I realized it was essential to fix, but actually fixing it proved to be a bit of a challenge.": "何人かの選手がこのような状態になったのを見て、修正することが不可欠だと気づいたが、実際に修正するのは少し難しいことがわかった。",
+    "The difficulty comes from the fact that players must be able to warp under the ice and the warp receiver must be above the ice when the planet is fully melted. But there cannot be any level of ice at which the player will clip into it when warping.": "その難しさは、プレイヤーが氷の下にワープできなければならないことと、惑星が完全に溶けたときにワープレシーバーが氷の上になければならないことから来る。しかし、ワープ時に氷に挟まれるようなレベルの氷は存在できない。",
+    "The solution I settled on was twofold. Firstly, I added a divot in the underside of the ice directly above the warp receiver.": "解決策は2つあった。まず、ワープレシーバーの真上の氷の裏側にくぼみをつけた。",
+    "Then I redesigned this area to place the warp receiver in a hole in the ground.": "そして、このエリアを再設計して、ワープ受信機を地面の穴の中に配置した。",
+    "With these two changes, the ice reaches its minimum height and despawns before it ever overlaps with the warp receiver. The bottom of this hole isn't visible from the orrery station so player's don't notice the ice popping out of existence.": "この2つの変更により、氷は最小の高さに達し、ワープレシーバーと重なる前にデスポーンする。この穴の底はオルレリーステーションからは見えないので、プレイヤーは氷が飛び出していることに気づかない。",
+    "Other solutions I considered included making the ice kill you if you teleported into it or deactivating the warp receiver if the ice was overlapping it. I rejected both of these because they had the potential to introduce confusion about the mechanics of the puzzle.": "そのほか、氷の中にテレポートすると死んでしまうようにするとか、氷が重なっていたらワープ受信機を停止させるなどの解決策も考えた。どちらもパズルのメカニズムに混乱をもたらす可能性があったので却下した。",
+    
+    //IceSphere
+    "Ice Mechanic": "アイス・メカニック",
+    "Author: coderCleric --- Subject: Ice Mechanic": "著者: coderCleric --- 件名：アイス・メカニック",
+    "Evolution": "進化",
+    "Trouble": "トラブル",
+    "The ice mechanic used on Glacial Abyss! and The Big One actually went through quite a few changes throughout development.": "氷河の深淵！』や『ビッグ・ワン』で使われていた氷のメカニズムは、実は開発中に何度か変更されている。",
+    "At first we just wanted it to be very simple; if a planet with water on it was eclipsed by another, then the water would freeze. Otherwise, any ice would melt.": "もし水のある惑星が他の惑星に食われてしまったら、水は凍るだろう。そうでなければ、氷は溶けてしまう。",
+    "Pretty soon though, we considered involving the distance from the sun as well, so that water would freeze in the farthest orbit.": "しかしすぐに、太陽からの距離も関与させて、水が最も遠い軌道で凍るようにすることを考えた。",
+    "Eventually we decided to do both. We required that the planet with water be as far from the sun as possible, and also that it be eclipsed by another planet.": "結局、我々はその両方を行うことにした。水のある惑星はできるだけ太陽から遠いこと、そして他の惑星に食われていることが条件だった。",
+    "Finally, noticing that this requirement led to the ice being very delicate, we decided to have a separate thawing condition. In the end we landed on the ice mechanic that is in the mod now, where water freezes if it's in the farthest orbit and is eclipsed, but only thaws if it's brought into the closest orbit.": "最終的に、この条件が氷を非常にデリケートにすることに気づいたので、解凍条件を別に設けることにした。最終的に私たちは、最も遠い軌道にある水が日食されると凍り、最も近い軌道に持ち込まれた場合のみ解凍されるという、現在のMODにある氷のメカニズムにたどり着きました。",
+    "Throughout the development process, the ice mechanic proved to be a fairly consistent source of pain.": "開発プロセスを通じて、氷のメカニックはかなり一貫した痛みの原因であることが判明した。",
+    "The mechanic was plagued with edge cases and bugs that kept cropping up, such as negative offset variables allowing the ice to be drained away as water and an overly long raycast allowing other planets to eclipse watery ones from the wrong side of the sun. I'm fairly certain that every member of the development team managed to break the ice in some way at least once.": "たとえば、負のオフセット変数によって氷が水として排出されてしまったり、長すぎるレイキャストによって他の惑星が太陽の反対側から水惑星を食してしまったり。開発チームの全員が、少なくとも一度は何らかの形で氷を割ってしまったことは間違いない。",
+    "At one point it was even discovered that the ice wouldn't start in a frozen state past the first loop, apparently because the size of the water was too low for a few frames!": "あるとき、氷が最初のループを過ぎても凍った状態でスタートしないことが判明した！",
+    "Even once the actual bugs were ironed out, the ice continued to be temperamental. Since the height is based not only on how frozen it is, but also on how much water is on the planet, changing any part of the system would have dramatic implications for every other part.": "実際のバグが解消された後も、氷は不安定であり続けた。高さは凍り具合だけでなく、地球上の水の量にも基づいているため、システムのどこかを変えれば、他のすべての部分に劇的な影響を及ぼすことになる。",
+    "All of this made the ice a pretty difficult problem to solve. All in all though, I'm quite happy with how the mechanic turned out!": "これらすべてが、氷を解決するのをかなり難しくした。でも全体としては、メカニックの仕上がりには満足しているよ！",
+    
+    //JamieIntro
+    "Lezzlebit Introducton": "レズルビット紹介",
+    "Heya! I'm Jamie (or Lezzlebit). I did most of the custom shaders and basically all of the custom 2D and 3D art for this mod.": "やあ！僕はジェイミー（またはレズルビット）。カスタムシェーダーのほとんどと、基本的にこのMODのカスタム2Dと3Dアートのすべてを担当しました。",
+    "I also collaborated with Will for the music and sounds, programmed the Grand Orrery (hehehe) and helped a bit with design.": "ウィルとは音楽とサウンドの共同作業もしたし、グランド・オレリーのプログラミングもした（笑）。",
+    "I've participated in two prior mod jams, but this was by far the one I was the most involved in!": "僕は過去に2回、MODジャムに参加したことがあるんだけど、今回のジャムが一番参加したジャムだった！",
+    "I've honestly grown the most as a 3D artist while working on Outer Wilds mods. Matching the level of visual quality this game normally has is tricky (but so rewarding).": "アウター・ワイルズのMODを制作しているときが、3Dアーティストとして一番成長できたときだった。このゲームが通常持っているビジュアルクオリティのレベルに合わせるのは難しい（でもとてもやりがいがある）。",
+    "The few commentary orbs that belong to me are <![CDATA[<color=pink>pink</color>]]>! Go and read 'em.": "数少ない私のコメントオーブは<![CDATA[<color=pink>pink</color>]]>です！行って読んでください。",
+    
+    //JohnIntro
+    "JohnCorby Introduction": "ジョン・コービー紹介",
+    "Hi, I'm JohnCorby, or Will. Whichever you prefer. If you've played other mods, you've probably seen my name before.": "こんにちは、僕はジョン・コービー、あるいはウィル。お好きな方をどうぞ。他のMODをプレイしたことがある人なら、僕の名前を見たことがあるかもしれないね。",
+    "I made most of the music for this mod, collaborating with Jamie. It's probably my best work yet.": "このMODの音楽は、ジェイミーとコラボしてほとんど僕が作ったんだ。おそらく、今までで最高の作品になったと思う。",
+    "I also did a bunch of gameplay programming, as well as some technical art/graphics programming for a few of the tricky visual effects.": "ゲームプレイのプログラミングもたくさんやったし、トリッキーなビジュアル・エフェクトのためのテクニカル・アート／グラフィックスのプログラミングもやった。",
+    "Finally, the past few years I've been doing a lot of the editor tooling/support and documentation. This mod (and most other big ones for this jam) used those resources, so it was a really good sanity check that things were working okay and made sense.": "最後に、ここ数年、私はエディターのツーリング／サポートとドキュメンテーションの多くを手がけてきた。このMODは（そしてこのジャムの他のほとんどの大きなMODも）それらのリソースを使用していたので、物事が問題なく動作し、筋が通っているかどうかをチェックするのは本当に良いことだった。",
+    "You can find more of me at <![CDATA[<color=cyan>cyan</color>]]>orbs across the system. Also, hello Jon or any other Mobius dev reading this :D": "僕のことは<![CDATA[<color=cyan>cyan</color>]]>orbs across the systemでもっと見られるよ。また、ジョンやこれを読んでいる他のメビウス開発者の皆さん、こんにちは :D",
+    
+    //ModStructure
+    "Mod Structure": "MOD構造",
+    "Author: Walker --- Subject: Mod Structure": "著者ウォーカー --- 件名MODの構造",
+    "One thing I'm very proud of with this mod is how nonlinear it is.": "この改造で私が非常に誇りに思っていることのひとつは、それがいかにノンリニアであるかということだ。",
+    "Something that lots of mods (including my own), and even Echoes of the Eye, struggle with is reaching a similar level of exploration-driven nonlinearity as the base game.": "私のものを含め）多くのMODが、そして「エコーズ・オブ・ザ・アイ」でさえも苦労しているのは、ベースゲームと同じようなレベルの探索主導型の非直線性に到達することだ。",
+    "This is a challenge because mods are much smaller than the base game and often only have one central curiosity as opposed to the base game's 4-5.": "MODは基本ゲームよりもはるかに小さく、基本ゲームの4～5個とは対照的に、中心的な好奇心を1個しか持っていないことが多いからだ。",
+    "This means you'll usually find a lot fewer surface-level puzzles and locations to explore but puzzles will often chain into each other more than most do in the base game.": "そのため、表面レベルのパズルや探索すべき場所は通常かなり少なくなるが、パズルが互いに連鎖していくことが多くなる。",
+    "For Heliostudy, I specifically wanted to make a mod that had a lot of surface-level puzzles with each one independently feeding into the requirements for the final loop. You can see this structure very clearly in the ship log's rumor mode.": "Heliostudyでは、特に、表面レベルのパズルがたくさんあって、それぞれが独立して最終的なループの要件につながるようなMODを作りたかったんだ。この構造は、シップログの噂モードを見ればよくわかる。",
+    "The only real chain of puzzles in the mod is the set required to reach the core. This also ensures the players usually find the core relatively late into the mod when they're starting to run out of other places to explore.": "このMODでは、パズルの本当の連鎖はコアに到達するために必要なセットだけである。このため、プレイヤーがコアを見つけるのは、他の探索場所がなくなってきたMODの比較的後半になる。",
+    "Ultimately I'm very happy with how this structure turned out!": "最終的には、この構成にとても満足している！",
+    
+    //OrreryMerged
+    "Orrery Design": "オーラリー・デザイン",
+    "Author: Walker --- Subject: Orrery Design": "著者ウォーカー --- テーマオリリーのデザイン",
+    "Concept": "コンセプト",
+    "Design Foil": "デザイン箔",
+    "Visibility": "視認性",
+    "Planet Starting Positions": "惑星スターティングポジション",
+    "The concept of the orrery was an idea I had from way back before the release of Astral Codec. When I heard the theme of the jam was <![CDATA[<color=orange>miniature</color>]]>, it seemed like the perfect opportunity to finally develop this idea.": "オルレリーのコンセプトは、アストラル・コーデックがリリースされるずっと前から持っていたアイデアだった。ジャムのテーマが<![CDATA[<color=orange>miniature</color>]]>だと聞いたとき、このアイデアを最終的に発展させる絶好の機会だと思ったんだ。",
+    "I had toyed with ideas for puzzles using it for a few years before the start of the jam which made designing the mod much quicker and more efficient than it otherwise would have been.": "ジャムが始まる数年前から、これを使ったパズルのアイデアを考えていた。",
+    "Even still, the design of the orrery went through several iterations over the course of the jam. Some concepts we rejected early on included controlling the orrery with Stranger light sensors and having multiple orreries with different capabilities.": "それでも、オーレリーのデザインはジャム期間中、何度も繰り返された。初期の段階で却下したコンセプトには、ストレンジャーの光センサーでオーレリーをコントロールすることや、異なる能力を持つ複数のオーレリーを用意することなどがあった。",
+    "The layout of the 3 orbit lines and the connectors between them was settled on early in development as an easy-to-use design with enough limitations that moving the planets became a bit of a puzzle in itself.": "3つの軌道ラインとその間のコネクターのレイアウトは、惑星を動かすこと自体がちょっとしたパズルになるような制限のある使いやすいデザインとして、開発初期に決定された。",
+    "I find the orrery mechanic to be a really interesting foil to some of the core design principles of Outer Wilds.": "オーラリーのメカニズムは、『アウター・ワイルズ』の核となるデザイン理念の一部と相まって、実に興味深いものだと思う。",
+    "In the base game, the player is always at the mercy of the elements and must learn how to navigate a constantly-moving hostile world that doesn't care about their survival.": "ベースとなるゲームでは、プレイヤーは常に要素に翻弄され、自分の生存など気にも留めない、絶えず動き続ける敵対的な世界をナビゲートする方法を学ばなければならない。",
+    "The orrery takes many of the mechanics from the base game that are normally part of this hostile world and puts them under the direct control of the player. This solar system is completely static until the player decides to change something.": "Orreryは、通常この敵対的な世界の一部である基本ゲームのメカニクスの多くを取り出し、それらをプレイヤーの直接制御下に置く。この太陽系は、プレイヤーが何かを変更しようと決めるまで、完全に固定されている。",
+    "Despite this, the world can still be very dangerous but it's now entirely due to the player's actions rather than the independent proceedings of the game's systems. It's a unique dynamic that I feel can only really work in the context of a mod.": "にもかかわらず、世界は依然として非常に危険でありうるが、それはゲームのシステムによる独立した進行ではなく、完全にプレイヤーの行動によるものだ。これは、MODの文脈でのみ本当に機能するユニークなダイナミズムだと思う。",
+    "Beyond being just an interesting design quirk, this recontextualization also provided significant practical development benefits.": "この再コンテクスト化は、単に興味深いデザインの奇抜さであるだけでなく、実用的な開発上のメリットも大きい。",
+    "Because most of our puzzles are centered around base-game mechanics applied to this new context, we were able to develop many of them with minimal custom code and assets.": "私たちのパズルのほとんどは、基本的なゲームメカニクスを新しいコンテクストに適用したものなので、カスタムコードやアセットを最小限に抑えて開発することができました。",
+    "This allowed us to include far more puzzles than we initially expected. We scoped up multiple times throughout the jam when we finished things faster than expected. It also allowed us to playtest, iterate, and polish more than is normally feasible in such a limited time frame.": "そのおかげで、当初予想していたよりもはるかに多くのパズルを入れることができました。ジャム期間中、予想以上に早く完成したときには、何度もスコープアップした。また、限られた時間の中で、通常では不可能なほど多くのプレイテスト、イテレーション、ポリッシュを行うことができました。",
+    "As we began to implement the orrery, it became clear that visibility was going to be a major concern. Since the player must look at Nomai orbs to move them, it was essential that the orrery be designed in such a way that the player can clearly see the planet they're moving while targeting its orb.": "オーレリーの実装に着手するにつれ、視認性が大きな問題になることが明らかになりました。ノマイオーブを動かすには、プレイヤーはノマイオーブを見なければならないので、オーブに照準を合わせながら動かす惑星をはっきりと見ることができるように、オーレリーをデザインすることが不可欠でした。",
+    "This fact is why this station is located above the plane of the ecliptic and why the orrery is embedded into the floor.": "この事実が、この駅が黄道面の上に位置し、オルレリーが床に埋め込まれている理由である。",
+    "This design constraint also informed much of the visual design of the orrery and the station. This earlier version of the orrery featured much more detailed orbit lines. However, its width obstructed visibility of the planets too much.": "この設計上の制約は、オーレリーとステーションのビジュアル・デザインの多くにも影響を与えた。この初期バージョンのオーレリーには、より詳細な軌道線が描かれていた。しかし、その幅は惑星の視界を妨げすぎた。",
+    "The solar panels around the edge of the station also used to extend much further down but were redesigned to avoid blocking visibility of the planets.": "ステーションの端にある太陽電池パネルも、以前はもっと下まで伸びていたが、惑星の視界を遮らないように再設計された。",
+    "I chose the starting placement of the planets to minimize the likelihood of players solving too many puzzles on accident. In particular, The Big One is placed far away from either of the planets it can siphon fluids from.": "私は、プレイヤーが偶然にパズルを解きすぎてしまう可能性を最小限にするために、惑星のスタート配置を選んだ。特にビッグ・ワンは、液体を吸い上げることができる惑星から遠く離れた場所に配置されている。",
+    "We wanted players to discover interactions through experimentation but we also wanted the actions that led to such discoveries to be a conscious choice rather than an accident.": "私たちは、プレイヤーが実験を通して相互作用を発見することを望んだが、そのような発見につながる行動は偶然ではなく、意識的な選択であることも望んだ。",
+    "Additionally, the radius at which planets repel each other was selected to be just large enough that Glacial Abyss! could not clip into the tower on The Big One if they are placed as close as possible to each other while still being small enough to allow such physics interactions to happen.": "さらに、惑星同士が反発し合う半径は、そのような物理的な相互作用が起こるのに十分な大きさでありながら、互いにできるだけ近くに配置した場合、氷河の深淵！がビッグ・ワンのタワーに食い込まない程度の大きさに選ばれた。",
+    
+    //OrreryMoveShip
+    "Orrery Ship Movement": "オーラリー船の動き",
+    "Author: JohnCorby --- Subject: Orrery Ship Movement": "著者JohnCorby --- 件名：オーレリー号の動き",
+    "The addition of the warp pads made it necessary to ensure the player's ship would remain intact if the planet it was resting on was moved. Otherwise, the ship would be catapulted into deep space if the player ever tried to move the planet it was resting on.": "ワープパッドが追加されたことで、プレイヤーの船が止まっている惑星を動かしても無傷でいられるようにする必要が生じた。そうでなければ、もしプレーヤーが惑星を動かそうとすれば、船は深宇宙に飛び出してしまうからだ。",
+    "To do this, I steal a technique QSB uses. It simply records the location of the ship relative to the planet, then moves the planet, then moves the ship so it's in the same relative location.": "そのために、QSBが使っているテクニックを盗んでいる。単純に惑星と船の相対的な位置を記録し、それから惑星を動かし、同じ相対的な位置になるように船を動かす。",
+    "Choosing which planet to use took some work. At first I just used whichever sector the ship was in, but that meant a planet could \"steal\" the ship if moved close enough to another one.": "どの惑星を使うかの選択には少し苦労した。最初は船がいるセクターのどれかを使っていたんだけど、それだと他のセクターに近づいたときに惑星が船を \"盗んで \"しまう可能性があるんだ。",
+    "To fix this, when a ship touches a body, I store that contact, and then use the last contacted body to determine which ship should move.": "これを解決するために、船がボディに触れると、その接触を保存し、最後に接触したボディを使って、どの船が動くべきかを決めるようにしている。",
+    "Doing both checks is necessary, because if I only did the contact check, you could move your ship far away and it would still be moved by the last-touched planet.": "接触チェックだけだと、船を遠くに移動させても、最後に接触した惑星によって移動させられてしまうからだ。",
+    
+    //OrreryOrbs
+    "Orrery Orbs": "オーレリー・オーブ",
+    "Author: JohnCorby --- Subject: Orrery Orbs": "著者JohnCorby --- 件名：Orrery Orbs",
+    "Orrery orbs/planet syncing was the largest mechanic I worked on. While walker did the initial design, I helped make it work smoothly": "オーレリーのオーブ／惑星同期は、私が手掛けた最大のメカニズムだった。最初のデザインはウォーカーが行ったが、私はそれをスムーズに機能させる手助けをした。",
+    "The main technique is relative location math. We take the location of the orbs relative to the center, and apply that relative location to the planets (at a bigger scale, of course).": "主な手法は相対位置計算だ。中心からの相対的なオーブの位置を取り、その相対的な位置を惑星に適用する（もちろん、より大きなスケールで）。",
+    "Initially, we just synced velocity, but that led to position desyncing, so we switched to position. However, THAT led to planets randomly flinging players off of them.": "当初はベロシティを同期させるだけだったが、それだとポジションが同期しなくなるので、ポジションに切り替えた。しかし、その結果、惑星がランダムにプレーヤーを弾き飛ばすことになった。",
+    "We ended up only syncing planets when you were actually at the orrery, so you couldn't be on the planet while it was in \"fling mode\". The planets also align themselves to always face the sun for puzzle reasons.": "結局、惑星を同期させるのは実際にオーレリーにいるときだけになったので、惑星が \"フライング・モード \"の間は惑星にいることはできなかった。また、パズルの都合上、惑星は常に太陽を向くように配置されている。",
+    "Additionally, orbs would keep moving even after you selected them because there was no slot for them to stick to. I wrote some code to store the last position they were in before releasing and have them move towards that if you aren't moving them.": "さらに、オーブは選択した後も動き続けていた。そこで、オーブがリリースされる前に最後にいた位置を保存し、動かしていないときはその位置に向かって動くようにするコードを書いた。",
+    "This prevented orbs from moving each other, but still gave them a little give if you tried pushing them, which felt good. There was also some code to prevent them from getting too close to each other.": "これによってオーブ同士が動くのを防いだが、それでも押してみると少しゆとりが出て、気持ちよかった。また、オーブ同士が近づきすぎないようにするためのコードもあった。",
+    "Finally, after playtesting, I added the orb release button and prompt, having it in the center of the screen initially to catch the player's attention.": "最終的に、プレイテストの後、オーブ解放ボタンとプロンプトを追加し、最初はプレイヤーの注意を引くために画面中央に配置した。",
+    
+    //OrreryScrollReadingOrder
+    "Reading Order": "読む順番",
+    "Author: Walker --- Subject: Reading Order": "著者ウォーカー --- 件名読む順番",
+    "This scroll is here instead of a simple piece of Nomai wall text to make players more likely to read the recorder first.": "この巻物は、プレイヤーが最初にリコーダーを読む可能性を高めるために、単なるノマイの壁文字の代わりにここにある。",
+    "The more pertinent information is contained on the recorder and it also sets up the contents of the scroll.": "より適切な情報はレコーダーに記録され、巻物の内容も設定される。",
+    "However, in playtesting, I found that players would almost always gravitate towards the wall text first. Replacing the wall text with a scroll effectively solved this minor issue.": "しかし、プレイテストの結果、プレイヤーはほとんどの場合、まず壁のテキストに引き寄せられることがわかりました。壁文字をスクロールに置き換えることで、この些細な問題は効果的に解決しました。",
+    
+    //OrreryStationPlacement
+    "Station Placement": "ステーション配置",
+    "Author: Walker --- Subject: Station Placement": "著者ウォーカー --- テーマステーション配置",
+    "When first flying to this solar system, this space station is dark and located behind the sun. It also has a relatively short lock-on range.": "この太陽系に初めて飛来したとき、この宇宙ステーションは暗く、太陽の裏側に位置していた。また、ロックオン範囲も比較的短い。",
+    "These were intentional choices to ensure players would start the mod by exploring one of the planets. We felt the reveal of the orrery mechanic would be stronger if players first experienced the planets as actual planets rather than immediately conceptualizing them as tiny models they can move at will.": "これらは、プレイヤーが惑星の一つを探索することからMODを始めるようにするための意図的な選択でした。私たちは、プレイヤーが惑星をすぐに自分の意志で動かせる小さなモデルとして概念化するよりも、まず実際の惑星として体験したほうが、オルレリーのメカニックをより強く明らかにできると考えました。",
+    "This is why the entire solar system is rotated 90° from the plane of the ecliptic. This also has the additional benefit of creating a really interesting view from the Central Station.": "このため、太陽系全体が黄道面から90度回転している。これには、中央駅から実に興味深い景色を眺めることができるという利点もある。",
+    "After visiting this station for the first time each loop, the lights remain on. This makes it easier to revisit and allows it to serve as a landmark for the rest of the loop.": "各ループで初めてこの駅を訪れた後も、照明は点灯したままだ。こうすることで再訪しやすくなり、ループの残りの部分の目印にもなる。",
+    
+    //OrreryWarpTransmitters
+    "Orrery Warp Pads": "ワープパッド",
+    "Author: Walker --- Subject: Orrery Warp Pads": "著者ウォーカー --- 件名ワープパッド",
+    "The idea of having warp pads connected to the orrery station was a later addition to the design. After we cut the idea of having an orrery on each planet and placed this station behind the sun, I realized it was going to be very inconvenient for players to have to fly back and forth to this space station every time they wanted to use the mod's main mechanic.": "ワープ・パッドをオーレリー・ステーションに接続するというアイデアは、後からデザインに加えたものだ。各惑星にオーレリーを設置するというアイデアをやめ、このステーションを太陽の後ろに配置した後、私は、プレイヤーがこの改造の主要なメカニズムを使いたいときに、毎回この宇宙ステーションまで飛行機で往復しなければならないのは非常に不便だと気づいた。",
+    "I conceived of the warp pads as a way to mitigate this problem by allowing players to land on the planet they're solving a puzzle on, warp to the orrery, solve the puzzle, and immediately warp back to the planet they were exploring. It was only after they were implemented that I thought of the idea of using the warp pads as an element of the final puzzle.": "ワープパッドは、プレイヤーがパズルを解いている惑星に着陸し、オーレリーにワープしてパズルを解き、すぐに探検していた惑星にワープして戻れるようにすることで、この問題を軽減する方法として考えました。最終的なパズルの要素としてワープパッドを使うというアイデアを思いついたのは、ワープパッドが実装された後だった。",
+    "The warp pads make use of an unused base-game mechanic that allows multiple warp transmitters to all link to the same receiver with the return warp always returning players to the transmitter they came from.": "ワープパッドは、複数のワープ送信機がすべて同じ受信機にリンクし、ワープを戻ると必ず元の送信機に戻るという、基本ゲームでは使われていないメカニズムを利用している。",
+    "Jamie also created a specific structure shared by all of the orrery warp transmitters so players can tell at a glance that they lead to the orrery.": "ジェイミーはまた、すべてのオーレリーのワープ発信機に共通する特定の構造を作り、プレイヤーが一目でオーレリーにつながっているとわかるようにした。",
+    
+    //OuterWildsDesign
+    "Outer Wilds Mod Design": "アウター・ワイルズMODデザイン",
+    "Author: Walker --- Subject: Outer Wilds Mod Design": "著者ウォーカー --- 件名アウター・ワイルズMODデザイン",
+    "Outer Wilds is not a game you would expect to have a thriving modding community. But it has one nonetheless. Certainly in no small part due to the excellent modding tools developed by other members of the community.": "アウター・ワイルズ』は、盛んな改造コミュニティがあるとは期待できないゲームだ。しかし、それにもかかわらずコミュニティがある。確かに、コミュニティの他のメンバーによって開発された優れた改造ツールによるところも少なくない。",
+    "Every time I think I'm done modding this game, I get pulled right back in for the next jam. It's a fantastic community and I'm proud to be a part of it!": "このゲームの改造が終わったと思うたびに、次のジャムのためにまた引き戻されるんだ。素晴らしいコミュニティだし、その一員であることを誇りに思うよ！",
+    "This is a fascinating game to design for but I think the thing that strikes me most about it is that it is inherently a bit of a gamble.": "このゲームのデザインは魅力的だが、私が最も印象に残っているのは、本質的にギャンブル性が高いということだ。",
+    "Since every puzzle can be completed from the start, there's always a chance that players stumble into things before they're supposed to or discover things in an awkward order.": "すべてのパズルは最初から完成させることができるため、プレイヤーが想定していたものよりも先につまずいたり、厄介な順番で発見したりする可能性は常にある。",
+    "Much of the design of any Outer Wilds mod is attempting to maximize the chance that the player will experience things in an enjoyable way without infringing on their freedom to explore.": "Outer WildsのMODの設計の大部分は、プレイヤーの探検の自由を侵害することなく、楽しい方法で物事を経験する機会を最大化しようとするものである。",
+    "Hopefully we did a good job and you enjoyed your experience playing Heliostudy!": "私たちが良い仕事をし、あなたがヘリオスタディでのプレーを楽しんでくれたことを願っている！",
+    
+    //PhysicsInteractions
+    "Physics Interactions": "物理学的相互作用",
+    "Author: Walker --- Subject: Physics Interactions": "著者ウォーカー --- 件名物理学相互作用",
+    "I believe one of the greatest (and funniest) strengths of this mod is how well it lends itself to interesting systemic physics interactions with the player and their ship.": "このMODの最大の（そして最も面白い）長所のひとつは、プレーヤーとその船との興味深いシステム物理学的相互作用にいかに適しているかということだと思う。",
+    "Nearly every playtester has placed The Big One too close to a planet they were trying to explore and been dragged to their death by its gravitational pull.": "プレイテスターのほぼ全員が、探検しようとしていた惑星にビッグ・ワンを近づけすぎて、その引力に引きずられて死んだ経験がある。",
+    
+    //Portraits
+    "Portraits": "ポートレート",
+    "Author: Jamie --- Subject: Portraits": "著者ジェイミー --- テーマポートレート",
+    "I remember thinking it would be fun to draw portraits of each of the four Nomai students and display them in the final room as a fun visual reward for players.": "野舞の4人の生徒の似顔絵を描いて、最後の部屋に飾ったら楽しいだろうと思ったのを覚えている。",
+    "When I thought about it potentially being a fun representation of our four-person jam team, I suddenly had an idea: What if each team member drew one of the Nomai?": "4人のジャム・チームを楽しく表現できるかもしれないと考えたとき、ふと思いついた：各メンバーが野舞を一人ずつ描いたらどうだろう？",
+    "We had grown somewhat attached to the characters at this point, and I honestly think the fact that none of the other team members were visual artists made this so much more entertaining.": "この時点でキャラクターへの愛着はある程度深まっていたし、他のチームメンバーにビジュアル・アーティストがいなかったことが、この作品をより面白いものにしていたと思う。",
+    "Will drew Daucus in Microsoft Paint.": "ウィルはマイクロソフト・ペイントでドーカスを描いた。",
+    
+    //QuantumPuzzle
+    "Quantum Puzzle": "量子パズル",
+    "Author: Walker --- Subject: Quantum Puzzle": "著者ウォーカー --- テーマ量子パズル",
+    "The quantum rock located in this structure was originally located on Glacial Abyss! and was how players could reach the core before the geysers were added.": "この構造物にある量子岩は、もともと「氷河の深淵！」にあったもので、間欠泉が追加される前は、プレイヤーがコアに到達するための方法だった。",
+    "In the original version of the puzzle, the quantum rock was placed on the seabed of Glacial Abyss! and players would have to use the ice to block the sun, allowing for quantum entanglement.": "パズルのオリジナル版では、量子石は氷河期のアビスの海底に置かれ、プレイヤーは氷を使って太陽を遮り、量子もつれを可能にしなければならなかった。",
+    "However, this version of the puzzle wasn't very intuitive. Even worse, the much more intuitive solution of eclipsing the sun with another planet arbitrarily didn't work!": "しかし、このバージョンのパズルはあまり直感的ではなかった。さらに悪いことに、もっと直感的な解決法である、太陽を別の惑星で任意に食いつぶすという方法はうまくいかなかった！",
+    "Playtesters would consistently think of the eclipse solution first and then get hung up on trying to figure out why it didn't work.": "プレイテスターは一貫して、まずeclipseの解決策を考え、それがなぜうまくいかなかったかを解明することに頭を悩ませる。",
+    "Ultimately I proposed moving the quantum rock to this structure and adding the geysers as a replacement method of reaching the core. You can find more information about the geysers near the warp receiver on Glacial Abyss!.": "最終的に私は、量子岩をこの構造物に移し、コアに到達するための代替手段として間欠泉を追加することを提案した。ワープ・レシーバー付近の間欠泉についての詳細は、Glacial Abyss!",
+    "It took some work to convince the rest of the team to rework the puzzle that late into the jam but I think it was definitely the right move. Cleric and Jamie did most of the work implementing the updated version of this puzzle.": "ジャムの後半にパズルを手直しするよう、他のチームを説得するのは大変だったけど、間違いなく正しい行動だったと思う。クレリックとジェイミーは、このパズルのアップデート版を実装する作業のほとんどを行った。",
+    
+    //RenderingIssues
+    "Rendering": "レンダリング",
+    "Author: JohnCorby --- Subject: Rendering": "著者JohnCorby --- 件名：レンダリング",
+    "Planet Shadows": "プラネット・シャドウズ",
+    "Rendering Issues": "レンダリングの問題",
+    "The most interesting visual effect is the eclipse shadows that render from the orrery. They were something I made on a whim in about a day and a half, but ended up being a crucial visual indicator for multiple puzzles.": "最も興味深い視覚効果は、オーレリーからレンダリングされる日食の影だ。1日半ほどで思いつきで作ったものだが、複数のパズルで重要な視覚的指標となった。",
+    "Simply increasing the shadow distance would've looked pretty bad because the sun light is directional and faces the player.": "太陽の光は指向性があり、プレーヤーを向いているので、単に影の距離を長くするだけではかなり見栄えが悪かっただろう。",
+    "Instead, I render a decal using a shader from one of Ronja's tutorials. However, this isn't just an ordinary decal. If it was, the shadow would be completely black and block all forms of light.": "その代わりに、Ronjaのチュートリアルのシェーダーを使ってデカールをレンダリングする。しかし、これはただのデカールではない。もしそうなら、影は真っ黒になり、あらゆる光を遮ってしまうでしょう。",
+    "In order to have it behave like any other shadow, I hook into the render pipeline and have the decals draw into the screenspace shadow mask, which sun lights use to know what is in shadow or not, from the perspective of the camera.": "他の影と同じように動作させるために、レンダー・パイプラインにフックして、デカールをスクリーン空間のシャドウ・マスクに描画させる。",
+    "This initially didn't work if you were far enough away for shadows to draw. To fix this, I slap a zero-scaled quad in front of every camera so shadows always try to render. This didn't seem to harm performance at all, but it is quite funny.": "これは当初、影が描画されるのに十分な距離がある場合は機能しなかった。これを解決するために、すべてのカメラの前にゼロスケールのクアッドを置いて、影が常にレンダリングしようとするようにした。これはパフォーマンスにはまったく影響しないようだが、かなり面白い。",
+    "We ran into a few rendering issues when making our mod.": "私たちのMODを作ったとき、いくつかのレンダリングの問題にぶつかりました。",
+    "The first was that the central station initially used the refractive glass shader, which didn't render transparent objects like water. That affected multiple jam mods, so it was fixed by xen.": "1つ目は、中央駅が当初は屈折ガラスシェーダーを使用していて、水のような透明なオブジェクトをレンダリングしていなかったことだ。これは複数のジャムMODに影響したので、xenによって修正された。",
+    "Next, while objects behind the sun don't cast proxy (long) shadows, they do cast regular shadows. Both Heliostudy and base game solve this by only rendering proxy shadows for things on the other side of the sun.": "次に、太陽の後ろにあるオブジェクトは代理の（長い）影は落としませんが、通常の影は落とします。Heliostudyもベースゲームも、太陽の反対側にあるものの代理影だけをレンダリングすることで、これを解決しています。",
+    "Sand still has this problem, but as far as I saw this is literally impossible to fix, as you can't turn off shadow casting for sand. Base game has this issue too.": "砂にはまだこの問題があるが、私が見た限りでは、砂のシャドーキャスティングをオフにすることはできないので、これを修正するのは文字通り不可能だ。ベースゲームにもこの問題がある。",
+    "Finally, there's some weird issue where, when underwater, ocean fog from other planets shows up as a weird ring. I thought this was a stencil issue, but I checked in RenderDoc and everything looked normal.": "最後に、水中では、他の惑星からの海の霧が奇妙なリングとして表示されるという奇妙な問題があります。これはステンシルの問題だと思ったのですが、RenderDocで確認したところ、すべて正常に見えました。",
+    "This was fixed by just turning off that rendering for other planets when you're underwater.": "これは、水中にいるときに他の惑星のレンダリングをオフにするだけで解決した。",
+    
+    //RuinsMusic
+    "Ruins Music": "廃墟 音楽",
+    "Author: JohnCorby --- Subject: Ruins Music": "著者JohnCorby --- 件名：廃墟 音楽",
+    "Around a year ago, I accidentally found the piano library that Andrew Prahlow used for the base game Nomai ruins music (Una Corda).": "1年ほど前、アンドリュー・プラローがベースゲーム「ノマイ」の廃墟の音楽（Una Corda）に使っていたピアノライブラリを偶然見つけた。",
+    "The ruins music takes the base game drone and a layer that Jamie made, and slaps the Heliostudy motif and a bunch of other filler piano on it.": "廃墟の音楽は、ベースゲームのドローンとジェイミーが作ったレイヤーを使い、ヘリオスタディのモチーフと他のフィラーピアノをたくさんかぶせたものだ。",
+    "It's supposed to evoke the same mysterious feeling of base game Nomai ruins, but without as much spookiness.": "ベースとなった『野舞遺跡』と同じミステリアスな感覚を呼び起こすはずだが、不気味さはそれほどない。",
+    
+    //SandHint
+    "Buried Structure Texts": "埋もれた構造のテキスト",
+    "Author: coderCleric --- Subject: Buried Structure Texts": "著者：コーダー・クレリック --- 件名埋もれた構造のテキスト",
+    "The texts in this structure are pretty informative for Betula's character, showing how she wants her friends to be happy and is a bit upset about having inconvenienced them.": "この構成の文章は、ベチュラの性格を知る上でかなり参考になる。彼女が友人たちの幸せを願い、迷惑をかけたことに少し動揺している様子がわかる。",
+    "In the buried scroll in particular, she apologizes to Adonsonia again despite not being explicitly blamed for anything. This is especially notable given how Adonsonia seems to take the whole event on the chin.": "特に埋められた巻物の中で、彼女はアドンソニアに再び謝罪している。これは、アドンソニアがすべての出来事を顎で受け止めているように見えることを考えると、特に注目に値する。",
+    "Overall this was one of the more fun texts to write, especially with Alnus getting to do a little gloating.": "特にアルナスが少しほくそ笑むことができた。",
+    
+    //ScoutPatch
+    "Scout Photo Patch": "スカウト・フォト・パッチ",
+    "Author: coderCleric --- Subject: Scout Photo Patch": "著者: coderCleric --- 件名：スカウト・フォト・パッチ",
+    "One optimization that we did is the fact that the door only occasionally checks the final requirements, rather than doing it every frame. Specifically, it checks the requirements whenever the player enters the area.": "私たちが行った最適化の1つは、ドアが最終的な要件をチェックするのを毎フレーム行うのではなく、時々しか行わないという点です。具体的には、プレイヤーがそのエリアに入るたびに要件をチェックします。",
+    "This seemed to work fine since the player could only change what requirements are fulfilled from the orrery station, but it turned out to be a problem during playtesting. One player used their scout to monitor the door as they made changes to the system, but noticed that the lights never changed.": "プレイヤーはオルレリーステーションからしか条件を変更できないので、これはうまく機能しているように見えたが、プレイテスト中に問題があることが判明した。あるプレイヤーはスカウトを使ってドアを監視しながらシステムに変更を加えたが、ライトが変化しないことに気づいた。",
+    "Fortunately, this was a simple matter of patching the scout to also update the door whenever it takes a picture. It was a valuable lesson in the importance of playtesting, since this small detail that we didn't think about could definitely cause players a lot of confusion!": "幸い、これはスカウトが写真を撮るたびにドアも更新するようにパッチを当てるだけの簡単な問題だった。私たちが考えもしなかったこの些細なことがプレイヤーを混乱させることは間違いないので、プレイテストの重要性を知る貴重な教訓となった！",
+    
+    //SealedHint
+    "Sealed Receiver Hint": "封印されたレシーバーのヒント",
+    "Author: coderCleric --- Subject: Sealed Receiver Hint": "著者: coderCleric --- 件名：封印された受信機のヒント",
+    "This is actually one of the earliest texts that I conceptualized, and I feel that it demonstrates the personalities of each character pretty well (except for Daucus, who isn't here).": "実は、これは私が構想を練った最も初期のテキストのひとつで、各キャラクターの個性がよく表れていると感じている（ここにはいないドーカス以外）。",
+    "It shows Alnus being antsy about things going wrong, Adonsonia being a bit of a prankster, and Betula trying to keep the peace. It was a lot of fun to write, and actually informed a lot of how I wrote the characters going forward.": "アルヌスは物事がうまくいかないとイライラし、アドンソニアはちょっとイタズラ好きで、ベチュラは平和を守ろうとする。書いていてとても楽しかったし、実際、この先の登場人物の書き方の多くを教えてくれた。",
+    "(Fun fact: Adonsonia is the way that she is mostly because of the candy wrapper joke. I really liked the idea when I came up with it, and wrote her personality largely to justify it.)": "(面白い事実：アドンソニアがあのような性格になったのは、ほとんどキャンディの包み紙というジョークのせいだ。このアイデアを思いついたとき、本当に気に入っていて、それを正当化するために彼女の性格を書いたんだ)",
+    
+    //SpaceMusic
+    "Heliostudy Space Music": "ヘリオスタディ・スペース・ミュージック",
+    "Author: JohnCorby --- Subject: Heliostudy Space Music": "著者JohnCorby --- 件名：ヘリオスタディ・スペース・ミュージック",
+    "When Jamie made the Jam 5 space music, it inspired me to make this one just for Heliostudy that complements it. It's in the same key and uses a few pieces from the original song.": "ジェイミーがJam 5の宇宙音楽を作ったとき、それに触発されて、それを補完するHeliostudyのための音楽も作ったんだ。同じキーで、原曲の一部を使用している。",
+    "I was trying to go for an educational/classroom vibe. I stumbled upon a mallet instrument library called Mallet Flux that worked perfectly for this, so I smattered presets everywhere in the song.": "教育的／教室的な雰囲気を出そうとしたんだ。偶然見つけたMallet Fluxというマレット楽器のライブラリーがこれにぴったりだったので、曲のあちこちにプリセットを散りばめた。",
+    "I also introduce the short motif of Heliostudy, which I stole from an unpublished song I made a year ago.": "また、1年前に作った未発表曲から盗んだヘリオスタディの短いモチーフも紹介する。",
+    "I did the programming to make this song fade in when you're within 2500 meters of our system, to abide by the jam rules.": "ジャム・ルールを守るために、この曲は我々のシステムから2500メートル以内にいるときにフェードインするようにプログラミングしたんだ。",
+    
+    //SpiralWires
+    "Spiral Wires": "スパイラルワイヤー",
+    "Author: Jamie --- Subject: Spiral Wires": "著者ジェイミー --- テーマスパイラルワイヤー",
+    "I don't have a lot to say here except for that these little spiraly wires are one of my favorite assets I've made for this mod.": "この小さな螺旋状のワイヤーは、この改造のために作った資産の中で最も気に入っているものだということ以外、ここで言うことはない。",
+    "The original model wasn't very interesting looking and had some weird UVs, so I decided to go all out when I remade the model.": "元のモデルは見た目があまり面白くなかったし、変なUVもあったので、モデルを作り直すときに思い切りやることにしたんだ。",
+    "Fun fact: On the new one, the glow effect on each one actually reaches the center at a slightly offset time relative to the others. (And when they reach the connector bits near the middle, the whole inside of the connector glows blue, achieved with some quirky UV mapping...)": "面白い事実：新しいものでは、それぞれのグローエフェクトが、他のものに対して少しずれたタイミングで中央に到達する。(そして、中央付近のコネクタービットに到達すると、コネクター内部全体が青く光ります。）",
+    "I ended up staring at these wires a lot more than I needed to.": "結局、必要以上にこのワイヤーを見つめてしまった。",
+    
+    //StairLods
+    "Stair LODs": "階段のLOD",
+    "Author: Jamie --- Subject: Stair LODs": "著者ジェイミー --- テーマ階段のLOD",
+    "Walker placed so many stairs on some of the Nomai structures.": "ウォーカーは野舞の建造物のいくつかに多くの階段を設置した。",
+    "It drove me a little bit crazy to think about these high-poly multi-material chipped stair prefabs being rendered no matter where you were in this Jam's system...": "このジャムのシステムのどこにいても、ハイポリ・マルチマテリアルの欠けた階段プレハブがレンダリングされると思うと、ちょっと気が狂いそうになったよ...。",
+    "... and when I went in and sectored our structures, I knew we couldn't just have the stairs fade out when you left it! They were made integral to each structure's silhouette!": "......そして、構造物をセクタリングしていったとき、そこを離れるときに階段がフェードアウトしてしまうわけにはいかないと思ったんだ！階段は各構造物のシルエットと一体化させた！",
+    "So I made a custom stair LOD model, complete with normals on the top to replicate the stair's bumps on its extremely low-detail surface, and a script to generate all these prefabs.": "そこで、私はカスタムの階段LODモデルを作り、その極端にディテールの低いサーフェス上の階段の段差を再現するために上部に法線を設定し、これらのプレハブをすべて生成するスクリプトを作成しました。",
+    "I could have expanded that script to work with a whole lot more props, but I really didn't have the time to create all those custom models.": "このスクリプトを拡張して、もっとたくさんの小道具を使えるようにすることもできたんだけど、カスタムモデルを作る時間がなかったんだ。",
+    "I know it probably doesn't give our mod a giant performance boost considering all the other similarly detailed prefabs that don't get culled...": "淘汰されない他の似たような詳細なプレハブを考えると、おそらく我々のMODに大きなパフォーマンスブーストを与えないことはわかっている......。",
+    "But I feel happy seeing a hundred high-poly stairs seamlessly transition to nearly-identital-at-a-distance low-poly stairs, and maybe that's all that really matters in mod development.": "でも、100段のハイポリの階段が、ほぼ同じ距離のローポリの階段にシームレスに移行していくのを見ると、幸せな気分になる。",
+    
+    //StructurePlacement
+    "Structure Placement": "構造配置",
+    "Author: Walker --- Subject: Structure Placement": "著者ウォーカー --- テーマ構造配置",
+    "Every structure on the surface of every planet in the mod is placed in one of four locations: the north pole, the south pole, facing the sun, or facing away from the sun. We chose these locations to make it as easy as possible for players to find everything.": "MODに登場するすべての惑星の地表にある建造物は、北極、南極、太陽に面しているか、太陽に背を向けているかの4つの位置のいずれかに配置される。私たちは、プレイヤーができるだけ簡単にすべてを見つけられるように、これらの場所を選びました。",
+    "Generally the orrery warp transmitter is placed on the north pole and any structures without any location restrictions are placed on the south pole.": "一般的に、オーレリー・ワープ・トランスミッターは北極に置かれ、場所の制限のない建造物は南極に置かれる。",
+    "A few structures in the mod had to be placed facing the sun for a puzzle to work and the warp transmitter on this planet was placed facing away to make it easier to align it with other planets. This is the only planet with a structure in all four locations.": "このMODのいくつかの構造物は、パズルが機能するために太陽の方を向いて配置されなければならず、この惑星のワープ送信機は、他の惑星との位置合わせを容易にするために背を向けて配置された。この惑星は、4つすべての場所に構造物がある唯一の惑星である。",
+    "We also made sure to concentrate detail around points of interest, leaving the spaces between them mostly empty.": "また、ディテールを注目点の周辺に集中させ、その間をほとんど空けるようにした。",
+    
+    //StudentIntro
+    "Student Introductions": "生徒紹介",
+    "Author: coderCleric --- Subject: Student Introductions": "著者: coderCleric --- 件名：生徒紹介",
+    "This is arguably one the most important texts in the mod when it comes to the students. When playing, this is likely to be the first comprehensive look that a player gets at the four, as well as how they interact with each other.": "これは間違いなく、MODの中で学生に関して最も重要なテキストの1つである。プレーするとき、プレーヤーはこの4人について、また彼らが互いにどのように影響しあうかについて、最初に包括的に知ることになるだろう。",
+    "Due to this, it was very important for this text to establish all of the character's core traits: Alnus being anxious, Betula being optimistic, Adonsonia being unworried, and Daucus immediately being tired.": "そのため、この文章では、登場人物の核となる特徴をすべて確立することが非常に重要だった：アルヌスは心配性、ベチュラは楽観的、アドンソニアは心配性でない、そしてドーカスはすぐに疲れてしまう。",
+    "I personally feel that this text does well in this regard. It lasts just long enough to give a glance at each character, without going on so long that the player loses attention.": "個人的には、このテキストはこの点でよくできていると思う。各キャラクターを一目見るのに十分な長さで、プレイヤーが注意を失うほど長くは続かない。",
+    
+    //Students
+    "Students": "学生",
+    "Author: coderCleric --- Subject: Students": "著者：CoderCleric ---件名：学生",
+    "Alnus was the first Nomai student to be conceptualized for the mod. The idea behind him was simple; he was the anxious student who took the project way too seriously.": "アルナスは、野舞の生徒の中で最初にこの改造のために考案された。彼の背後にあるアイデアは単純で、彼はプロジェクトに真剣に取り組みすぎた不安な学生だった。",
+    "His text was generally written to convey this fact. He constantly reminds the others that they have work to do, and is quick to react when something is amiss.": "彼の文章はおおむねこの事実を伝えるために書かれたものだ。彼は常に他の選手たちに、自分たちにはやるべき仕事があることを思い出させ、何か問題があればすぐに反応する。",
+    "The concept behind Betula was to have her be the social and upbeat one. Many of her texts involve her reassuring someone, and she generally is the most upbeat.": "ベチュラのコンセプトは、彼女を社交的で明るい存在にすることだった。彼女の文章には誰かを安心させるような内容が多く、一般的に彼女が一番明るい。",
+    "She's the second most dedicated to making sure that the project goes well, but is more realistic about it (as opposed to Alnus' anxiety).": "彼女はプロジェクトを成功させることに2番目に熱心だが、（アルナスの不安とは対照的に）より現実的だ。",
+    "Adonsonia was fairly fun to write, as she was a bit of a troublemaker. She was also written to care about making sure the project succeeded, more for her friend's sake than her own grade.": "アドンソニアはちょっとトラブルメーカーで、書いていて楽しかった。彼女はまた、自分の成績よりも友人のために、プロジェクトが成功するように気遣うように書かれていた。",
+    "Making her the teacher at the end was done to give her some interesting character growth, and I think that she makes for quite an interesting personality.": "最後に彼女を教師にしたのは、彼女に興味深いキャラクターの成長を与えるためだった。",
+    "The original concept behind Daucus was that he would be the group leech. He would only do the work that he absolutely had to, and would largely ignore the wishes of the group.": "ドーカスの当初のコンセプトは、彼はグループのヒルになるというものだった。彼は絶対にしなければならない仕事しかせず、グループの意向はほとんど無視する。",
+    "I ended up really disliking this version of him while writing though, so he was changed to how he is now. His texts show how he's always looking for the simplest possible solution, with him primarily showing approval for ideas when they are easy.": "でも、書いているうちに、このバージョンの彼が本当に嫌いになってしまったので、今の彼に変えたんだ。彼の文章を読むと、常に可能な限りシンプルな解決策を探していることがわかる。",
+    
+    //TidalLocking
+    "Tidal Locking": "潮汐ロック",
+    "Author: coderCleric --- Subject: Tidal Locking": "著者：CoderCleric --- 件名：潮汐ロック潮汐ロック",
+    "Although it doesn't look like much, tidally locking each planet to the sun had a bit of a development process behind it.": "一見大したことのないように見えるが、各惑星を太陽にタイダルロックさせるには、ちょっとした開発過程があった。",
+    "The mod used to create planets and such (New Horizons) has a tidal locking feature that can be set on the planet. At first we just used this, and it seemed to work fine.": "惑星などを作成するのに使うMOD（New Horizons）には、惑星に設定できる潮汐ロック機能がある。最初はこれを使っただけで、うまくいったようだ。",
+    "Unfortunately, this solution fell apart once we decided to rotate the whole system to be perpendicular to the main orbital plane. The sides of the planets meant to be facing the sun were no longer facing the right way.": "残念なことに、この解決策は、主軌道面に対して垂直になるように系全体を回転させることを決めた途端に崩れてしまった。太陽を向いているはずの惑星の側面は、もはや正しい方向を向いていなかったのだ。",
+    "We were initially able to solve this by rotating the planets manually, in addition to the rotation being handled by New Horizons. This caused them to once again face the correct direction, until we tried playing the mod with another jam mod installed.": "私たちは当初、New Horizonsが処理する回転に加えて、手動で惑星を回転させることでこれを解決することができました。別のジャムMODをインストールした状態でこのMODをプレイしてみるまでは、これで惑星は再び正しい方向を向くようになった。",
+    "Installing another jam mod forced our system to rotate around the hub vessel, and we quickly realized that our tidal locking implementation was quite brittle. With the whole system being rotated to face away from the hub vessel, the planets were once again rotated by seemingly random angles.": "別のジャムMODをインストールすると、システムがハブ船を中心に回転せざるを得なくなり、潮汐ロックの実装がかなりもろいことがすぐにわかった。システム全体がハブ船から遠ざかるように回転させられたため、惑星は再び、一見ランダムな角度で回転させられた。",
+    "We eventually got rid of the New Horizons tidal locking and handled it fully ourselves. This was fairly simple, but a bit tedious since we needed to change what axes of the planets were pointing in what directions.": "私たちは最終的にニュー・ホライズンズの潮汐ロッキングを取り除き、完全に自分たちで処理した。これはかなり簡単だったが、惑星のどの軸がどの方向を向いているかを変更する必要があったため、少し面倒だった。",
+    
+    //TransmitterHint
+    "Hacked Transmitter Hint": "ハッキングされた送信機のヒント",
+    "Author: coderCleric --- Subject: Hacked Transmitter Hint": "著者: coderCleric --- 件名：ハックされた送信機のヒント",
+    "This text was one of the really important ones for establishing some of the more hidden traits of Adonsonia and Daucus.": "この文章は、アドンソニアとドーカスの隠れた特徴を確立する上で、本当に重要なもののひとつである。",
+    "Adonsonia's distress at causing real harm to the project demonstrates that she does actually care and isn't truly malicious. This is fairly important to her character, since otherwise it would be easy to say that she wants to actually cause harm.": "アドンソニアがプロジェクトに実害を与えて苦悩していることは、彼女が実際に気にかけており、本当に悪意があるわけではないことを示している。そうでなければ、彼女が実際に危害を加えたいと思っていると簡単に言えるからだ。",
+    "For Daucus, this is one of the rare situations where he really steps up and gets something done, showing that he at least cares when the rest of the group is in distress.": "ドーカスにとって、これは彼が本当にステップアップして何かを成し遂げ、グループの他のメンバーが苦境に立たされているときに少なくとも気にかけていることを示す数少ない状況のひとつだ。",
+    "His solution is even still a bit lazy, with him only using what's already on the planet. On top of that, he doesn't run the idea by anyone first since that would take more effort than just hacking the transmitter to start with.": "彼の解決策は、すでに地球上にあるものを使うだけという、いささか怠惰なものでさえある。その上、送信機をハッキングするよりも手間がかかるため、彼はまずそのアイデアを誰にも聞いていない。",
+    "It also has the bonus of setting up Daucus' technological prowess, which comes up later when the player learns what became of him.": "また、ドーカスの技術力を設定するおまけもあり、これは後にプレイヤーがドーカスの消息を知るときに出てくる。",
+    
+    //UnityTooling
+    "Unity Editor Tooling": "Unityエディターツール",
+    "Author: JohnCorby --- Subject: Unity Editor Tooling": "著者JohnCorby --- 件名：Unityエディタツール",
+    "Most story mods are developed with New Horizons, a mod that lets you create and edit planets (and a million other things) using JSON files.": "ほとんどのストーリーMODは、JSONファイルを使って惑星を作成・編集できるMOD「New Horizons」を使って開発されている。",
+    "However, recently, more mods use the Unity editor to author content. This required robustly made (and robustly documented) tools.": "しかし最近では、Unityエディタを使用してコンテンツを作成するMODが増えています。そのため、強固に作られた（そして強固に文書化された）ツールが必要になりました。",
+    "Most of the tools and processes were developed over the years via reverse engineering and from watching various talks by Mobius devs.": "ツールやプロセスのほとんどは、リバースエンジニアリングやメビウスの開発者たちのさまざまな講演を見て、何年もかけて開発したものだ。",
+    "For example, I made my own mesh batcher some time ago, and it's probably been tested the most in this jam, which definitely took some iteration.": "例えば、僕は少し前にメッシュバッチャーを自作したんだけど、おそらく今回のジャムで一番テストされたのはそれだと思う。",
+    "There is a private GitHub repository called outer-wilds-unity-assets that houses all of these tools and proper editor configuration, and an associated public wiki to document everything.": "outer-wilds-unity-assetsというプライベートなGitHubリポジトリがあり、そこにこれらのツールや適切なエディタ設定がすべて格納されている。",
+    "The most interesting difference in comparison to a tight studio like Mobius is that the docs need to be written for any potential user (and many of them), so every tutorial needs pretty heavy detail.": "メビウスのようなタイトなスタジオと比較して最も興味深い違いは、あらゆる潜在的なユーザー（そして多くのユーザー）のためにドキュメントを書く必要があることだ。",
+    "In the end, the general process is to have a \"mod project\" for the source code/NH assets/editor AssetBundles, and then another \"Unity project\" that is opened in editor. We build bundles to the mod project and build THAT into the mods folder where it's loaded in game.": "最終的に、一般的なプロセスは、ソースコード/NHアセット/エディターAssetBundles用の \"MODプロジェクト \"と、エディターで開かれる別の \"Unityプロジェクト \"を持つことです。私たちはMODプロジェクトにバンドルをビルドし、ゲーム内でロードされるMODフォルダにそれをビルドします。",
+    
+    //WalkerIntro
+    "Walker Introduction": "ウォーカー紹介",
+    "Hello, I'm Walker! I was the primary designer on the development team. You may know me from my mod Astral Codec or from my work on previous jam entries.": "こんにちは、ウォーカーです！開発チームの主要デザイナーでした。僕のMOD「Astral Codec」や、以前のジャム・エントリーでの仕事で知っているかもしれないね。",
+    "Apart from doing most of the mod's design, I was also responsible for a chunk of the programming, all of the shiplogs, a few of the structures, and organizing all of our playtests. I also created the developer commentary system you're reading right now!": "MODのデザインのほとんどを担当した他に、私はプログラミングの一部、シップログのすべて、構造のいくつか、そしてプレイテストの整理も担当した。あなたが今読んでいる開発者コメントシステムも私が作った！",
+    "You can find my commentary on <![CDATA[<color=orange>orange</color>]]> orbs across most of the mod's points of interest where I'll be talking about the design of the mod and how it evolved over time.": "私の解説は、<![CDATA[<color=orange>orange</color>]]>オーブの上で、MODのデザインについて、そしてMODが時間とともにどのように進化していったかについて、MODの注目ポイントのほとんどで見ることができる。",
+    
+    //WarpPadCode
+    "One Transmitter Multiple Receivers": "1台のトランスミッター 複数のレシーバー",
+    "Author: JohnCorby --- Subject: One Transmitter, Multiple Receivers": "著者JohnCorby --- 件名1つの送信機、複数の受信機",
+    "Although base game allows multiple transmitters to share one receiver, the opposite is not true.": "ベースゲームでは複数の送信機が1つの受信機を共有できるが、その逆は真ではない。",
+    "I coded this in the silliest way possible in that I just do the alignment check on every receiver to see if it aligns with the transmitter, and then tell the transmitter to do its regular logic on that one.": "私はこれを可能な限り愚かな方法でコード化した。つまり、すべての受信機でアライメントチェックを行い、送信機とアライメントしているかどうかを確認し、送信機に通常のロジックを行うように指示するだけだ。",
+    "Yes, this means the alignment check runs twice. It works!": "そう、これはアライメントチェックが2回実行されることを意味する。うまくいくよ！",
+    
+    //WarpReceiverDesign
+    "Warp Receiver": "ワープ受信機",
+    "Author: Walker --- Subject: Warp Receiver": "著者ウォーカー --- 件名ワープ受信機",
+    "This structure presented a couple interesting design challenges. The primary one was that we wanted exploring the exterior to be slightly inconvenient so that it actually feels like a prank pulled by a Nomai. However, I didn't want exploring it to be so inconvenient that it would actually frustrate players.": "この構造には、いくつかの興味深いデザイン上の課題があった。その第一は、外観を探索するのが少し不便で、実際にノマイのイタズラのように感じられるようにしたかったことだ。しかし、あまりに不便すぎてプレイヤーをイライラさせるようなことにはしたくなかった。",
+    "To achieve this, I gave the structure multiple doors, each of which the player must check individually. However, it is immediately obvious when looking in from outside what each door contains.": "そのため、構造体に複数のドアを設け、プレイヤーがそれぞれをチェックするようにした。しかし、外から中を見れば、それぞれのドアに何が入っているかは一目瞭然だ。",
+    "The structure is also intentionally a little silly with all of its stairs and lights to make it feel more like a hastily thrown-together prank rather than a serious attempt at architecture.": "また、階段や照明など、意図的に少し馬鹿げた構造になっているため、真面目に建築を試みたというよりは、急ごしらえの悪ふざけのように感じられる。",
+    "One issue we encountered was that some players would see the warp receiver and immediately leave to without finding the Nomai text. This left their ship log in an awkward state where they just had a rumor entry for a structure they had already solved the puzzle of.": "私たちが遭遇した問題のひとつは、ワープレシーバーが表示されても、ノマイのテキストを見つけられずにすぐに離脱してしまうプレイヤーがいたことです。そのため、すでに謎を解いたはずの建造物の噂が記録されるだけで、船のログがぎこちない状態になってしまうのです。",
+    "I solved this after the end of the jam by adjusting the ship log and adding these arches outside the structure which provide an indication of which door is most important.": "ジャム終了後、私は船ログを調整し、どのドアが最も重要かを示すアーチを構造物の外側に追加することでこれを解決した。",
+    
+    //Writing
+    "Writing and Narrative": "ライティングと物語",
+    "Author: coderCleric --- Subject: Writing": "著者：CoderCleric ---件名：執筆",
+    "Story": "ストーリー",
+    "Puzzle hint adjustments": "パズルのヒント調整",
+    "While I was in charge of most of the writing, the actual story of the mod was made collaboratively.": "執筆の大半は私が担当したが、MODの実際のストーリーは共同で作られた。",
+    "We decided pretty early on that we wanted the mod to be pretty low-stakes, which is where the idea for the system to be a class project came from.": "私たちはかなり早い段階から、この改造をかなり低負荷なものにしたいと決めていて、システムをクラスのプロジェクトにするというアイデアはそこから生まれた。",
+    "Once we had decided on the overall concept, we started establishing the personalities of the different characters. Naturally, we also made sure that the puzzles and hints tied into the story in a way that made sense.": "全体的なコンセプトが決まってから、さまざまなキャラクターの個性を確立していきました。もちろん、パズルやヒントがストーリーにうまく絡むようにしました。",
+    "From there the rest of the story came fairly naturally. Due to the mod being for a jam, and the low-stakes nature of the plot, the rest of the story was mostly decided on-the-spot. It was a lot of fun to write!": "そこからストーリーの続きはごく自然に決まっていった。ジャム用の改造であったことと、プロットの危険度が低かったことから、物語の続きはほとんどその場で決まった。書いていてとても楽しかった！",
+    "One thing that developed a lot throughout development were the actual hints to all of the different puzzles.": "開発を通じて大きく発展したことのひとつが、さまざまなパズルの実際のヒントだ。",
+    "We started on the cautious side, with the texts stating what the player needed to do to solve the puzzles fairly plainly. Throughout playtesting we were able to determine what hints could be relaxed and made more vague.": "最初は慎重に、プレイヤーがパズルを解くために必要なことを、かなりわかりやすくテキストに記載しました。プレイテストを通じて、どのようなヒントをもっと曖昧にすればいいかを判断することができました。",
+    "Naturally, the texts and hints you see in the mod now are what we landed on in the end. They're a pretty good difficulty, as most players seem to solve the puzzles at a good pace. More importantly, players seem to have a good sense of accomplishment when they solve the puzzles.": "当然ながら、現在MODに表示されているテキストとヒントは、最終的に私たちがたどり着いたものです。ほとんどのプレーヤーがテンポよく解いているようなので、なかなかいい難易度だと思います。何より、解けたときの達成感がいいようです。"
+  },
+
+
+  "ShipLogDictionary": {
+    //walker_jam5_planet1
+    "Signal Detector": "信号検出器",
+    "A Nomai named Adonsonia created a puzzle involving detecting signals. She locked the fifth requirement for a project behind solving it.": "アドンソニアという名のノマイが、信号を検出するパズルを作った。彼女はこのパズルを解くために、プロジェクトの第5条件をロックした。",
+    "Warp Transmitter": "ワープ送信機",
+    "A warp transmitter on the equator of Shattered Geode. A Nomai named Daucus modified it to link with both receivers on the other planets in the system.": "シャッタード・ジオードの赤道上にあるワープ送信機。Daucusという名のノマイ人が、星系内の他の惑星の受信機とリンクするように改造した。",
+    "Quantum Rock": "クォンタム・ロック",
+    "A quantum rock located in a structure facing the sun on Shattered Geode. There is a large skylight in the ceiling. A Nomai named Betula theorized about where the stone might go when it disappears. The stone took a recorder with it when it disappeared.": "シャッタード・ジオードの太陽に面した建造物にある量子岩。天井には大きな天窓がある。ベチュラという名のノマイ人は、この石が消えるときにどこへ行くかを理論的に考えていた。その石は消えるときにレコーダーを持っていった。",
+    
+    //walker_jam5_planet2
+    "Tall Tower": "トールタワー",
+    "A tall tower on the surface of The Big One. The planet's gravity is far too strong to reach the top.": "ビッグ・ワンの地表にある高い塔。この惑星の重力はあまりにも強く、頂上まで到達することはできない。",
+    "Ghost Matter Cave": "ゴースト・マター・ケイブ",
+    "A cave on the south pole of The Big One. The cave mouth is filled with ghost matter. A Nomai named Alnus noted that ghost matter can be neutralized with water.": "ビッグ・ワンの南極にある洞窟。洞窟の口はゴースト物質で満たされている。アルヌスという名のノマイ人は、ゴースト物質は水で中和できると指摘した。",
+    
+    //walker_jam5_planet3
+    "Buried Structure": "埋設構造",
+    "A mostly buried structure on the south pole of Daucus. A Nomai named Adonsonia theorized about whether the sand could be moved elsewhere.": "ドーカスの南極にあるほとんど埋もれた構造物。アドンソニアという名のノマイ人は、この砂を別の場所に移動させることはできないかと理論的に考えた。",
+    "Enclosed Structure": "密閉構造",
+    "I was able to access the rest of the structure by arriving via the warp receiver.": "ワープ・レシーバー経由で到着することで、残りの構造にアクセスすることができた。",
+    "A structure built around a warp receiver on the equator of Daucus. The structure does not include a door.": "Daucusの赤道上にあるワープ・レシーバーを中心に建てられた建造物。扉はない。",
+    
+    //walker_jam5_planet4
+    "Subsurface Ocean": "地下海洋",
+    "The ice on \"Glacial Abyss!\" is hollow and there is a subsurface ocean below it.": "氷河の深淵！』の氷は空洞で、その下に海がある。",
+    "The ice on \"Glacial Abyss!\" is hollow and I was able to reach the subsurface ocean below it.": "氷河の深淵！』の氷は空洞になっていて、その下の海底まで到達することができた。",
+    "Undersea Warp Receiver": "海底ワープ受信機",
+    "There is a warp receiver near the equator of \"Glacial Abyss!\" on the seabed under the ice.": "氷の下の海底には、「氷河の深淵！」の赤道付近にワープ受信機がある。",
+    "Geysers": "間欠泉",
+    "Nomai noticed geysers beneath the ice on the seabed of \"Glacial Abyss!\" near the north pole. The flow of the geysers prevents entry. A Nomai named Alnus mentioned that thawing the planet had increased its geothermal activity.": "野舞は北極に近い「氷河の深淵！」の海底の氷の下に間欠泉があることに気づいた。間欠泉の流れが進入を妨げているのだ。アルヌスという名のノマイ人は、惑星が融けることで地熱活動が活発になったと話した。",
+    "Planetary Core Display": "惑星コア展示",
+    "Abyssal Core": "アビス・コア",
+    "\"Glacial Abyss!\" has a hollow core connected to the geysers near the north pole. A Nomai teacher wanted her students to see something in the core.": "\"氷河の深淵！\"には、北極付近の間欠泉につながる中空のコアがある。野舞の教師は、生徒たちにコアの中にある何かを見てほしかったのだ。",
+    "\"Glacial Abyss!\" has a hollow core connected to the geysers near the north pole. I was able to reach the core by descending the geysers while the planet was frozen. It contains a viewing area for safely observing the layers of the planet's core.": "\"氷河の深淵！\"には、北極付近の間欠泉とつながった中空のコアがある。私は惑星が凍った状態で間欠泉を降りてコアに到達することができた。そこには、惑星のコアの層を安全に観察するための展望エリアがある。",
+    "The warp transmitter from \"Glacial Abyss!\" to the orrery station is in the core of the planet.": "氷河の深淵！』からオルレリー・ステーションへのワープ送信機は、惑星のコアにある。",
+    "The core of \"Glacial Abyss!\" contains a sealed door. A Nomai computer beside the door states that not all project requirements have been met.": "氷河の深淵！」のコアには封印されたドアがある。ドアの横にあるノマイのコンピューターには、プロジェクトの要件がすべて満たされていないと書かれている。",
+    "Core Orrery Warp Transmitter": "コア・オレリー・ワープ・トランスミッター",
+    "Missing Orrery Warp Transmitter": "行方不明のオーレリー・ワープ・トランスミッター",
+    "The warp transmitter from \"Glacial Abyss!\" to the orrery station isn't on the north pole.": "氷河の深淵！』からオルレリー・ステーションへのワープ送信機は北極にはない。",
+    
+    //walker_jam5_platform
+    "Invitation Platform": "招待プラットフォーム",
+    "I found an invitation platform for a Nomai educational project and festival entry called the Heliostudy.": "ヘリオスタディという野舞の教育プロジェクトとフェスティバルのエントリーのための招待プラットフォームを見つけた。",
+    "The device on the platform can be activated by placing all of the orbs at approximately the same distance from the center. Additionally, the user must not be wearing any space gear. I was warned that the device is highly experimental and likely to break things.": "プラットフォーム上の装置は、すべてのオーブを中心からほぼ同じ距離に置くことで作動させることができる。さらに、使用者は宇宙服を着ていてはならない。この装置は非常に実験的で、物を壊す可能性が高いと警告された。",
+    
+    //walker_jam5_station
+    "Orrery Station": "オルリー駅",
+    "Heliostudy": "ヘリオスタディ",
+    "The system with purple lines and a pale blue star was the subject of an educational project and Nomai festival entry known as the Heliostudy.": "紫色の線と淡い青色の星を持つ星系は、「ヘリオスタディ」として知られる教育プロジェクトや野舞祭への応募の対象となった。",
+    "The station contains an orrery of the system. A Nomai named Oryza claims the system is a scaled-up representation of the orrery.": "このステーションには、システムのオリーリーがある。オリザという名のノマイは、このシステムはオーレリーを拡大したものだと主張している。",
+    "There are warp transmitters connected to the station on the north pole of most planets in the system.": "星系内のほとんどの惑星の北極には、ステーションに接続されたワープ発信機がある。",
+    "A group of Nomai students were assigned a project to prepare this star system to be their clan's entry in a festival. They had to propose 7 requirements that the system would fulfill in order to demonstrate their understanding of the mechanisms of natural star systems.": "野舞の学生グループは、この星系を自分たちの藩のお祭りに出品するために準備するプロジェクトを課された。彼らは、自然星系のメカニズムについての理解を示すために、星系が満たすべき7つの条件を提案しなければならなかった。",
+    
+    "Frozen Planet": "フローズン・プラネット",
+    "First Requirement": "第一条件",
+    "The first of 7 requirements that a Nomai project must meet.": "野舞のプロジェクトが満たさなければならない7つの条件のうちの1つ目。",
+    "By using another astral body's gravity to help me, I was able to reach the top of the tower.": "別のアストラル体の重力を利用して、私は塔の頂上に到達することができた。",
+    "The first requirement is that solid ice must be present on a planet in the system. The system's star is too hot to allow ice to re-freeze even in the furthest orbit. A Nomai named Adonsonia wondered if there may be a way to reduce the heat a planet is exposed to while at the furthest orbit.": "第一の条件は、星系内の惑星に固体の氷が存在することである。星系の恒星は温度が高すぎるため、最も遠い軌道でも氷が再凍結することはない。アドンソニアという名のノマイ人は、最も遠い軌道にある惑星がさらされる熱を下げる方法はないかと考えた。",
+    
+    "Geothermal Activity": "地熱活動",
+    "Second Requirement": "第二の条件",
+    "The second of 7 requirements that a Nomai project must meet.": "野舞のプロジェクトが満たさなければならない7つの条件の2つ目。",
+    "By flooding the planet, I was able to safely enter the cave.": "惑星を水浸しにすることで、私は安全に洞窟に入ることができた。",
+    "The second requirement is that a planet must have exposed geothermal activity.": "二つ目の条件は、惑星が地熱活動を露出していることである。",
+    
+    "Warp Alignment": "ワープ・アライメント",
+    "Third Requirement": "第3の条件",
+    "The third of 7 requirements that a Nomai project must meet.": "野舞プロジェクトが満たさなければならない7つの要件の3つ目。",
+    "The third requirement is for the warp transmitter that does not lead to the orrery station to be aligned with at least one receiver.": "3つ目の条件は、オーレリーステーションにつながらないワープ送信機が、少なくとも1つの受信機とアライメントしていることだ。",
+    
+    "Sand Distribution": "砂の分布",
+    "Fourth Requirement": "第4の条件",
+    "The fourth of 7 requirements that a Nomai project must meet.": "野舞のプロジェクトが満たすべき7つの条件の4つ目。",
+    "By siphoning the sand off the planet using the largest planet in the system, I was able to access the rest of the structure.": "星系最大の惑星を使って砂を吸い上げることで、残りの構造にアクセスすることができた。",
+    "The fourth requirement is that multiple planets in the system must have sand.": "4つ目の条件は、星系内の複数の惑星に砂があること。",
+    
+    "Orbit Sharing": "軌道共有",
+    "Fifth Requirement": "第5の条件",
+    "The fifth of 7 requirements that a Nomai project must meet.": "野舞のプロジェクトが満たすべき7つの条件の5番目。",
+    "Simultaneously scanning all the astral bodies' signals activated a nearby Nomai computer.": "同時にすべてのアストラル体の信号をスキャンし、近くにあったノマイのコンピューターを起動させた。",
+    "The fifth requirement is that any two planets that share an orbit must be on opposite sides of the sun.": "5つ目の条件は、軌道を共有する2つの惑星は太陽の反対側になければならないということだ。",
+    
+    "Mass Distribution": "質量分布",
+    "Sixth Requirement": "第6の条件",
+    "The sixth of 7 requirements that a Nomai project must meet.": "野舞のプロジェクトが満たすべき7つの条件の6番目。",
+    "By blocking the light from the sun, I was able to quantum entangle with the rock to reach a cave below the surface.": "太陽の光を遮ることで、私は岩に量子的に絡みつき、水面下の洞窟にたどり着くことができた。",
+    "The sixth requirement is that the largest planet in the system may not be in the furthest orbit.": "6つ目の条件は、系内で最も大きな惑星が最も遠い軌道に存在しないことである。",
+    
+    "Final Location": "最終場所",
+    "Seventh Requirement": "第7の条件",
+    "The last of 7 requirements that a Nomai project must meet.": "野舞のプロジェクトが満たさなければならない7つの条件の最後。",
+    "Once all six requirements are met, the project must be submitted in the core of \"Glacial Abyss!\". A Nomai named Alnus pointed out that it is impossible to reach the core via the geysers while all the other project requirements are met.": "6つの条件をすべて満たすと、「氷河の深淵！」のコアにプロジェクトを提出しなければならない。アルヌスという名のノマイは、他のプロジェクト要件をすべて満たした状態で間欠泉を経由してコアに到達することは不可能だと指摘した。"
+  },
+  
+  "UIDictionary": {
+    "Walker_Jam5_Star": "ウォーカー_ジャム5_スター",
+    "Walker_Jam5_Planet1": "ウォーカー・ジャム5_プラネット1",
+    "Walker_Jam5_Planet2": "ウォーカー・ジャム5_プラネット2",
+    "Walker_Jam5_Planet3": "ウォーカー・ジャム5_プラネット3",
+    "Walker_Jam5_Planet4": "ウォーカー・ジャム5_プラネット4",
+    "Walker_Jam5_Station": "ウォーカー・ジャム5・ステーション",
+    "Walker_Jam5_Harmonic": "ウォーカー・ジャム5_ハーモニック",
+    "Walker_Jam5_Star_Signal": "ウォーカー_ジャム5_スター_シグナル",
+    "Walker_Jam5_Planet1_Signal": "ウォーカー・ジャム5_プラネット1_シグナル",
+    "Walker_Jam5_Planet2_Signal": "ウォーカー・ジャム5_プラネット2_シグナル",
+    "Walker_Jam5_Planet3_Signal": "ウォーカー・ジャム5_プラネット3_シグナル",
+    "Walker_Jam5_Planet4_Signal": "ウォーカー_ジャム5_プラネット4_シグナル",
+    "REQUIREMENTS_SCREEN_PROMPT": "要件スクリーンプロンプト",
+    "ORB_CANCEL_DRAG_PROMPT": "orb_cancel_drag_prompt",
+    "DEVELOPER_COMMENTARY_WARP_PROMPT": "開発者コメント_ワーププロンプト",
+    "DEVELOPER_COMMENTARY_WARP_UNREAD_PROMPT": "開発者コメント_ワープ_未読プロンプト",
+    "DEVELOPER_COMMENTARY_READ_NOTIFICATION": "developer_commentary_read_notification。",
+    "Heliostudy contains developer commentary that can be enabled from the options menu.\n\nIt is highly recommended to complete the mod before enabling commentary.": "Heliostudyには、オプションメニューから有効にできる開発者のコメントが含まれています。\n\n解説を有効にする前にMODを完成させることを強く推奨する。"
+  },
+
+  "AchievementTranslations": {
+    "Please add manually.": {
+      "Name": "名称",
+      "Description": "説明"
+    }
+  }
+}
