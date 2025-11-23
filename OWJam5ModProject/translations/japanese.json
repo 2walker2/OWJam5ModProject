@@ -129,7 +129,7 @@
     //quantum_hint
     "ALNUS: I found this interesting looking stone on this planet, so I decided to place it in this building.": "ALNUS:この惑星で面白そうな石を見つけたので、この建物に置くことにしたんだ。&lt;i&gt;&lt;/i&gt;",
     "ALNUS: I had just put the stone here, Adonsonia. How did you already steal it?": "ALNUS:私は石をここに置いたばかりだ、Adonsonia。どうやって盗んだんだ？&lt;i&gt;&lt;/i&gt;",
-    "ADONSONIA: I wish I could achieve such a feat, but that wasn't me! I recall an old study on this kind of stone, which concluded that they move when unobserved.": "ADONSONIA:私もそのような偉業を成し遂げたいのですが、それは私ではありません！ この種の石に関する古い研究を思い出します。それによると、観察されていない時に石は動くという結論でした。&lt;i&gt;&lt;/i&gt;",
+    "ADONSONIA: I wish I could achieve such a feat, but that wasn't me! I recall an old study on this kind of stone, which concluded that they move when unobserved.": "ADONSONIA:私もそのような偉業を成し遂げたいのですが、それは私ではありません！この種の石に関する古い研究を思い出します。それによると、観察されていない時に石は動くという結論でした。&lt;i&gt;&lt;/i&gt;",
     "BETULA: That is quite an interesting trait! Do you have any idea where it may go when it's not here?": "BETULA:なかなか興味深い特徴ですね！ここにいないとき、どこに行くのか見当がつきますか？&lt;i&gt;&lt;/i&gt;",
     "ADONSONIA: I'm not sure, to be honest. I don't believe I've seen it anywhere besides here.": "ADONSONIA:正直、よくわかりません。ここ以外では見たことがないと思います。&lt;i&gt;&lt;/i&gt;",
     "ALNUS: I would accuse you of lying if the stone hadn't appeared behind me moments ago (nearly scaring my lower garments off). Unfortunately, it took a recording of mine with it, and it doesn't seem to have brought it back.": "ALNUS:さっき石が私の背後に現れなければ、私はあなたが嘘をついていると非難していただろう（私の下着が脅かされそうになった）。残念なことに、その石は私の録音を持ち去ってしまって、それをここに戻すことはなかった。&lt;i&gt;&lt;/i&gt;",
@@ -137,7 +137,7 @@
     //sand_structure_hint
     "DAUCUS: I must say, Adonsonia, it is impressively lazy that you spent all this time at this structure and have only built this little platform.": "DAUCUS:Adonsonia、この建造物にこれだけの時間を費やしておきながら、こんな小さなプラットフォームしか作っていないとは、見事な怠慢だと言わざるを得ない。&lt;i&gt;&lt;/i&gt;",
     "ADONSONIA: There would be more here, but it seems that somebody has covered the building I've labored for hours on almost entirely in sand!": "ADONSONIA:まだ他にもあるはずなんだけど、私が何時間もかけて建てた建物を、誰かがほとんど砂で覆ってしまったみたいなんだ！&lt;i&gt;&lt;/i&gt;",
-    "BETULA: I apologize — I believe that may be my fault. I wanted us to have a planet approximating a desert, so I placed a large amount of sand on this one without realizing there was a structure already built.": "BETULA:謝ります - それは私のせいだと思う。砂漠に近い惑星を作りたかったので、すでに建造物があることに気づかず、この惑星に大量の砂を敷き詰めてしまいました。&lt;i&gt;&lt;/i&gt;",
+    "BETULA: I apologize — I believe that may be my fault. I wanted us to have a planet approximating a desert, so I placed a large amount of sand on this one without realizing there was a structure already built.": "BETULA:謝ります — それは私のせいだと思う。砂漠に近い惑星を作りたかったので、すでに建造物があることに気づかず、この惑星に大量の砂を敷き詰めてしまいました。&lt;i&gt;&lt;/i&gt;",
     "ADONSONIA: I suppose this is more karma for my own antics than anything else, so I accept your apology. I would appreciate help figuring out a way to get rid of the sand, though. I wonder if there may be some way to move it somewhere else.": "ADONSONIA:これは何よりも自分のふざけた行動に対する罪だと思うので、謝罪は受け入れるよ。砂を取り除く方法を考えるのを手伝ってくれるとありがたいな。何か別の場所に移動させる方法はないだろうか。&lt;i&gt;&lt;/i&gt;",
     "ALNUS: That is so strange, Adonsonia! It's almost as if people interfering with your work isn't terribly fun.": "ALNUS:不思議だね、Adonsonia！まるで自分の仕事を邪魔されるのが面白くないかのようだ。&lt;i&gt;&lt;/i&gt;",
     
@@ -146,7 +146,7 @@
     "ADONSONIA: Would you look at that? It seems that I <![CDATA[<i>unintentionally forgot</i>]]> to put a door on the building. <![CDATA[<i>100% accidental</i>]]>, I can assure you.": "ADONSONIA:あれを見てごらん？建物にドアをつけるのを<![CDATA[<i>意図せず忘れて</i>]]>しまったようです。<![CDATA[<i>100% 偶然です</i>]]>、断言できる。&lt;i&gt;&lt;/i&gt;",
     "ALNUS: Adonsonia, this is no time for your pranks! I left important materials and documents near the warp pad that I can no longer access! How do I get in?!": "ALNUS:Adonsonia、悪ふざけをしている時間はもう無い！ワープパッドの近くに重要な材料や書類を置いてきてしまってもう使うことができない！どうすれば入れる？！&lt;i&gt;&lt;/i&gt;",
     "ADONSONIA: Who can say? Maybe there's no way into the building at all. I suppose you'll just need to figure it out.": "ADONSONIA:誰か分かる？もしかしたら、このビルに入る方法はまったくないのかもしれない。それを解明する必要があるでしょうね。&lt;i&gt;&lt;/i&gt;",
-    "ALNUS: Do you really expect me to believe that you don't know any way in when I can see your salt-treat wrappers inside? (And might I remind you just how rude it is to leave non-disposable waste on the floor!!)": "ALNUS:中にお前の塩菓子の包み紙が見えるのに、中に入る方法をお前が知らないと私が信じると本当に思っているのか？(使い捨てでないゴミを床に放置することがどれほど失礼なことか、思い知らせてやろうか！！）。&lt;i&gt;&lt;/i&gt;",
+    "ALNUS: Do you really expect me to believe that you don't know any way in when I can see your salt-treat wrappers inside? (And might I remind you just how rude it is to leave non-disposable waste on the floor!!)": "ALNUS:中にお前の塩菓子の包み紙が見えるのに、中に入る方法をお前が知らないと私が信じると本当に思っているのか？(使い捨てでないゴミを床に放置することがどれほど失礼なことか、思い知らせてやろうか！！）&lt;i&gt;&lt;/i&gt;",
     "BETULA: Alnus, I'm sure that there's some way to get into the building, don't worry.": "BETULA:Alnus、建物に入る方法はきっとあるはずだから、心配しないで。&lt;i&gt;&lt;/i&gt;",
     
     //tower_ascension_hint
@@ -189,7 +189,7 @@
     //big_planet_name
     "ADONSONIA: This massive sphere shall be known as... <![CDATA[<color=orange>The Big One</color>]]>!": "ADONSONIA:この巨大な球体は...<![CDATA[<color=orange>ビッグ・ワン</color>]]>としよう！&lt;i&gt;&lt;/i&gt;",
     "ALNUS: Is that all you could come up with?": "ALNUS:それだけしか考えつかなかったのか？&lt;i&gt;&lt;/i&gt;",
-    "ADONSONIA: Alnus, aren't you always telling me to be more practical? This is just my (totally, <![CDATA[<i>entirely</i>]]> earnest) attempt to appease you.": "ADONSONIA:Alnus, もっと現実的になれって、あなたいつも私に言ってるでしょ？これは、あなたをなだめようとする私の（まったく、<![CDATA[<i>完全に</i>]]>真剣な）試みよ。&lt;i&gt;&lt;/i&gt;",
+    "ADONSONIA: Alnus, aren't you always telling me to be more practical? This is just my (totally, <![CDATA[<i>entirely</i>]]> earnest) attempt to appease you.": "ADONSONIA:Alnus、もっと現実的になれって、あなたいつも私に言ってるでしょ？これは、あなたをなだめようとする私の（まったく、<![CDATA[<i>完全に</i>]]>真剣な）試みよ。&lt;i&gt;&lt;/i&gt;",
     "DAUCUS: That should be easy to remember, I suppose.": "DAUCUS:覚えておくには簡単だと思うよ。&lt;i&gt;&lt;/i&gt;",
     
     //crystal_planet_name
@@ -241,7 +241,7 @@
     "ALNUS: All things considered, that is not the worst planet name that has been chosen for this project.": "ALNUS:総合的に考えて、このプロジェクトに選ばれた惑星の名前としては最悪ではない。&lt;i&gt;&lt;/i&gt;",
     
     //student_names
-    "Heliostudy team members": "Heliostudy・チームメンバー",
+    "Heliostudy team members": "Heliostudy チームメンバー",
     "Alnus": "Alnus",
     "Betula": "Betula",
     "Daucus": "Daucus",
