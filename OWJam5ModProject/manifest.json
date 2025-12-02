@@ -4,7 +4,7 @@
   "author": "coderCleric, Lezzlebit, 2walker2, JohnCorby",
   "name": "Heliostudy",
   "uniqueName": "2walker2.OWJam5ModProject",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "owmlVersion": "2.15.1",
   "dependencies": [ "xen.NewHorizons", "xen-42.ModJam5" ],
   "conflicts": ["Raicuparta.QuantumSpaceBuddies"]
