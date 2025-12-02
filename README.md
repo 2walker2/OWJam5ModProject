@@ -25,3 +25,4 @@ And translated by:
 * Barirn: Korean
 * LaraNanuq: French
 * HanSoloCh: Russian
+* Nepyanagi: Japanese
