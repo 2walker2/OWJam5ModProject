@@ -1,12 +1,12 @@
 {
-//选项菜单中有两处翻译文本不生效。
+//选项菜单中有两处文本不生效。
   "UIDictionary": {
     "Walker_Jam5_Star": "日心研究",
     "Walker_Jam5_Planet1": "破碎晶洞",
     "Walker_Jam5_Planet2": "大个子",
     "Walker_Jam5_Planet3": "道库斯",
     "Walker_Jam5_Planet4": "冰川深渊！",
-    "Walker_Jam5_Station": "天象仪站",
+    "Walker_Jam5_Station": "天体仪站",
 
     "Walker_Jam5_Harmonic": "日心谐音",
     "Walker_Jam5_Star_Signal": "日心中央",
@@ -15,7 +15,7 @@
     "Walker_Jam5_Planet3_Signal": "道库斯",
     "Walker_Jam5_Planet4_Signal": "冰川深渊！",
 
-    "REQUIREMENTS_SCREEN_PROMPT": "1. 系统中至少一颗行星中存在固态冰。\n2. 至少一颗行星有地热活动。\n3. 不通往天象仪的黑洞跃迁平台需至少校准一个白洞跃迁平台。\n4. 多颗行星需存在沙质地貌。\n5. 共享轨道的两颗行星必须位于太阳两侧。\n6. 系统中最大行星不得位于最远轨道。",
+    "REQUIREMENTS_SCREEN_PROMPT": "1. 系统中至少一颗行星中存在固态冰。\n2. 至少一颗行星有地热活动。\n3. 不通往天体仪的黑洞跃迁平台需至少校准一个白洞跃迁平台。\n4. 多颗行星需存在沙质地貌。\n5. 共享轨道的两颗行星必须位于太阳两侧。\n6. 系统中最大行星不得位于最远轨道。",
     "ORB_CANCEL_DRAG_PROMPT": "释放球体",
     "DEVELOPER_COMMENTARY_WARP_PROMPT": "跃迁至解说",
     "DEVELOPER_COMMENTARY_WARP_UNREAD_PROMPT": "跃迁至未读解说",
@@ -65,7 +65,7 @@
     "It was actually the influence of our old teacher, Oryza, that led to me becoming a teacher. She was able to convince me to put more effort into my studies, something that I am now very thankful for whenever a student comes to me with questions.": "实际上，在奥丽莎老师的影响下，我选择成为了一名教师。她说服我更努力学习，现在每当有学生向我提问时我都非常感激她。",
     "Outside of standard teaching duties, I've also been aiding in communications between us Nomai and other species. Some other teachers and I have even created an inter-species teacher association to aid in the spread of different people's knowledge.": "除了教学，我还协助挪麦人与其他物种的交流。和其他老师创建了跨物种教师协会促进知识传播。",
     "Lately things have been a bit more difficult, what with the universe coming to an end and all. The students are actually doing fairly well emotionally speaking, but you would not believe the number of them who try to make existential arguments for missing assignments!": "最近，发现即将宇宙终结让教学工作变得更难了。情绪上，学生们还好，但你会惊讶有多少人用存在主义为缺作业辩解！",
-    "Device... Ah, that old thing! That's an old prototype for the orrery used in our project. We found it lying around at some point during our work, and decided to see if we could get into some mischief with it.": "装置...啊，那个老古董！是我们项目用的天象仪原型。我们工作时偶然发现了它，决定用它搞点恶作剧。",
+    "Device... Ah, that old thing! That's an old prototype for the orrery used in our project. We found it lying around at some point during our work, and decided to see if we could get into some mischief with it.": "装置...啊，那个老古董！是我们项目用的天体仪原型。我们工作时偶然发现了它，决定用它搞点恶作剧。",
     "Daucus was able to hack it to become responsive if certain conditions were met, so that we could use it without the adults becoming aware of its functional state.": "道库斯黑入它使其在特定条件下响应，这样我们使用时大人们不会知道它能用。",
     "...Unfortunately, it proved to be highly unstable and dangerous. I really shouldn't tell you how to activate it. I have learned some responsibility over the years, after all.": "...不幸的是它极不稳定危险。我真的不该告诉你激活方法。毕竟这些年我学会了些责任感。",
     "...Oh, alright, but don't claim that I didn't warn you. You should exercise extreme caution around that device — it's quite possible for it to <![CDATA[<color=red>break things</color>]]> and not function entirely as expected.": "...好吧，但别说我没警告你。要非常小心——它很可能<![CDATA[<color=red>破坏东西</color>]]>且不完全按预期运作。",
@@ -143,7 +143,7 @@
     "BETULA: With this substance and this planet's gravity, <![CDATA[<color=orange>The Big One</color>]]> may be the most dangerous planet in this system!": "贝图拉: 加上这种物质和这个星球的重力，<![CDATA[<color=orange>大个子</color>]]>可能是这个星系最危险的行星！",
 
     //missing_transmitter_hint.xml
-    "BETULA: Oryza said that each planet would have a warp transmitter on its north pole that leads to the orrery station, but I don't see one here.": "贝图拉: 奥丽莎说每颗行星北极都会有通向天象仪的传送器，但我在这里没看到。",
+    "BETULA: Oryza said that each planet would have a warp transmitter on its north pole that leads to the orrery station, but I don't see one here.": "贝图拉: 奥丽莎说每颗行星北极都会有通向天体仪的传送器，但我在这里没看到。",
     "ALNUS: I suppose she only said that <![CDATA[<i>most</i>]]> of the transmitters would be on the north pole. Perhaps this one is somewhere else.": "阿尔努斯: 我想她只说<![CDATA[<i>大多数</i>]]>传送器在北极。也许这个在别处。",
     "DAUCUS: That's irritating. Lack of access to this planet's transmitter will make travel much more difficult.": "道库斯: 真烦人。无法使用这个星球的传送器会让旅行困难得多。",
 
@@ -212,7 +212,7 @@
     "ORYZA: Hello, students! As I mentioned in class the other day, our clan is hoping for you all to take part in our entry for the upcoming festival. Welcome to our entry!": "奥丽莎: 同学们好！如课上所说，我们家族希望你们参与即将到来的发现节参赛作品。欢迎来到我们的项目！",
     "ORYZA: We've decided to focus on education for this festival, which is where you all are going to come in! This entire star system is actually an educational device made to help students like yourselves understand how such a system works.": "奥丽莎: 我们决定以教育为主题，这就是你们要参与的！整个恒星系统其实是帮助你们理解系统运作的教育装置。",
     "ORYZA: As you can see below you, a number of different planets have been prepared for you to work with. You are free to build on and reshape these planets as you see fit, in order to create a system that demonstrates your understanding. Think of yourself as... architects!": "奥丽莎: 如你们所见，这里已准备好多个行星供你们改造。可以自由建造、重塑以创建展示你们理解的系统。把自己当作...建筑师！",
-    "ORYZA: At the center of this platform is the orrery, a vital tool in your shaping of this system. While an orrery is normally a <![CDATA[<Color=orange>]]>miniature<![CDATA[</Color>]]> representation of a star system, it is more accurate in this case to say that the star system is a scaled-up representation of the orrery!": "奥丽莎: 平台中央是天象仪，是塑造系统的关键工具。通常天象仪是恒星系统的<![CDATA[<Color=orange>]]>微缩<![CDATA[</Color>]]>模型，但这里更准确地说，恒星系统是放大了的天象仪！",
+    "ORYZA: At the center of this platform is the orrery, a vital tool in your shaping of this system. While an orrery is normally a <![CDATA[<Color=orange>]]>miniature<![CDATA[</Color>]]> representation of a star system, it is more accurate in this case to say that the star system is a scaled-up representation of the orrery!": "奥丽莎: 平台中央是天体仪，是塑造系统的关键工具。通常天体仪是恒星系统的<![CDATA[<Color=orange>]]>微缩<![CDATA[</Color>]]>模型，但这里更准确地说，恒星系统是放大了的天体仪！",
     "ORYZA: That may be a bit confusing, but I'll leave it to you all to discover what I mean by that! To make navigation easier in this system, we've placed warp transmitters on each planet (mostly on the north pole) that will bring you to and from this station.": "奥丽莎: 可能有点困惑，但让你们自己发现含义吧！为方便导航，我们在每颗行星(主要在北极)放置了传送器以往返本站。",
     "ORYZA: You will have finite resources for this project, so make sure to use them with care. Other than that, have fun! You will all be given approximately two weeks to complete your project before it is submitted to the festival, so just make sure to have everything done by then.": "奥丽莎: 项目资源有限，请谨慎使用。除此之外，玩得开心！约有两周时间完成项目提交发现节参展，请确保按时完成。",
     "ORYZA: Oh, and one last thing. Since this is meant to demonstrate your understanding of star systems, I'll need you to tell me seven different requirements that your system will fulfill to be similar to a real star system. This is a <![CDATA[<i>graded</i>]]> project after all. Have fun, little ones!": "奥丽莎: 还有最后一件事。为展示对恒星系统的理解，需要列出系统满足的七个类似真实恒星系统的条件。这毕竟是<![CDATA[<i>计分</i>]]>项目。玩得开心，小家伙们！",
@@ -243,7 +243,7 @@
     //house_flavor_recording.xml
     "DAUCUS: Why are we keeping our beds here of all places? It's quite cold and not terribly comfortable.": "道库斯: 为什么把床放在这里？很冷又不舒服。",
     "ADONSONIA: It isn't that cold, Daucus. Since when were you so sensitive to the cold?": "阿多索尼娅: 没那么冷，道库斯。你什么时候这么怕冷了？",
-    "ALNUS: I'm tempted to agree with Daucus. The orrery station has its own climate control — could we not just stay there?": "阿尔努斯: 我倾向于同意道库斯。天象仪站有气候控制——不能住那里吗？",
+    "ALNUS: I'm tempted to agree with Daucus. The orrery station has its own climate control — could we not just stay there?": "阿尔努斯: 我倾向于同意道库斯。天体仪站有气候控制——不能住那里吗？",
     "BETULA: We're meant to care for this system. How can we properly care for it if we're unwilling to even sleep in it!?": "贝图拉: 我们要照料这个系统。如果连睡在这里都不愿意，怎么好好照料它！？",
     "BETULA: Additionally, look above you! The view of the stars through the aurora is breathtaking!": "贝图拉: 而且看看头顶！极光中的星空美得令人窒息！",
     "ALNUS: I suppose that much at least is true.": "阿尔努斯: 我想至少这点没错。",
@@ -255,7 +255,7 @@
     "ADONSONIA: Then it's a deal! Let's get the fire started, everyone!": "阿多索尼娅: 那就说定了！大家来生火吧！",
 
     //platform_computer.xml
-    "<![CDATA[<color=red>]]>WARNING:<![CDATA[</color>]]> THIS EXPERIMENTAL ORRERY IS NOW ACTIVE. User is fully responsible for any damage caused by using this device. (You will break things.)": "<![CDATA[<color=red>]]>警告：<![CDATA[</color>]]>实验性天象仪已激活。使用者对使用造成的任何损坏负全责。(你会弄坏东西。)",
+    "<![CDATA[<color=red>]]>WARNING:<![CDATA[</color>]]> THIS EXPERIMENTAL ORRERY IS NOW ACTIVE. User is fully responsible for any damage caused by using this device. (You will break things.)": "<![CDATA[<color=red>]]>警告：<![CDATA[</color>]]>实验性天体仪已激活。使用者对使用造成的任何损坏负全责。(你会弄坏东西。)",
 
     //sand_planet_name.xml
     "BETULA: Daucus, have you decided on a name for this planet yet?": "贝图拉: 道库斯，想好这颗行星的名字了吗？",
@@ -376,10 +376,10 @@
     "Abyssal Core": "深渊核心",
     "\"Glacial Abyss!\" has a hollow core connected to the geysers near the north pole. A Nomai teacher wanted her students to see something in the core.": "\"冰川深渊！\"存在连接北极间歇泉的中空核心。一位挪麦人教师希望学生观察核心内的某物。",
     "\"Glacial Abyss!\" has a hollow core connected to the geysers near the north pole. I was able to reach the core by descending the geysers while the planet was frozen. It contains a viewing area for safely observing the layers of the planet.": "\"冰川深渊！\"有一个连接北极间歇泉的中空核心。我在行星冻结时通过间歇泉到达了核心。那里有一个安全观察行星各层的观景台。",
-    "Core Orrery Warp Transmitter": "核心天象仪跃迁平台",
-    "Missing Orrery Warp Transmitter": "丢失的核心天象仪跃迁平台",
-    "The warp transmitter from \"Glacial Abyss!\" to the orrery station isn't on the north pole.": "从\"冰川深渊！\"到天象仪站的黑洞跃迁平台不在北极。",
-    "The warp transmitter from \"Glacial Abyss!\" to the orrery station is in the core of the planet.": "从\"冰川深渊！\"通往天象仪的黑洞跃迁平台位于行星核心。",
+    "Core Orrery Warp Transmitter": "核心天体仪跃迁平台",
+    "Missing Orrery Warp Transmitter": "丢失的核心天体仪跃迁平台",
+    "The warp transmitter from \"Glacial Abyss!\" to the orrery station isn't on the north pole.": "从\"冰川深渊！\"到天体仪站的黑洞跃迁平台不在北极。",
+    "The warp transmitter from \"Glacial Abyss!\" to the orrery station is in the core of the planet.": "从\"冰川深渊！\"通往天体仪的黑洞跃迁平台位于行星核心。",
     "The core of \"Glacial Abyss!\" contains a sealed door. A Nomai computer beside the door states that not all project requirements have been met.": "\"冰川深渊！\"核心有一扇密封的门，旁边的挪麦电脑显示“未能满足全部项目条件”。",
 
     //walker_jam5_platform.xml
@@ -388,11 +388,11 @@
     "The device on the platform can be activated by placing all of the orbs at approximately the same distance from the center. Additionally, the user must not be wearing any space gear. I was warned that the device is highly experimental and likely to break things.": "将全部球体置于与中心等距处可激活平台装置，且使用者不得穿戴太空装备。该装置具有高度实验性，可能造成破坏。",
 
     //walker_jam5_station.xml
-    "Orrery Station": "天象仪站",
+    "Orrery Station": "天体仪站",
     "Heliostudy": "日心研究",
     "The system with purple lines and a pale blue star was the subject of an educational project and Nomai festival entry known as the Heliostudy.": "这个带紫色线条和淡蓝色恒星的系统是教育项目兼发现节发现节参赛作品\"日心研究\"的研究对象。",
 
-    "The station contains an orrery of the system. A Nomai named Oryza claims the system is a scaled-up representation of the orrery.": "空间站包含这个系统的天象仪。名为奥丽莎的挪麦人声称整个系统是天象仪的放大版。",
+    "The station contains an orrery of the system. A Nomai named Oryza claims the system is a scaled-up representation of the orrery.": "空间站包含这个系统的天体仪。名为奥丽莎的挪麦人声称整个系统是天体仪的放大版。",
     "There are warp transmitters connected to the station on the north pole of most planets in the system.": "系统中多数行星的北极都有连接该站的黑洞跃迁平台。",
     "A group of Nomai students were assigned a project to prepare this star system to be their clan's entry in a festival. They had to propose 7 requirements that the system would fulfill in order to demonstrate their understanding of the mechanisms of natural star systems.": "一组挪麦人学生负责将这个星系改造为家族发现节的参赛作品。他们需提出七项系统需满足的条件，以展示对自然星系机制的理解。",
 
@@ -410,7 +410,7 @@
     "Warp Alignment": "跃迁校准",
     "Third Requirement": "第三个条件",
     "The third of 7 requirements that a Nomai project must meet.": "第三个项目需满足的条件。",
-    "The third requirement is for the warp transmitter that does not lead to the orrery station to be aligned with at least one receiver.": "第三个条件：不通往天象仪的黑洞跃迁平台需至少校准一个白洞跃迁平台。",
+    "The third requirement is for the warp transmitter that does not lead to the orrery station to be aligned with at least one receiver.": "第三个条件：不通往天体仪的黑洞跃迁平台需至少校准一个白洞跃迁平台。",
 
     "Sand Distribution": "沙子分布",
     "Fourth Requirement": "第四个条件",
